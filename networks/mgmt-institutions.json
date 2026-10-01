@@ -1,0 +1,3353 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "哈佛大学｜美国",
+        "x": -0.03552109208027437,
+        "y": 0.33561324216047805,
+        "cluster": 2,
+        "weights": {
+          "Documents": 32.0,
+          "Links": 12.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.848528137423857
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2011.65625
+        },
+        "description": "哈佛大学｜美国"
+      },
+      {
+        "id": 2,
+        "label": "麻省理工学院｜美国",
+        "x": -0.09338614863282614,
+        "y": 0.11429877745855894,
+        "cluster": 2,
+        "weights": {
+          "Documents": 21.0,
+          "Links": 19.0,
+          "Total Link Strength": 23.0,
+          "NodeSize": 2.687386354243376
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.904761904762
+        },
+        "description": "麻省理工学院｜美国"
+      },
+      {
+        "id": 3,
+        "label": "密歇根大学｜美国",
+        "x": -0.0210525426147304,
+        "y": -0.034296927947875894,
+        "cluster": 1,
+        "weights": {
+          "Documents": 19.0,
+          "Links": 15.0,
+          "Total Link Strength": 17.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.7894736842106
+        },
+        "description": "密歇根大学｜美国"
+      },
+      {
+        "id": 4,
+        "label": "萨塞克斯大学｜英国",
+        "x": -0.3549133298158064,
+        "y": 0.23528943746882994,
+        "cluster": 3,
+        "weights": {
+          "Documents": 19.0,
+          "Links": 10.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6315789473683
+        },
+        "description": "萨塞克斯大学｜英国"
+      },
+      {
+        "id": 5,
+        "label": "佐治亚理工学院｜美国",
+        "x": -0.034553703234952736,
+        "y": 0.21294451975812,
+        "cluster": 4,
+        "weights": {
+          "Documents": 17.0,
+          "Links": 15.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.8823529411766
+        },
+        "description": "佐治亚理工学院｜美国"
+      },
+      {
+        "id": 6,
+        "label": "宾夕法尼亚州立大学｜美国",
+        "x": -0.22135193293397004,
+        "y": 0.15830035415912816,
+        "cluster": 3,
+        "weights": {
+          "Documents": 17.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4117647058824
+        },
+        "description": "宾夕法尼亚州立大学｜美国"
+      },
+      {
+        "id": 7,
+        "label": "斯坦福大学｜美国",
+        "x": 0.04551409385485458,
+        "y": 0.22221772003789209,
+        "cluster": 2,
+        "weights": {
+          "Documents": 15.0,
+          "Links": 14.0,
+          "Total Link Strength": 17.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.6
+        },
+        "description": "斯坦福大学｜美国"
+      },
+      {
+        "id": 8,
+        "label": "康奈尔大学｜美国",
+        "x": -0.13837494008097534,
+        "y": 0.05154816871814114,
+        "cluster": 1,
+        "weights": {
+          "Documents": 14.0,
+          "Links": 14.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.9285714285713
+        },
+        "description": "康奈尔大学｜美国"
+      },
+      {
+        "id": 9,
+        "label": "伦敦商学院｜英国",
+        "x": -0.1786608690971671,
+        "y": 0.04115271714472846,
+        "cluster": 1,
+        "weights": {
+          "Documents": 14.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.0
+        },
+        "description": "伦敦商学院｜英国"
+      },
+      {
+        "id": 10,
+        "label": "慕尼黑工业大学｜德国",
+        "x": -0.14857538377763746,
+        "y": 0.4583842671797559,
+        "cluster": 3,
+        "weights": {
+          "Documents": 14.0,
+          "Links": 6.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.357142857143
+        },
+        "description": "慕尼黑工业大学｜德国"
+      },
+      {
+        "id": 11,
+        "label": "科罗拉多大学｜美国",
+        "x": -0.2617432778707427,
+        "y": -0.1690709451205317,
+        "cluster": 1,
+        "weights": {
+          "Documents": 14.0,
+          "Links": 10.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.7142857142858
+        },
+        "description": "科罗拉多大学｜美国"
+      },
+      {
+        "id": 12,
+        "label": "乔治敦大学｜美国",
+        "x": -0.14805255499202213,
+        "y": -0.005117218014850275,
+        "cluster": 1,
+        "weights": {
+          "Documents": 13.0,
+          "Links": 14.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.076923076923
+        },
+        "description": "乔治敦大学｜美国"
+      },
+      {
+        "id": 13,
+        "label": "香港理工大学｜中国",
+        "x": 0.24227756559626418,
+        "y": 0.20610653044750854,
+        "cluster": 5,
+        "weights": {
+          "Documents": 13.0,
+          "Links": 8.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.923076923077
+        },
+        "description": "香港理工大学｜中国"
+      },
+      {
+        "id": 14,
+        "label": "加州大学伯克利分校｜美国",
+        "x": -0.04976890606933511,
+        "y": 0.2957386885520187,
+        "cluster": 4,
+        "weights": {
+          "Documents": 13.0,
+          "Links": 11.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.923076923077
+        },
+        "description": "加州大学伯克利分校｜美国"
+      },
+      {
+        "id": 15,
+        "label": "卡内基梅隆大学｜美国",
+        "x": 0.10576451473693707,
+        "y": 0.24549784435422214,
+        "cluster": 4,
+        "weights": {
+          "Documents": 12.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.0
+        },
+        "description": "卡内基梅隆大学｜美国"
+      },
+      {
+        "id": 16,
+        "label": "鹿特丹伊拉斯姆斯大学｜荷兰",
+        "x": -0.172015226051761,
+        "y": 0.17139676192107933,
+        "cluster": 3,
+        "weights": {
+          "Documents": 12.0,
+          "Links": 7.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.75
+        },
+        "description": "鹿特丹伊拉斯姆斯大学｜荷兰"
+      },
+      {
+        "id": 17,
+        "label": "欧洲工商管理学院｜法国",
+        "x": -0.01761609207209726,
+        "y": 0.13198359796232728,
+        "cluster": 5,
+        "weights": {
+          "Documents": 12.0,
+          "Links": 14.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.0833333333333
+        },
+        "description": "欧洲工商管理学院｜法国"
+      },
+      {
+        "id": 18,
+        "label": "明尼苏达大学｜美国",
+        "x": -0.011362121704612503,
+        "y": 0.07997116248286658,
+        "cluster": 3,
+        "weights": {
+          "Documents": 12.0,
+          "Links": 9.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.75
+        },
+        "description": "明尼苏达大学｜美国"
+      },
+      {
+        "id": 19,
+        "label": "杜克大学｜美国",
+        "x": -0.04193647952513983,
+        "y": -0.08885228015100945,
+        "cluster": 1,
+        "weights": {
+          "Documents": 11.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.4545454545455
+        },
+        "description": "杜克大学｜美国"
+      },
+      {
+        "id": 20,
+        "label": "瑞士联邦理工学院｜瑞士",
+        "x": 0.009664972472542832,
+        "y": 0.31370862715244907,
+        "cluster": 2,
+        "weights": {
+          "Documents": 11.0,
+          "Links": 8.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.8181818181818
+        },
+        "description": "瑞士联邦理工学院｜瑞士"
+      },
+      {
+        "id": 21,
+        "label": "阿姆斯特丹大学｜荷兰",
+        "x": -0.17612421492886257,
+        "y": 0.2531726492447635,
+        "cluster": 2,
+        "weights": {
+          "Documents": 11.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.0
+        },
+        "description": "阿姆斯特丹大学｜荷兰"
+      },
+      {
+        "id": 22,
+        "label": "芝加哥大学｜美国",
+        "x": 0.16278339145836065,
+        "y": 0.35442956397964115,
+        "cluster": 4,
+        "weights": {
+          "Documents": 11.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1818181818182
+        },
+        "description": "芝加哥大学｜美国"
+      },
+      {
+        "id": 23,
+        "label": "伊利诺伊大学｜美国",
+        "x": -0.001860860228203004,
+        "y": 0.19607460468030555,
+        "cluster": 4,
+        "weights": {
+          "Documents": 11.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.1818181818182
+        },
+        "description": "伊利诺伊大学｜美国"
+      },
+      {
+        "id": 24,
+        "label": "曼彻斯特大学｜英国",
+        "x": -0.4995320812879374,
+        "y": 0.07972844383233392,
+        "cluster": 3,
+        "weights": {
+          "Documents": 11.0,
+          "Links": 5.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.4545454545455
+        },
+        "description": "曼彻斯特大学｜英国"
+      },
+      {
+        "id": 25,
+        "label": "亚利桑那州立大学｜美国",
+        "x": -0.2877191714369429,
+        "y": 0.12738585489567691,
+        "cluster": 1,
+        "weights": {
+          "Documents": 10.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6
+        },
+        "description": "亚利桑那州立大学｜美国"
+      },
+      {
+        "id": 26,
+        "label": "加州大学洛杉矶分校｜美国",
+        "x": 0.05387296159637468,
+        "y": 0.09250391548393223,
+        "cluster": 6,
+        "weights": {
+          "Documents": 10.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.3
+        },
+        "description": "加州大学洛杉矶分校｜美国"
+      },
+      {
+        "id": 27,
+        "label": "爱丁堡大学｜英国",
+        "x": -0.46446692540160167,
+        "y": -0.1044050490724261,
+        "cluster": 1,
+        "weights": {
+          "Documents": 10.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.4
+        },
+        "description": "爱丁堡大学｜英国"
+      },
+      {
+        "id": 28,
+        "label": "圣加仑大学｜瑞士",
+        "x": -0.12125207612155028,
+        "y": 0.32876463044592197,
+        "cluster": 2,
+        "weights": {
+          "Documents": 10.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.9
+        },
+        "description": "圣加仑大学｜瑞士"
+      },
+      {
+        "id": 29,
+        "label": "阿尔托大学｜芬兰",
+        "x": -0.2648149198396973,
+        "y": 0.350185897154192,
+        "cluster": 3,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3333333333333
+        },
+        "description": "阿尔托大学｜芬兰"
+      },
+      {
+        "id": 30,
+        "label": "格勒诺布尔管理学院｜法国",
+        "x": -0.3028267449779741,
+        "y": 0.04566563349581469,
+        "cluster": 3,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.3333333333333
+        },
+        "description": "格勒诺布尔管理学院｜法国"
+      },
+      {
+        "id": 31,
+        "label": "伦敦帝国理工学院｜英国",
+        "x": 0.027509166839918373,
+        "y": 0.022785496321165676,
+        "cluster": 2,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.4444444444443
+        },
+        "description": "伦敦帝国理工学院｜英国"
+      },
+      {
+        "id": 32,
+        "label": "马里兰大学｜美国",
+        "x": -0.04278166731434213,
+        "y": 0.5100322791936773,
+        "cluster": 3,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 7.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.5555555555557
+        },
+        "description": "马里兰大学｜美国"
+      },
+      {
+        "id": 33,
+        "label": "牛津大学｜英国",
+        "x": 0.33741999496999725,
+        "y": 0.29669912993077924,
+        "cluster": 2,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.111111111111
+        },
+        "description": "牛津大学｜英国"
+      },
+      {
+        "id": 34,
+        "label": "得克萨斯大学达拉斯分校｜美国",
+        "x": 0.3876974939841874,
+        "y": -0.014151272375496585,
+        "cluster": 5,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.4444444444443
+        },
+        "description": "得克萨斯大学达拉斯分校｜美国"
+      },
+      {
+        "id": 35,
+        "label": "乌得勒支大学｜荷兰",
+        "x": -0.20992189120618368,
+        "y": 0.39041277978741173,
+        "cluster": 3,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.7777777777778
+        },
+        "description": "乌得勒支大学｜荷兰"
+      },
+      {
+        "id": 36,
+        "label": "弗吉尼亚大学｜美国",
+        "x": -0.1557117819084573,
+        "y": -0.1686144398091811,
+        "cluster": 1,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 6.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2011.111111111111
+        },
+        "description": "弗吉尼亚大学｜美国"
+      },
+      {
+        "id": 37,
+        "label": "波士顿大学｜美国",
+        "x": -0.23203517501942847,
+        "y": 0.11454852164407124,
+        "cluster": 3,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.75
+        },
+        "description": "波士顿大学｜美国"
+      },
+      {
+        "id": 38,
+        "label": "乔治华盛顿大学｜美国",
+        "x": 0.15385414562624888,
+        "y": -0.17066244854722706,
+        "cluster": 5,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.375
+        },
+        "description": "乔治华盛顿大学｜美国"
+      },
+      {
+        "id": 39,
+        "label": "新加坡国立大学｜新加坡",
+        "x": 0.0775071315938181,
+        "y": -0.010772653404021098,
+        "cluster": 5,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 13.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.125
+        },
+        "description": "新加坡国立大学｜新加坡"
+      },
+      {
+        "id": 40,
+        "label": "西北大学｜美国",
+        "x": -0.15747743770893083,
+        "y": 0.33309913984316136,
+        "cluster": 4,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 3.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.25
+        },
+        "description": "西北大学｜美国"
+      },
+      {
+        "id": 41,
+        "label": "得克萨斯农工大学｜美国",
+        "x": 0.08869550228617834,
+        "y": 0.060275062830832775,
+        "cluster": 5,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.75
+        },
+        "description": "得克萨斯农工大学｜美国"
+      },
+      {
+        "id": 42,
+        "label": "奥克兰大学｜新西兰",
+        "x": -0.33976426065526055,
+        "y": 0.3942043171692643,
+        "cluster": 4,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.875
+        },
+        "description": "奥克兰大学｜新西兰"
+      },
+      {
+        "id": 43,
+        "label": "宾夕法尼亚大学｜美国",
+        "x": -0.3544213146517561,
+        "y": 0.1385131985789242,
+        "cluster": 7,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.375
+        },
+        "description": "宾夕法尼亚大学｜美国"
+      },
+      {
+        "id": 44,
+        "label": "南加利福尼亚大学｜美国",
+        "x": 0.14034182348443092,
+        "y": -0.020438725998491603,
+        "cluster": 6,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.875
+        },
+        "description": "南加利福尼亚大学｜美国"
+      },
+      {
+        "id": 45,
+        "label": "耶鲁大学｜美国",
+        "x": -0.05946132432505082,
+        "y": -0.27240783610379954,
+        "cluster": 1,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 5.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.75
+        },
+        "description": "耶鲁大学｜美国"
+      },
+      {
+        "id": 46,
+        "label": "印第安纳大学｜美国",
+        "x": -0.1232627317336587,
+        "y": -0.07481359041942538,
+        "cluster": 1,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.2857142857142
+        },
+        "description": "印第安纳大学｜美国"
+      },
+      {
+        "id": 47,
+        "label": "麦吉尔大学｜加拿大",
+        "x": 0.13184990721364448,
+        "y": 0.1196925677635419,
+        "cluster": 5,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4285714285713
+        },
+        "description": "麦吉尔大学｜加拿大"
+      },
+      {
+        "id": 48,
+        "label": "美国国家经济研究局｜美国",
+        "x": -0.06729079045493937,
+        "y": -0.030122553702193387,
+        "cluster": 2,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "美国国家经济研究局｜美国"
+      },
+      {
+        "id": 49,
+        "label": "纽约大学｜美国",
+        "x": 0.05964066444032859,
+        "y": -0.062214506999668226,
+        "cluster": 2,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 9.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "纽约大学｜美国"
+      },
+      {
+        "id": 50,
+        "label": "波特兰州立大学｜美国",
+        "x": -0.3422347067744907,
+        "y": -0.3184829791880779,
+        "cluster": 1,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 4.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.2857142857142
+        },
+        "description": "波特兰州立大学｜美国"
+      },
+      {
+        "id": 51,
+        "label": "西蒙菲莎大学｜加拿大",
+        "x": -0.3929647597916458,
+        "y": -0.21838403646909177,
+        "cluster": 1,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 4.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.2857142857142
+        },
+        "description": "西蒙菲莎大学｜加拿大"
+      },
+      {
+        "id": 52,
+        "label": "新加坡管理大学｜新加坡",
+        "x": 0.04404617074112081,
+        "y": -0.12029038485689388,
+        "cluster": 5,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.5714285714287
+        },
+        "description": "新加坡管理大学｜新加坡"
+      },
+      {
+        "id": 53,
+        "label": "剑桥大学｜英国",
+        "x": -0.07844444269977949,
+        "y": 0.38970511923192425,
+        "cluster": 3,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4285714285713
+        },
+        "description": "剑桥大学｜英国"
+      },
+      {
+        "id": 54,
+        "label": "佐治亚大学｜美国",
+        "x": -0.23423807044449046,
+        "y": -0.06444996190066564,
+        "cluster": 1,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.7142857142858
+        },
+        "description": "佐治亚大学｜美国"
+      },
+      {
+        "id": 55,
+        "label": "俄勒冈大学｜美国",
+        "x": -0.3288255000495515,
+        "y": -0.09191705402501388,
+        "cluster": 1,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.142857142857
+        },
+        "description": "俄勒冈大学｜美国"
+      },
+      {
+        "id": 56,
+        "label": "威斯康星大学｜美国",
+        "x": 0.07758956671289031,
+        "y": 0.2811386276756986,
+        "cluster": 4,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 8.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.4285714285713
+        },
+        "description": "威斯康星大学｜美国"
+      },
+      {
+        "id": 57,
+        "label": "埃因霍温理工大学｜荷兰",
+        "x": -0.023484021430980974,
+        "y": 0.4232535285489397,
+        "cluster": 4,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1666666666667
+        },
+        "description": "埃因霍温理工大学｜荷兰"
+      },
+      {
+        "id": 58,
+        "label": "复旦大学｜中国",
+        "x": 0.19194151146236094,
+        "y": 0.19979263607947187,
+        "cluster": 5,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.8333333333333
+        },
+        "description": "复旦大学｜中国"
+      },
+      {
+        "id": 59,
+        "label": "南洋理工大学｜新加坡",
+        "x": -0.1894564828397233,
+        "y": -0.09816559788824701,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5
+        },
+        "description": "南洋理工大学｜新加坡"
+      },
+      {
+        "id": 60,
+        "label": "俄亥俄州立大学｜美国",
+        "x": 0.26939745091108674,
+        "y": -0.646,
+        "cluster": 6,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5
+        },
+        "description": "俄亥俄州立大学｜美国"
+      },
+      {
+        "id": 61,
+        "label": "普林斯顿大学｜美国",
+        "x": -0.24871232497709467,
+        "y": 0.487826602211704,
+        "cluster": 4,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6666666666667
+        },
+        "description": "普林斯顿大学｜美国"
+      },
+      {
+        "id": 62,
+        "label": "普渡大学｜美国",
+        "x": 0.1634092872942236,
+        "y": -0.3630612710676738,
+        "cluster": 6,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "普渡大学｜美国"
+      },
+      {
+        "id": 63,
+        "label": "罗格斯大学｜美国",
+        "x": -0.25104656214430865,
+        "y": 0.0515037836889724,
+        "cluster": 7,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.1666666666667
+        },
+        "description": "罗格斯大学｜美国"
+      },
+      {
+        "id": 64,
+        "label": "清华大学｜中国",
+        "x": 0.13550360091185026,
+        "y": 0.07591352669323881,
+        "cluster": 4,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.5
+        },
+        "description": "清华大学｜中国"
+      },
+      {
+        "id": 65,
+        "label": "杜兰大学｜美国",
+        "x": 0.23553677275367874,
+        "y": -0.21152969177100758,
+        "cluster": 5,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.3333333333333
+        },
+        "description": "杜兰大学｜美国"
+      },
+      {
+        "id": 66,
+        "label": "不列颠哥伦比亚大学｜加拿大",
+        "x": -0.02266588649093145,
+        "y": 0.034434255071494876,
+        "cluster": 5,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5
+        },
+        "description": "不列颠哥伦比亚大学｜加拿大"
+      },
+      {
+        "id": 67,
+        "label": "休斯敦大学｜美国",
+        "x": 0.15686370353896004,
+        "y": -0.06048041457486316,
+        "cluster": 2,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "休斯敦大学｜美国"
+      },
+      {
+        "id": 68,
+        "label": "南卡罗来纳大学｜美国",
+        "x": -0.12739781327559557,
+        "y": 0.19680715240135632,
+        "cluster": 4,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.8333333333333
+        },
+        "description": "南卡罗来纳大学｜美国"
+      },
+      {
+        "id": 69,
+        "label": "悉尼大学｜澳大利亚",
+        "x": 0.22530705307538362,
+        "y": -0.03438343327376514,
+        "cluster": 5,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.3333333333333
+        },
+        "description": "悉尼大学｜澳大利亚"
+      },
+      {
+        "id": 70,
+        "label": "田纳西大学｜美国",
+        "x": -0.3985099901802765,
+        "y": 0.31230342642015124,
+        "cluster": 3,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1666666666667
+        },
+        "description": "田纳西大学｜美国"
+      },
+      {
+        "id": 71,
+        "label": "奥尔登堡大学｜德国",
+        "x": 0.06629284221610506,
+        "y": 0.4340105787574358,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6
+        },
+        "description": "奥尔登堡大学｜德国"
+      },
+      {
+        "id": 72,
+        "label": "香港中文大学｜中国",
+        "x": 0.2563938015194779,
+        "y": 0.11618047061591613,
+        "cluster": 6,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.8
+        },
+        "description": "香港中文大学｜中国"
+      },
+      {
+        "id": 73,
+        "label": "科罗拉多州立大学｜美国",
+        "x": -0.24730388746399573,
+        "y": -0.33663871512916693,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6
+        },
+        "description": "科罗拉多州立大学｜美国"
+      },
+      {
+        "id": 74,
+        "label": "哥伦比亚大学｜美国",
+        "x": 0.26742701550919706,
+        "y": 0.06633258575987659,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.8
+        },
+        "description": "哥伦比亚大学｜美国"
+      },
+      {
+        "id": 75,
+        "label": "哥本哈根商学院｜丹麦",
+        "x": -0.3177724695881063,
+        "y": 0.28021480610856514,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.6
+        },
+        "description": "哥本哈根商学院｜丹麦"
+      },
+      {
+        "id": 76,
+        "label": "苏黎世联邦理工学院｜瑞士",
+        "x": -0.06904808189984413,
+        "y": 0.5945918960535108,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.4
+        },
+        "description": "苏黎世联邦理工学院｜瑞士"
+      },
+      {
+        "id": 77,
+        "label": "巴黎高等商学院｜法国",
+        "x": -0.14272990552263776,
+        "y": 0.13884634899066342,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "巴黎高等商学院｜法国"
+      },
+      {
+        "id": 78,
+        "label": "哈佛商学院｜美国",
+        "x": 0.1896508822830078,
+        "y": 0.41406547288417817,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6
+        },
+        "description": "哈佛商学院｜美国"
+      },
+      {
+        "id": 79,
+        "label": "香港科技大学｜中国",
+        "x": 0.24785872958739114,
+        "y": 0.3199997287259353,
+        "cluster": 6,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6
+        },
+        "description": "香港科技大学｜中国"
+      },
+      {
+        "id": 80,
+        "label": "约翰斯·霍普金斯大学｜美国",
+        "x": 0.14300395283777323,
+        "y": -0.09539400840569957,
+        "cluster": 6,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6
+        },
+        "description": "约翰斯·霍普金斯大学｜美国"
+      },
+      {
+        "id": 81,
+        "label": "伦敦国王学院｜英国",
+        "x": -0.3599954944298618,
+        "y": 0.0329653617304537,
+        "cluster": 3,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.2
+        },
+        "description": "伦敦国王学院｜英国"
+      },
+      {
+        "id": 82,
+        "label": "上海交通大学｜中国",
+        "x": 0.36784040364825776,
+        "y": 0.1768573182972332,
+        "cluster": 5,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.8
+        },
+        "description": "上海交通大学｜中国"
+      },
+      {
+        "id": 83,
+        "label": "蒂尔堡大学｜荷兰",
+        "x": 0.17021602373427042,
+        "y": 0.5178212964638957,
+        "cluster": 4,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.8
+        },
+        "description": "蒂尔堡大学｜荷兰"
+      },
+      {
+        "id": 84,
+        "label": "埃克塞特大学｜英国",
+        "x": -0.5524149891174295,
+        "y": -0.14951993978151107,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6
+        },
+        "description": "埃克塞特大学｜英国"
+      },
+      {
+        "id": 85,
+        "label": "佛罗里达大学｜美国",
+        "x": 0.2614637707057974,
+        "y": 0.4128915688477519,
+        "cluster": 5,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6
+        },
+        "description": "佛罗里达大学｜美国"
+      },
+      {
+        "id": 86,
+        "label": "格罗宁根大学｜荷兰",
+        "x": -0.48975637708636105,
+        "y": -0.006597450665233926,
+        "cluster": 7,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.8
+        },
+        "description": "格罗宁根大学｜荷兰"
+      },
+      {
+        "id": 87,
+        "label": "汉堡大学｜德国",
+        "x": -0.10596262441051649,
+        "y": -0.13613598615474176,
+        "cluster": 4,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6
+        },
+        "description": "汉堡大学｜德国"
+      },
+      {
+        "id": 88,
+        "label": "北卡罗来纳大学教堂山分校｜美国",
+        "x": 0.22379280509191135,
+        "y": 0.08919926281619861,
+        "cluster": 6,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "北卡罗来纳大学教堂山分校｜美国"
+      },
+      {
+        "id": 89,
+        "label": "多伦多大学｜加拿大",
+        "x": 0.12141808215006517,
+        "y": 0.2085124674269829,
+        "cluster": 4,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.8
+        },
+        "description": "多伦多大学｜加拿大"
+      },
+      {
+        "id": 90,
+        "label": "特温特大学｜荷兰",
+        "x": -0.10621580826497479,
+        "y": 0.5352432407073374,
+        "cluster": 4,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4
+        },
+        "description": "特温特大学｜荷兰"
+      },
+      {
+        "id": 91,
+        "label": "华威大学｜英国",
+        "x": 0.3797949263714844,
+        "y": 0.6056216861868067,
+        "cluster": 4,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.8
+        },
+        "description": "华威大学｜英国"
+      },
+      {
+        "id": 92,
+        "label": "西安大略大学｜加拿大",
+        "x": 0.08064766853132677,
+        "y": -0.21134031319563065,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.2
+        },
+        "description": "西安大略大学｜加拿大"
+      },
+      {
+        "id": 93,
+        "label": "奥托·拜斯海姆管理学院｜德国",
+        "x": -0.445835791834238,
+        "y": 0.09842355083268484,
+        "cluster": 7,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.8
+        },
+        "description": "奥托·拜斯海姆管理学院｜德国"
+      },
+      {
+        "id": 94,
+        "label": "阿斯顿大学｜英国",
+        "x": 0.46068385817524593,
+        "y": -0.42494693301239816,
+        "cluster": 5,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.25
+        },
+        "description": "阿斯顿大学｜英国"
+      },
+      {
+        "id": 95,
+        "label": "挪威商学院｜挪威",
+        "x": 0.17871330808741864,
+        "y": -0.5152975613058777,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.5
+        },
+        "description": "挪威商学院｜挪威"
+      },
+      {
+        "id": 96,
+        "label": "博科尼大学｜意大利",
+        "x": 0.08869047976722089,
+        "y": 0.17261321281594547,
+        "cluster": 5,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.25
+        },
+        "description": "博科尼大学｜意大利"
+      },
+      {
+        "id": 97,
+        "label": "波士顿学院｜美国",
+        "x": 0.297168980097288,
+        "y": -0.1365085147597495,
+        "cluster": 5,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2010.25
+        },
+        "description": "波士顿学院｜美国"
+      },
+      {
+        "id": 98,
+        "label": "杨百翰大学｜美国",
+        "x": -0.035730621242874246,
+        "y": -0.18705048489271373,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.75
+        },
+        "description": "杨百翰大学｜美国"
+      },
+      {
+        "id": 99,
+        "label": "鲁汶天主教大学（法语）｜比利时",
+        "x": -0.11792826099678134,
+        "y": 0.646,
+        "cluster": 4,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2009.75
+        },
+        "description": "鲁汶天主教大学（法语）｜比利时"
+      },
+      {
+        "id": 100,
+        "label": "查尔姆斯理工大学｜瑞典",
+        "x": 1.2541344345289083,
+        "y": 0.0,
+        "cluster": 8,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.25
+        },
+        "description": "查尔姆斯理工大学｜瑞典"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 71,
+        "target_id": 20,
+        "strength": 4.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 18,
+        "strength": 4.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 85,
+        "strength": 3.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 4,
+        "strength": 3.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 4,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 45,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 39,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 7,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 89,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 56,
+        "strength": 2.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 21,
+        "strength": 2.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 44,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 48,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 4,
+        "strength": 2.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 51,
+        "strength": 2.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 11,
+        "strength": 2.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 11,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 20,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 53,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 84,
+        "strength": 2.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 35,
+        "strength": 2.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 94,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 95,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 81,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 71,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 71,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 83,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 99,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 99,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 79,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 50,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 77,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 86,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 80,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 83,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 81,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 62,
+        "strength": 1.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 51,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 63,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 93,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 82,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 63,
+        "strength": 1.0
+      },
+      {
+        "source_id": 48,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 87,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 60,
+        "target_id": 62,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 62,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 91,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 84,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 85,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 86,
+        "target_id": 93,
+        "strength": 1.0
+      },
+      {
+        "source_id": 87,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 88,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 93,
+        "strength": 1.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 70,
+        "strength": 1.0
+      }
+    ]
+  }
+}

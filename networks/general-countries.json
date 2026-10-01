@@ -1,0 +1,6483 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "United States",
+        "x": 0.03867250543231462,
+        "y": 0.04037957897525435,
+        "cluster": 1,
+        "weights": {
+          "Documents": 954.0,
+          "Links": 58.0,
+          "Total Link Strength": 1605.0,
+          "NodeSize": 6.63303356344415
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.2358490566037
+        },
+        "description": "United States"
+      },
+      {
+        "id": 2,
+        "label": "United Kingdom",
+        "x": 0.05047896709488932,
+        "y": 0.048923714591868596,
+        "cluster": 1,
+        "weights": {
+          "Documents": 427.0,
+          "Links": 57.0,
+          "Total Link Strength": 1358.0,
+          "NodeSize": 5.099596747965774
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.857142857143
+        },
+        "description": "United Kingdom"
+      },
+      {
+        "id": 3,
+        "label": "Germany",
+        "x": -0.000772355625527396,
+        "y": 0.00818986204019233,
+        "cluster": 2,
+        "weights": {
+          "Documents": 314.0,
+          "Links": 58.0,
+          "Total Link Strength": 1057.0,
+          "NodeSize": 4.658006772000402
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.2993630573249
+        },
+        "description": "Germany"
+      },
+      {
+        "id": 4,
+        "label": "China",
+        "x": 0.04419650129798089,
+        "y": 0.09318147378517104,
+        "cluster": 1,
+        "weights": {
+          "Documents": 292.0,
+          "Links": 54.0,
+          "Total Link Strength": 684.0,
+          "NodeSize": 4.56320112359526
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.9041095890411
+        },
+        "description": "China"
+      },
+      {
+        "id": 5,
+        "label": "Netherlands",
+        "x": 0.04111118318307161,
+        "y": -0.0037975467653624173,
+        "cluster": 2,
+        "weights": {
+          "Documents": 201.0,
+          "Links": 54.0,
+          "Total Link Strength": 866.0,
+          "NodeSize": 4.126617031813674
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1791044776119
+        },
+        "description": "Netherlands"
+      },
+      {
+        "id": 6,
+        "label": "Austria",
+        "x": -0.054842224110858005,
+        "y": 0.008596456410822541,
+        "cluster": 2,
+        "weights": {
+          "Documents": 175.0,
+          "Links": 52.0,
+          "Total Link Strength": 726.0,
+          "NodeSize": 3.984313483298443
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3428571428572
+        },
+        "description": "Austria"
+      },
+      {
+        "id": 7,
+        "label": "Australia",
+        "x": 0.1070881649922607,
+        "y": 0.008290551458430783,
+        "cluster": 1,
+        "weights": {
+          "Documents": 160.0,
+          "Links": 51.0,
+          "Total Link Strength": 575.0,
+          "NodeSize": 3.8973665961010275
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.91875
+        },
+        "description": "Australia"
+      },
+      {
+        "id": 8,
+        "label": "Switzerland",
+        "x": 0.018641658822433887,
+        "y": -0.042044212930961264,
+        "cluster": 1,
+        "weights": {
+          "Documents": 129.0,
+          "Links": 47.0,
+          "Total Link Strength": 476.0,
+          "NodeSize": 3.7036725037400817
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3565891472867
+        },
+        "description": "Switzerland"
+      },
+      {
+        "id": 9,
+        "label": "Canada",
+        "x": 0.107822037361457,
+        "y": 0.0910464559544245,
+        "cluster": 1,
+        "weights": {
+          "Documents": 120.0,
+          "Links": 54.0,
+          "Total Link Strength": 397.0,
+          "NodeSize": 3.6431676725154984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.15
+        },
+        "description": "Canada"
+      },
+      {
+        "id": 10,
+        "label": "Italy",
+        "x": -0.07984044894115536,
+        "y": -0.025568693256734307,
+        "cluster": 2,
+        "weights": {
+          "Documents": 119.0,
+          "Links": 49.0,
+          "Total Link Strength": 499.0,
+          "NodeSize": 3.636306817195357
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.310924369748
+        },
+        "description": "Italy"
+      },
+      {
+        "id": 11,
+        "label": "France",
+        "x": -0.020933816258422146,
+        "y": 0.07140115941318366,
+        "cluster": 1,
+        "weights": {
+          "Documents": 118.0,
+          "Links": 48.0,
+          "Total Link Strength": 501.0,
+          "NodeSize": 3.629417073680032
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.2711864406779
+        },
+        "description": "France"
+      },
+      {
+        "id": 12,
+        "label": "Sweden",
+        "x": 0.011153509791415139,
+        "y": 0.125539442520576,
+        "cluster": 2,
+        "weights": {
+          "Documents": 95.0,
+          "Links": 50.0,
+          "Total Link Strength": 381.0,
+          "NodeSize": 3.4620191517213446
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.7052631578947
+        },
+        "description": "Sweden"
+      },
+      {
+        "id": 13,
+        "label": "Norway",
+        "x": -0.07145303640139754,
+        "y": 0.06772195118447406,
+        "cluster": 2,
+        "weights": {
+          "Documents": 79.0,
+          "Links": 45.0,
+          "Total Link Strength": 386.0,
+          "NodeSize": 3.3332291625973385
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.4050632911392
+        },
+        "description": "Norway"
+      },
+      {
+        "id": 14,
+        "label": "Japan",
+        "x": -0.04425210234623815,
+        "y": -0.047388623397040114,
+        "cluster": 2,
+        "weights": {
+          "Documents": 74.0,
+          "Links": 46.0,
+          "Total Link Strength": 402.0,
+          "NodeSize": 3.290348790056394
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.8783783783783
+        },
+        "description": "Japan"
+      },
+      {
+        "id": 15,
+        "label": "Spain",
+        "x": -0.021973921035326752,
+        "y": -0.10449919689059492,
+        "cluster": 2,
+        "weights": {
+          "Documents": 70.0,
+          "Links": 46.0,
+          "Total Link Strength": 323.0,
+          "NodeSize": 3.2549900398011133
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.7857142857142
+        },
+        "description": "Spain"
+      },
+      {
+        "id": 16,
+        "label": "Denmark",
+        "x": 0.05193103598233496,
+        "y": 0.17000794405317693,
+        "cluster": 3,
+        "weights": {
+          "Documents": 45.0,
+          "Links": 47.0,
+          "Total Link Strength": 249.0,
+          "NodeSize": 3.0062305898749053
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.3333333333333
+        },
+        "description": "Denmark"
+      },
+      {
+        "id": 17,
+        "label": "South Africa",
+        "x": 0.1979096887431022,
+        "y": 0.027601516244160483,
+        "cluster": 3,
+        "weights": {
+          "Documents": 37.0,
+          "Links": 43.0,
+          "Total Link Strength": 203.0,
+          "NodeSize": 2.9124143795447326
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.5405405405406
+        },
+        "description": "South Africa"
+      },
+      {
+        "id": 18,
+        "label": "Belgium",
+        "x": -0.11546467745153428,
+        "y": 0.12389582652257167,
+        "cluster": 2,
+        "weights": {
+          "Documents": 35.0,
+          "Links": 42.0,
+          "Total Link Strength": 183.0,
+          "NodeSize": 2.8874119674649426
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.8285714285714
+        },
+        "description": "Belgium"
+      },
+      {
+        "id": 19,
+        "label": "India",
+        "x": 0.15426021648984226,
+        "y": 0.14729393018065084,
+        "cluster": 3,
+        "weights": {
+          "Documents": 33.0,
+          "Links": 48.0,
+          "Total Link Strength": 221.0,
+          "NodeSize": 2.861684396980704
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.2424242424242
+        },
+        "description": "India"
+      },
+      {
+        "id": 20,
+        "label": "Brazil",
+        "x": 0.10113902957599286,
+        "y": -0.06100658349902456,
+        "cluster": 3,
+        "weights": {
+          "Documents": 32.0,
+          "Links": 50.0,
+          "Total Link Strength": 231.0,
+          "NodeSize": 2.848528137423857
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.5625
+        },
+        "description": "Brazil"
+      },
+      {
+        "id": 21,
+        "label": "Singapore",
+        "x": 0.3019332604025665,
+        "y": 0.04154983830018694,
+        "cluster": 1,
+        "weights": {
+          "Documents": 28.0,
+          "Links": 24.0,
+          "Total Link Strength": 86.0,
+          "NodeSize": 2.7937253933193773
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.357142857143
+        },
+        "description": "Singapore"
+      },
+      {
+        "id": 22,
+        "label": "Greece",
+        "x": -0.09909124094468769,
+        "y": -0.177536616402487,
+        "cluster": 2,
+        "weights": {
+          "Documents": 25.0,
+          "Links": 32.0,
+          "Total Link Strength": 160.0,
+          "NodeSize": 2.75
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.24
+        },
+        "description": "Greece"
+      },
+      {
+        "id": 23,
+        "label": "New Zealand",
+        "x": 0.06194260510369092,
+        "y": -0.1597327707519543,
+        "cluster": 3,
+        "weights": {
+          "Documents": 23.0,
+          "Links": 44.0,
+          "Total Link Strength": 119.0,
+          "NodeSize": 2.719374728496908
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.1739130434783
+        },
+        "description": "New Zealand"
+      },
+      {
+        "id": 24,
+        "label": "Finland",
+        "x": -0.18589613452339238,
+        "y": 0.04626534018668083,
+        "cluster": 3,
+        "weights": {
+          "Documents": 20.0,
+          "Links": 42.0,
+          "Total Link Strength": 137.0,
+          "NodeSize": 2.670820393249937
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.25
+        },
+        "description": "Finland"
+      },
+      {
+        "id": 25,
+        "label": "South Korea",
+        "x": -0.12501363838077595,
+        "y": 0.2235072387050468,
+        "cluster": 3,
+        "weights": {
+          "Documents": 19.0,
+          "Links": 40.0,
+          "Total Link Strength": 98.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6842105263158
+        },
+        "description": "South Korea"
+      },
+      {
+        "id": 26,
+        "label": "Russia",
+        "x": -0.17321664339373896,
+        "y": -0.052988607884454524,
+        "cluster": 3,
+        "weights": {
+          "Documents": 16.0,
+          "Links": 44.0,
+          "Total Link Strength": 138.0,
+          "NodeSize": 2.6
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6875
+        },
+        "description": "Russia"
+      },
+      {
+        "id": 27,
+        "label": "Kenya",
+        "x": 0.13390236678895837,
+        "y": 0.24880517200721655,
+        "cluster": 3,
+        "weights": {
+          "Documents": 15.0,
+          "Links": 46.0,
+          "Total Link Strength": 111.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "Kenya"
+      },
+      {
+        "id": 28,
+        "label": "Israel",
+        "x": -0.04180026669282073,
+        "y": 0.3141488782232235,
+        "cluster": 3,
+        "weights": {
+          "Documents": 11.0,
+          "Links": 41.0,
+          "Total Link Strength": 74.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "Israel"
+      },
+      {
+        "id": 29,
+        "label": "Poland",
+        "x": -0.23384864636924219,
+        "y": -0.10940019688234924,
+        "cluster": 3,
+        "weights": {
+          "Documents": 11.0,
+          "Links": 45.0,
+          "Total Link Strength": 92.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.7272727272727
+        },
+        "description": "Poland"
+      },
+      {
+        "id": 30,
+        "label": "Portugal",
+        "x": -0.22762403755446717,
+        "y": 0.14383780902567794,
+        "cluster": 3,
+        "weights": {
+          "Documents": 11.0,
+          "Links": 41.0,
+          "Total Link Strength": 87.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3636363636363
+        },
+        "description": "Portugal"
+      },
+      {
+        "id": 31,
+        "label": "Chile",
+        "x": -0.03578006151173749,
+        "y": -0.1870267460676646,
+        "cluster": 3,
+        "weights": {
+          "Documents": 10.0,
+          "Links": 42.0,
+          "Total Link Strength": 99.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1
+        },
+        "description": "Chile"
+      },
+      {
+        "id": 32,
+        "label": "Ireland",
+        "x": -0.16121120364517585,
+        "y": 0.3472495213324866,
+        "cluster": 3,
+        "weights": {
+          "Documents": 10.0,
+          "Links": 37.0,
+          "Total Link Strength": 68.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.8
+        },
+        "description": "Ireland"
+      },
+      {
+        "id": 33,
+        "label": "Mexico",
+        "x": 0.20752454156934838,
+        "y": -0.18553383542037688,
+        "cluster": 3,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 33.0,
+          "Total Link Strength": 76.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.6666666666667
+        },
+        "description": "Mexico"
+      },
+      {
+        "id": 34,
+        "label": "Saudi Arabia",
+        "x": -0.5841828169404014,
+        "y": 0.05486286017844726,
+        "cluster": 1,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 10.0,
+          "Total Link Strength": 16.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.7777777777778
+        },
+        "description": "Saudi Arabia"
+      },
+      {
+        "id": 35,
+        "label": "Bangladesh",
+        "x": 0.30290714507975236,
+        "y": 0.39147134311797394,
+        "cluster": 3,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 21.0,
+          "Total Link Strength": 42.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.75
+        },
+        "description": "Bangladesh"
+      },
+      {
+        "id": 36,
+        "label": "Peru",
+        "x": 0.24678740114908432,
+        "y": 0.21378251612615842,
+        "cluster": 3,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 41.0,
+          "Total Link Strength": 72.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.25
+        },
+        "description": "Peru"
+      },
+      {
+        "id": 37,
+        "label": "U Arab Emirates",
+        "x": -0.09970212536665028,
+        "y": 0.2815074164432082,
+        "cluster": 3,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 42.0,
+          "Total Link Strength": 83.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.625
+        },
+        "description": "U Arab Emirates"
+      },
+      {
+        "id": 38,
+        "label": "Colombia",
+        "x": 0.14483871969751305,
+        "y": 0.3509265074032311,
+        "cluster": 3,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 41.0,
+          "Total Link Strength": 65.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.7142857142858
+        },
+        "description": "Colombia"
+      },
+      {
+        "id": 39,
+        "label": "Indonesia",
+        "x": 0.442683647831059,
+        "y": -0.05527097071120938,
+        "cluster": 3,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 24.0,
+          "Total Link Strength": 39.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "Indonesia"
+      },
+      {
+        "id": 40,
+        "label": "Thailand",
+        "x": 0.028199122767323597,
+        "y": 0.29426834421458237,
+        "cluster": 3,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 45.0,
+          "Total Link Strength": 93.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.142857142857
+        },
+        "description": "Thailand"
+      },
+      {
+        "id": 41,
+        "label": "Argentina",
+        "x": -0.2350264569759355,
+        "y": 0.24743052088576925,
+        "cluster": 3,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 38.0,
+          "Total Link Strength": 66.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1666666666667
+        },
+        "description": "Argentina"
+      },
+      {
+        "id": 42,
+        "label": "Czech Republic",
+        "x": -0.285992262649538,
+        "y": 0.03598418640966715,
+        "cluster": 3,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 39.0,
+          "Total Link Strength": 68.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.8333333333333
+        },
+        "description": "Czech Republic"
+      },
+      {
+        "id": 43,
+        "label": "Malaysia",
+        "x": 0.4808295380719302,
+        "y": 0.20889929626860482,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 19.0,
+          "Total Link Strength": 31.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.3333333333333
+        },
+        "description": "Malaysia"
+      },
+      {
+        "id": 44,
+        "label": "Nepal",
+        "x": 0.3976310159462196,
+        "y": 0.3143551139693086,
+        "cluster": 3,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 21.0,
+          "Total Link Strength": 40.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "Nepal"
+      },
+      {
+        "id": 45,
+        "label": "Cyprus",
+        "x": 0.32839676035683907,
+        "y": -0.37955604362716133,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 14.0,
+          "Total Link Strength": 23.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "Cyprus"
+      },
+      {
+        "id": 46,
+        "label": "Ecuador",
+        "x": 0.5548964985023416,
+        "y": 0.05293823488651343,
+        "cluster": 3,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 16.0,
+          "Total Link Strength": 25.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.8
+        },
+        "description": "Ecuador"
+      },
+      {
+        "id": 47,
+        "label": "Philippines",
+        "x": 0.25422037553265536,
+        "y": -0.06596006915340807,
+        "cluster": 3,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 43.0,
+          "Total Link Strength": 69.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "Philippines"
+      },
+      {
+        "id": 48,
+        "label": "Sri Lanka",
+        "x": 0.20841284388892897,
+        "y": 0.646,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 15.0,
+          "Total Link Strength": 18.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.2
+        },
+        "description": "Sri Lanka"
+      },
+      {
+        "id": 49,
+        "label": "Taiwan",
+        "x": -0.32032715595166567,
+        "y": 0.24553722042132473,
+        "cluster": 3,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 38.0,
+          "Total Link Strength": 55.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.2
+        },
+        "description": "Taiwan"
+      },
+      {
+        "id": 50,
+        "label": "Vanuatu",
+        "x": -0.379059783356459,
+        "y": -0.3732213005534761,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 13.0,
+          "Total Link Strength": 18.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6
+        },
+        "description": "Vanuatu"
+      },
+      {
+        "id": 51,
+        "label": "Ghana",
+        "x": 0.0017049508110335144,
+        "y": -0.3168085572709016,
+        "cluster": 3,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 31.0,
+          "Total Link Strength": 52.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "Ghana"
+      },
+      {
+        "id": 52,
+        "label": "Hungary",
+        "x": -0.2097685748003814,
+        "y": -0.5296806541653498,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 13.0,
+          "Total Link Strength": 17.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "Hungary"
+      },
+      {
+        "id": 53,
+        "label": "Pakistan",
+        "x": 0.41354212581729466,
+        "y": 0.540468124014858,
+        "cluster": 3,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 11.0,
+          "Total Link Strength": 18.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5
+        },
+        "description": "Pakistan"
+      },
+      {
+        "id": 54,
+        "label": "Vietnam",
+        "x": -0.3664037799416564,
+        "y": 0.13534485318979955,
+        "cluster": 3,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 38.0,
+          "Total Link Strength": 49.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "Vietnam"
+      },
+      {
+        "id": 55,
+        "label": "Bahamas",
+        "x": -0.6655596837383967,
+        "y": -0.5273735276088191,
+        "cluster": 2,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 4.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.3333333333333
+        },
+        "description": "Bahamas"
+      },
+      {
+        "id": 56,
+        "label": "Croatia",
+        "x": -0.6289013823885552,
+        "y": -0.16177733213063758,
+        "cluster": 2,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 12.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "Croatia"
+      },
+      {
+        "id": 57,
+        "label": "Guatemala",
+        "x": 0.6536656434730104,
+        "y": 0.22927921904318652,
+        "cluster": 3,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 19.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6666666666667
+        },
+        "description": "Guatemala"
+      },
+      {
+        "id": 58,
+        "label": "Iceland",
+        "x": 0.15120418541502162,
+        "y": -0.406271651733289,
+        "cluster": 3,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 22.0,
+          "Total Link Strength": 32.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "Iceland"
+      },
+      {
+        "id": 59,
+        "label": "Luxembourg",
+        "x": -0.022269647709191393,
+        "y": -0.646,
+        "cluster": 2,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 10.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2024.3333333333333
+        },
+        "description": "Luxembourg"
+      },
+      {
+        "id": 60,
+        "label": "Senegal",
+        "x": 0.6655596837383967,
+        "y": -0.2377477031383988,
+        "cluster": 1,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 8.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "Senegal"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 2,
+        "target_id": 1,
+        "strength": 223.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 1,
+        "strength": 166.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 1,
+        "strength": 142.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 2,
+        "strength": 131.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 1,
+        "strength": 113.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 2,
+        "strength": 106.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 1,
+        "strength": 96.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 5,
+        "strength": 90.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 3,
+        "strength": 89.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 1,
+        "strength": 83.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 2,
+        "strength": 83.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 1,
+        "strength": 80.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 2,
+        "strength": 78.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 2,
+        "strength": 74.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 1,
+        "strength": 67.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 1,
+        "strength": 66.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 2,
+        "strength": 64.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 2,
+        "strength": 63.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 1,
+        "strength": 63.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 5,
+        "strength": 56.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 1,
+        "strength": 55.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 8,
+        "strength": 53.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 2,
+        "strength": 51.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 3,
+        "strength": 46.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 3,
+        "strength": 45.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 10,
+        "strength": 44.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 5,
+        "strength": 44.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 10,
+        "strength": 44.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 1,
+        "strength": 44.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 5,
+        "strength": 43.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 2,
+        "strength": 43.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 1,
+        "strength": 41.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 3,
+        "strength": 39.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 13,
+        "strength": 39.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 2,
+        "strength": 39.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 2,
+        "strength": 38.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 12,
+        "strength": 38.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 5,
+        "strength": 37.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 1,
+        "strength": 36.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 4,
+        "strength": 35.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 2,
+        "strength": 35.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 14,
+        "strength": 34.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 8,
+        "strength": 33.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 2,
+        "strength": 33.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 4,
+        "strength": 32.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 11,
+        "strength": 31.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 2,
+        "strength": 31.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 14,
+        "strength": 30.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 15,
+        "strength": 29.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 5,
+        "strength": 29.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 15,
+        "strength": 29.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 8,
+        "strength": 29.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 3,
+        "strength": 28.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 6,
+        "strength": 27.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 13,
+        "strength": 27.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 1,
+        "strength": 27.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 5,
+        "strength": 27.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 1,
+        "strength": 27.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 4,
+        "strength": 26.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 12,
+        "strength": 26.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 2,
+        "strength": 25.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 13,
+        "strength": 24.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 8,
+        "strength": 23.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 11,
+        "strength": 23.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 11,
+        "strength": 23.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 10,
+        "strength": 22.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 1,
+        "strength": 21.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 14,
+        "strength": 21.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 1,
+        "strength": 21.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 9,
+        "strength": 20.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 12,
+        "strength": 20.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 2,
+        "strength": 20.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 10,
+        "strength": 20.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 12,
+        "strength": 20.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 15,
+        "strength": 19.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 1,
+        "strength": 19.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 12,
+        "strength": 19.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 8,
+        "strength": 19.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 14,
+        "strength": 19.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 3,
+        "strength": 18.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 11,
+        "strength": 18.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 14,
+        "strength": 18.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 2,
+        "strength": 18.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 15,
+        "strength": 18.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 14,
+        "strength": 17.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 2,
+        "strength": 17.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 13,
+        "strength": 17.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 8,
+        "strength": 17.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 1,
+        "strength": 17.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 5,
+        "strength": 16.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 5,
+        "strength": 16.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 3,
+        "strength": 16.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 5,
+        "strength": 16.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 13,
+        "strength": 16.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 5,
+        "strength": 15.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 16,
+        "strength": 15.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 1,
+        "strength": 15.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 17,
+        "strength": 15.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 1,
+        "strength": 15.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 13,
+        "strength": 14.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 3,
+        "strength": 14.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 8,
+        "strength": 14.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 22,
+        "strength": 14.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 5,
+        "strength": 14.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 2,
+        "strength": 14.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 8,
+        "strength": 14.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 12,
+        "strength": 13.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 20,
+        "strength": 13.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 10,
+        "strength": 13.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 8,
+        "strength": 13.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 10,
+        "strength": 13.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 12,
+        "strength": 13.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 19,
+        "strength": 13.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 15,
+        "strength": 13.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 22,
+        "strength": 12.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 15,
+        "strength": 12.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 5,
+        "strength": 12.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 12,
+        "strength": 12.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 13,
+        "strength": 12.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 2,
+        "strength": 12.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 18,
+        "strength": 11.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 10,
+        "strength": 11.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 17,
+        "strength": 11.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 15,
+        "strength": 11.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 9,
+        "strength": 11.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 14,
+        "strength": 11.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 17,
+        "strength": 11.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 13,
+        "strength": 11.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 2,
+        "strength": 11.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 17,
+        "strength": 11.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 13,
+        "strength": 11.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 8,
+        "strength": 11.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 19,
+        "strength": 10.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 8,
+        "strength": 10.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 11,
+        "strength": 10.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 13,
+        "strength": 10.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 19,
+        "strength": 10.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 1,
+        "strength": 10.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 26,
+        "strength": 10.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 8,
+        "strength": 10.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 2,
+        "strength": 10.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 1,
+        "strength": 10.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 1,
+        "strength": 10.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 16,
+        "strength": 9.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 19,
+        "strength": 9.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 23,
+        "strength": 9.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 12,
+        "strength": 9.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 1,
+        "strength": 9.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 11,
+        "strength": 9.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 5,
+        "strength": 9.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 19,
+        "strength": 9.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 12,
+        "strength": 9.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 2,
+        "strength": 9.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 18,
+        "strength": 8.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 10,
+        "strength": 8.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 19,
+        "strength": 8.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 10,
+        "strength": 8.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 24,
+        "strength": 8.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 26,
+        "strength": 8.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 10,
+        "strength": 8.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 12,
+        "strength": 8.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 8,
+        "strength": 8.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 3,
+        "strength": 8.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 21,
+        "strength": 8.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 8,
+        "strength": 8.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 2,
+        "strength": 8.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 1,
+        "strength": 8.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 2,
+        "strength": 8.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 23,
+        "strength": 8.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 15,
+        "strength": 8.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 12,
+        "strength": 8.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 8,
+        "strength": 8.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 20,
+        "strength": 7.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 24,
+        "strength": 7.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 22,
+        "strength": 7.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 13,
+        "strength": 7.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 15,
+        "strength": 7.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 12,
+        "strength": 7.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 16,
+        "strength": 7.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 14,
+        "strength": 7.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 17,
+        "strength": 7.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 15,
+        "strength": 7.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 21,
+        "strength": 7.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 22,
+        "strength": 7.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 15,
+        "strength": 7.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 27,
+        "strength": 7.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 33,
+        "strength": 7.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 14,
+        "strength": 7.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 15,
+        "strength": 7.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 14,
+        "strength": 7.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 17,
+        "strength": 7.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 15,
+        "strength": 7.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 1,
+        "strength": 7.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 2,
+        "strength": 7.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 15,
+        "strength": 7.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 2,
+        "strength": 7.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 21,
+        "strength": 6.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 16,
+        "strength": 6.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 29,
+        "strength": 6.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 26,
+        "strength": 6.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 11,
+        "strength": 6.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 14,
+        "strength": 6.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 15,
+        "strength": 6.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 25,
+        "strength": 6.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 14,
+        "strength": 6.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 15,
+        "strength": 6.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 10,
+        "strength": 6.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 12,
+        "strength": 6.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 8,
+        "strength": 6.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 23,
+        "strength": 6.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 10,
+        "strength": 6.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 12,
+        "strength": 6.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 26,
+        "strength": 6.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 5,
+        "strength": 6.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 26,
+        "strength": 6.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 37,
+        "strength": 6.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 2,
+        "strength": 6.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 2,
+        "strength": 6.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 2,
+        "strength": 6.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 22,
+        "strength": 5.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 39,
+        "strength": 5.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 21,
+        "strength": 5.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 17,
+        "strength": 5.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 19,
+        "strength": 5.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 16,
+        "strength": 5.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 13,
+        "strength": 5.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 12,
+        "strength": 5.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 4,
+        "strength": 5.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 19,
+        "strength": 5.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 31,
+        "strength": 5.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 24,
+        "strength": 5.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 26,
+        "strength": 5.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 21,
+        "strength": 5.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 4,
+        "strength": 5.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 5,
+        "strength": 5.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 19,
+        "strength": 5.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 11,
+        "strength": 5.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 17,
+        "strength": 5.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 29,
+        "strength": 5.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 40,
+        "strength": 5.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 37,
+        "strength": 5.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 13,
+        "strength": 5.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 44,
+        "strength": 5.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 13,
+        "strength": 5.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 26,
+        "strength": 5.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 17,
+        "strength": 5.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 25,
+        "strength": 5.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 5,
+        "strength": 5.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 17,
+        "strength": 5.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 29,
+        "strength": 5.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 30,
+        "strength": 5.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 21,
+        "strength": 5.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 26,
+        "strength": 5.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 17,
+        "strength": 5.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 8,
+        "strength": 5.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 2,
+        "strength": 4.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 31,
+        "strength": 4.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 43,
+        "strength": 4.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 26,
+        "strength": 4.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 25,
+        "strength": 4.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 42,
+        "strength": 4.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 23,
+        "strength": 4.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 25,
+        "strength": 4.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 40,
+        "strength": 4.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 2,
+        "strength": 4.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 9,
+        "strength": 4.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 4,
+        "strength": 4.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 24,
+        "strength": 4.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 26,
+        "strength": 4.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 17,
+        "strength": 4.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 8,
+        "strength": 4.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 36,
+        "strength": 4.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 25,
+        "strength": 4.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 42,
+        "strength": 4.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 32,
+        "strength": 4.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 40,
+        "strength": 4.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 36,
+        "strength": 4.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 24,
+        "strength": 4.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 27,
+        "strength": 4.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 17,
+        "strength": 4.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 14,
+        "strength": 4.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 13,
+        "strength": 4.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 26,
+        "strength": 4.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 21,
+        "strength": 4.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 25,
+        "strength": 4.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 40,
+        "strength": 4.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 51,
+        "strength": 4.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 28,
+        "strength": 4.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 36,
+        "strength": 4.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 5,
+        "strength": 4.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 2,
+        "strength": 4.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 27,
+        "strength": 4.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 10,
+        "strength": 4.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 29,
+        "strength": 4.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 17,
+        "strength": 4.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 33,
+        "strength": 4.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 23,
+        "strength": 4.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 40,
+        "strength": 4.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 8,
+        "strength": 4.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 2,
+        "strength": 4.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 40,
+        "strength": 4.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 17,
+        "strength": 4.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 12,
+        "strength": 4.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 8,
+        "strength": 4.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 30,
+        "strength": 4.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 2,
+        "strength": 4.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 12,
+        "strength": 4.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 8,
+        "strength": 4.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 37,
+        "strength": 4.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 12,
+        "strength": 4.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 12,
+        "strength": 4.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 7,
+        "strength": 3.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 4,
+        "strength": 3.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 11,
+        "strength": 3.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 5,
+        "strength": 3.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 23,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 35,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 58,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 28,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 33,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 47,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 40,
+        "strength": 3.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 31,
+        "strength": 3.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 52,
+        "strength": 3.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 30,
+        "strength": 3.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 24,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 9,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 31,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 38,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 16,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 36,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 30,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 37,
+        "strength": 3.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 43,
+        "strength": 3.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 30,
+        "strength": 3.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 40,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 42,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 11,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 23,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 13,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 17,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 15,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 12,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 23,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 47,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 49,
+        "strength": 3.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 5,
+        "strength": 3.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 15,
+        "strength": 3.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 32,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 26,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 25,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 40,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 28,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 33,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 23,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 30,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 37,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 39,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 32,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 47,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 30,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 25,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 49,
+        "strength": 3.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 15,
+        "strength": 3.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 53,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 26,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 21,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 25,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 15,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 40,
+        "strength": 3.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 13,
+        "strength": 3.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 13,
+        "strength": 3.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 12,
+        "strength": 3.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 33,
+        "strength": 3.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 30,
+        "strength": 3.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 25,
+        "strength": 3.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 37,
+        "strength": 3.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 47,
+        "strength": 3.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 30,
+        "strength": 3.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 37,
+        "strength": 3.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 12,
+        "strength": 3.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 5,
+        "strength": 3.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 17,
+        "strength": 3.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 36,
+        "strength": 3.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 47,
+        "strength": 3.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 13,
+        "strength": 3.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 26,
+        "strength": 3.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 37,
+        "strength": 3.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 15,
+        "strength": 3.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 60,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 48,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 40,
+        "strength": 3.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 54,
+        "strength": 3.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 20,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 9,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 31,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 42,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 24,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 38,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 42,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 24,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 50,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 55,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 38,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 56,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 51,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 33,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 53,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 50,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 11,
+        "strength": 2.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 44,
+        "strength": 2.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 20,
+        "strength": 2.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 19,
+        "strength": 2.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 30,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 46,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 28,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 27,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 33,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 25,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 38,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 45,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 42,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 46,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 39,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 28,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 27,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 33,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 34,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 24,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 19,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 28,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 38,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 46,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 51,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 22,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 39,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 44,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 30,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 50,
+        "strength": 2.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 46,
+        "strength": 2.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 39,
+        "strength": 2.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 22,
+        "strength": 2.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 19,
+        "strength": 2.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 22,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 33,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 30,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 27,
+        "strength": 2.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 30,
+        "strength": 2.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 51,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 58,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 39,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 59,
+        "strength": 2.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 13,
+        "strength": 2.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 19,
+        "strength": 2.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 33,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 25,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 27,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 59,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 27,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 21,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 44,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 13,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 30,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 21,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 25,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 13,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 53,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 25,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 50,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 30,
+        "strength": 2.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 25,
+        "strength": 2.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 60,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 25,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 48,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 50,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 51,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 51,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 58,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 51,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 51,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 58,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 51,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 58,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 51,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 50,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 58,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 50,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 58,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 50,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 50,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 50,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 50,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 48,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 48,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 50,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 54,
+        "strength": 1.0
+      }
+    ]
+  }
+}

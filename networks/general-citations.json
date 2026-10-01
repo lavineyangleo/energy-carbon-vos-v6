@@ -1,0 +1,3428 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "Vlasceanu (2024)",
+        "x": 0.10016908864455215,
+        "y": 0.30015721236758863,
+        "cluster": 5,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "Addressing climate change with behavioral science: A global intervention tournament in 63 countries\n综合性期刊\nDOI: 10.1126/sciadv.adj5778\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 2,
+        "label": "Wei (2020)",
+        "x": 0.18098303623993237,
+        "y": -0.5442417303514686,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Self-preservation strategy for approaching global warming targets in the post-Paris Agreement era\n综合性期刊\nDOI: 10.1038/s41467-020-15453-z\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 3,
+        "label": "Kotz (2021)",
+        "x": 0.7532684305528661,
+        "y": -0.4011543838143366,
+        "cluster": 1,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Day-to-day temperature variability reduces economic growth\n综合性期刊\nDOI: 10.1038/s41558-020-00985-5\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 4,
+        "label": "Moore (2024)",
+        "x": 0.6256333627091043,
+        "y": -0.24799220030423738,
+        "cluster": 1,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "Synthesis of evidence yields high social cost of carbon due to structural model variation and uncertainties\n综合性期刊\nDOI: 10.1073/pnas.24107331211\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 5,
+        "label": "Hornsey (2016)",
+        "x": 0.14583337085341758,
+        "y": 0.5634297486954066,
+        "cluster": 5,
+        "weights": {
+          "Documents": 21,
+          "NodeSize": 6.58257569495584,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Meta-analyses of the determinants and outcomes of belief in climate change\n综合性期刊\nDOI: 10.1038/nclimate2943\n本网络全部边中被引: 21"
+      },
+      {
+        "id": 6,
+        "label": "Rogelj (2016)",
+        "x": -0.07748470721161242,
+        "y": -0.4349277265516531,
+        "cluster": 2,
+        "weights": {
+          "Documents": 49,
+          "NodeSize": 9.0,
+          "Links": 17,
+          "Total Link Strength": 17
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Paris Agreement climate proposals need a boost to keep warming well below 2 °C\n综合性期刊\nDOI: 10.1038/nature18307\n本网络全部边中被引: 49"
+      },
+      {
+        "id": 7,
+        "label": "Howe (2015)",
+        "x": -0.6058227904335876,
+        "y": -0.5149843932599926,
+        "cluster": 2,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Geographic variation in opinions on climate change at state and local scales in the USA\n综合性期刊\nDOI: 10.1038/nclimate2583\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 8,
+        "label": "Nelson (2014)",
+        "x": 0.29418288207482457,
+        "y": 0.25114226029522674,
+        "cluster": 3,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Climate change effects on agriculture: Economic responses to biophysical shocks\n综合性期刊\nDOI: 10.1073/pnas.1222465110\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 9,
+        "label": "Feng (2015)",
+        "x": -0.7113861272550918,
+        "y": -0.5862225141711566,
+        "cluster": 2,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Drivers of the US CO2 emissions 1997-2013\n综合性期刊\nDOI: 10.1038/ncomms8714\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 10,
+        "label": "Rogelj (2019)",
+        "x": -0.010998268616807902,
+        "y": -0.04696039641435285,
+        "cluster": 4,
+        "weights": {
+          "Documents": 20,
+          "NodeSize": 6.47213595499958,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "A new scenario logic for the Paris Agreement long-term temperature goal\n综合性期刊\nDOI: 10.1038/s41586-019-1541-4\n本网络全部边中被引: 20"
+      },
+      {
+        "id": 11,
+        "label": "Burke (2018)",
+        "x": 0.27234178524972313,
+        "y": -0.46023119493539977,
+        "cluster": 1,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Large potential reduction in economic damages under UN mitigation targets\n综合性期刊\nDOI: 10.1038/s41586-018-0071-9\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 12,
+        "label": "Hsiang (2010)",
+        "x": 0.47225783635600416,
+        "y": -0.557210862023035,
+        "cluster": 1,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2010
+        },
+        "description": "Temperatures and cyclones strongly associated with economic production in the Caribbean and Central America\n综合性期刊\nDOI: 10.1073/pnas.1009510107\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 13,
+        "label": "Klenert (2018)",
+        "x": 0.5160026986107775,
+        "y": -0.03973626308161202,
+        "cluster": 1,
+        "weights": {
+          "Documents": 18,
+          "NodeSize": 6.242640687119285,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Making carbon pricing work for citizens\n综合性期刊\nDOI: 10.1038/s41558-018-0201-2\n本网络全部边中被引: 18"
+      },
+      {
+        "id": 14,
+        "label": "Dietz (2003)",
+        "x": -0.6293523773632522,
+        "y": -0.36207864632680087,
+        "cluster": 2,
+        "weights": {
+          "Documents": 20,
+          "NodeSize": 6.47213595499958,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2003
+        },
+        "description": "The struggle to govern the commons\n综合性期刊\nDOI: 10.1126/science.1091015\n本网络全部边中被引: 20"
+      },
+      {
+        "id": 15,
+        "label": "Fuhrman (2020)",
+        "x": -0.04692933655261414,
+        "y": 0.15028983537623733,
+        "cluster": 3,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Food-energy-water implications of negative emissions technologies in a+1.5 °C future\n综合性期刊\nDOI: 10.1038/s41558-020-0876-z\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 16,
+        "label": "Diaz (2017)",
+        "x": 0.646219453767904,
+        "y": -0.21208834082576056,
+        "cluster": 1,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Quantifying the economic risks of climate change\n综合性期刊\nDOI: 10.1038/nclimate3411\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 17,
+        "label": "Burke (2015)",
+        "x": 0.3679409340517269,
+        "y": -0.29511164584981586,
+        "cluster": 1,
+        "weights": {
+          "Documents": 60,
+          "NodeSize": 9.745966692414834,
+          "Links": 24,
+          "Total Link Strength": 24
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Global non-linear effect of temperature on economic production\n综合性期刊\nDOI: 10.1038/nature15725\n本网络全部边中被引: 60"
+      },
+      {
+        "id": 18,
+        "label": "Hornsey (2022)",
+        "x": 0.1409491343079181,
+        "y": 0.8,
+        "cluster": 5,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "A toolkit for understanding and addressing climate scepticism\n综合性期刊\nDOI: 10.1038/s41562-022-01463-y\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 19,
+        "label": "Hsiang (2017)",
+        "x": 0.44271504691416047,
+        "y": -0.2808743608972976,
+        "cluster": 1,
+        "weights": {
+          "Documents": 37,
+          "NodeSize": 8.082762530298218,
+          "Links": 13,
+          "Total Link Strength": 13
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Estimating economic damage from climate change in the United States\n综合性期刊\nDOI: 10.1126/science.aal4369\n本网络全部边中被引: 37"
+      },
+      {
+        "id": 20,
+        "label": "Dietz (2009)",
+        "x": -0.6613498778366832,
+        "y": -0.16777761566349475,
+        "cluster": 2,
+        "weights": {
+          "Documents": 16,
+          "NodeSize": 6.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2009
+        },
+        "description": "Household actions can provide a behavioral wedge to rapidly reduce US carbon emissions\n综合性期刊\nDOI: 10.1073/pnas.0908738106\n本网络全部边中被引: 16"
+      },
+      {
+        "id": 21,
+        "label": "Liu (2022)",
+        "x": -0.18991156022854935,
+        "y": -0.7778675639789323,
+        "cluster": 2,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Challenges and opportunities for carbon neutrality in China\n综合性期刊\nDOI: 10.1038/s43017-021-00244-x\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 22,
+        "label": "Rosa (2012)",
+        "x": -0.85,
+        "y": -0.40616497951906894,
+        "cluster": 2,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "Human drivers of national greenhouse-gas emissions\n综合性期刊\nDOI: 10.1038/nclimate1506\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 23,
+        "label": "McGlade (2015)",
+        "x": -0.4841215494655085,
+        "y": -0.36641654803221435,
+        "cluster": 2,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "The geographical distribution of fossil fuels unused when limiting global warming to 2 °C\n综合性期刊\nDOI: 10.1038/nature14016\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 24,
+        "label": "Beckage (2022)",
+        "x": 0.1937754872812843,
+        "y": -0.04287633344809522,
+        "cluster": 1,
+        "weights": {
+          "Documents": 1,
+          "NodeSize": 3.0,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Incorporating human behaviour into Earth system modelling\n综合性期刊\nDOI: 10.1038/s41562-022-01478-5\n本网络全部边中被引: 1"
+      },
+      {
+        "id": 25,
+        "label": "Aldy (2016)",
+        "x": -0.011528191591809907,
+        "y": -0.6576713726811806,
+        "cluster": 4,
+        "weights": {
+          "Documents": 11,
+          "NodeSize": 5.3166247903554,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Economic tools to promote transparency and comparability in the Paris Agreement\n综合性期刊\nDOI: 10.1038/nclimate3106\n本网络全部边中被引: 11"
+      },
+      {
+        "id": 26,
+        "label": "Tavoni (2015)",
+        "x": 0.010585455301520497,
+        "y": -0.4268022017517873,
+        "cluster": 4,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Post-2020 climate agreements in the major economies assessed in the light of global models\n综合性期刊\nDOI: 10.1038/nclimate2475\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 27,
+        "label": "Auffhammer (2017)",
+        "x": 0.85,
+        "y": -0.13595847010092538,
+        "cluster": 1,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Climate change is projected to have severe impacts on the frequency and intensity of peak electricity demand across the United States\n综合性期刊\nDOI: 10.1073/pnas.1613193114\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 28,
+        "label": "Cai (2016)",
+        "x": 0.30964284277407084,
+        "y": -0.6274551937595018,
+        "cluster": 1,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Risk of multiple interacting tipping points should encourage rapid CO2 emission reduction\n综合性期刊\nDOI: 10.1038/nclimate2964\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 29,
+        "label": "Realmonte (2019)",
+        "x": -0.06501544356801045,
+        "y": -0.23858230886339765,
+        "cluster": 3,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "An inter-model assessment of the role of direct air capture in deep mitigation pathways\n综合性期刊\nDOI: 10.1038/s41467-019-10842-5\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 30,
+        "label": "Hallegatte (2017)",
+        "x": 0.3488613467188605,
+        "y": 0.04741937144224448,
+        "cluster": 4,
+        "weights": {
+          "Documents": 17,
+          "NodeSize": 6.123105625617661,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Climate change through a poverty lens\n综合性期刊\nDOI: 10.1038/nclimate3253\n本网络全部边中被引: 17"
+      },
+      {
+        "id": 31,
+        "label": "Glanemann (2020)",
+        "x": 0.5087726907348551,
+        "y": -0.46360659115643055,
+        "cluster": 1,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Paris Climate Agreement passes the cost-benefit test\n综合性期刊\nDOI: 10.1038/s41467-019-13961-1\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 32,
+        "label": "Fujimori (2019)",
+        "x": -0.01610481292037188,
+        "y": 0.08384382595458828,
+        "cluster": 3,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "A multi-model assessment of food security implications of climate change mitigation\n综合性期刊\nDOI: 10.1038/s41893-019-0286-2\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 33,
+        "label": "Haensel (2020)",
+        "x": 0.5322624165423304,
+        "y": -0.3493034910123867,
+        "cluster": 1,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Climate economics support for the UN climate targets\n综合性期刊\nDOI: 10.1038/s41558-020-0833-x\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 34,
+        "label": "Dekker (2023)",
+        "x": -0.23718205586108213,
+        "y": 0.17560218088674445,
+        "cluster": 4,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "Spread in climate policy scenarios unravelled\n综合性期刊\nDOI: 10.1038/s41586-023-06738-6\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 35,
+        "label": "Keysser (2021)",
+        "x": -0.12548797692135158,
+        "y": 0.18489130920565625,
+        "cluster": 3,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "1.5°C degrowth scenarios suggest the need for new mitigation pathways\n综合性期刊\nDOI: 10.1038/s41467-021-22884-9\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 36,
+        "label": "Creutzig (2022)",
+        "x": -0.13006821153245657,
+        "y": 0.3975888746051194,
+        "cluster": 3,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Demand-side solutions to climate change mitigation consistent with high levels of well-being\n综合性期刊\nDOI: 10.1038/s41558-021-01219-y\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 37,
+        "label": "Hasegawa (2018)",
+        "x": 0.13432634948773073,
+        "y": 0.13397151230221827,
+        "cluster": 3,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Risk of increased food insecurity under stringent global climate change mitigation policy\n综合性期刊\nDOI: 10.1038/s41558-018-0230-x\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 38,
+        "label": "Rode (2021)",
+        "x": 0.5953958392042822,
+        "y": -0.12142899811789332,
+        "cluster": 1,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Estimating a social cost of carbon for global energy consumption\n综合性期刊\nDOI: 10.1038/s41586-021-03883-8\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 39,
+        "label": "Fuhrman (2023)",
+        "x": -0.34112780623435296,
+        "y": -0.01880630333484696,
+        "cluster": 3,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "Diverse carbon dioxide removal approaches could reduce impacts on the energy-water-land system\n综合性期刊\nDOI: 10.1038/s41558-023-01604-9\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 40,
+        "label": "Rising (2022)",
+        "x": 0.6974431990736388,
+        "y": -0.27829656336223374,
+        "cluster": 1,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "The missing risks of climate change\n综合性期刊\nDOI: 10.1038/s41586-022-05243-6\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 41,
+        "label": "Duan (2021)",
+        "x": -0.12220480357027382,
+        "y": -0.44832288940239295,
+        "cluster": 5,
+        "weights": {
+          "Documents": 11,
+          "NodeSize": 5.3166247903554,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Assessing China&#x27;s efforts to pursue the 1.5°C warming limit\n综合性期刊\nDOI: 10.1126/science.aba8767\n本网络全部边中被引: 11"
+      },
+      {
+        "id": 42,
+        "label": "Zimm (2024)",
+        "x": 0.12637979003081204,
+        "y": -0.39910777333053576,
+        "cluster": 4,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "Justice considerations in climate research\n综合性期刊\nDOI: 10.1038/s41558-023-01869-0\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 43,
+        "label": "Keohane (2016)",
+        "x": -0.37379168639413396,
+        "y": -0.7499074432826793,
+        "cluster": 2,
+        "weights": {
+          "Documents": 20,
+          "NodeSize": 6.47213595499958,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Cooperation and discord in global climate policy\n综合性期刊\nDOI: 10.1038/nclimate2937\n本网络全部边中被引: 20"
+      },
+      {
+        "id": 44,
+        "label": "Koberle (2021)",
+        "x": 0.12373431165628136,
+        "y": -0.09285727140948548,
+        "cluster": 3,
+        "weights": {
+          "Documents": 1,
+          "NodeSize": 3.0,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "The cost of mitigation revisited\n综合性期刊\nDOI: 10.1038/s41558-021-01203-6\n本网络全部边中被引: 1"
+      },
+      {
+        "id": 45,
+        "label": "Guivarch (2022)",
+        "x": -0.1826026248138367,
+        "y": -0.042898081101250346,
+        "cluster": 4,
+        "weights": {
+          "Documents": 11,
+          "NodeSize": 5.3166247903554,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Using large ensembles of climate change mitigation scenarios for robust insights\n综合性期刊\nDOI: 10.1038/s41558-022-01349-x\n本网络全部边中被引: 11"
+      },
+      {
+        "id": 46,
+        "label": "van de Ven (2023)",
+        "x": -0.2665287671501258,
+        "y": -0.46918236074392383,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "A multimodel analysis of post-Glasgow climate targets and feasibility challenges\n综合性期刊\nDOI: 10.1038/s41558-023-01661-0\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 47,
+        "label": "Wise (2009)",
+        "x": -0.269665840831015,
+        "y": 0.1255439004903046,
+        "cluster": 3,
+        "weights": {
+          "Documents": 17,
+          "NodeSize": 6.123105625617661,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2009
+        },
+        "description": "Implications of Limiting CO2 Concentrations for Land Use and Energy\n综合性期刊\nDOI: 10.1126/science.1168475\n本网络全部边中被引: 17"
+      },
+      {
+        "id": 48,
+        "label": "Meinshausen (2022)",
+        "x": -0.13988555667784736,
+        "y": -0.33338114411643277,
+        "cluster": 2,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Realization of Paris Agreement pledges may limit warming just below 2 °C\n综合性期刊\nDOI: 10.1038/s41586-022-04553-z\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 49,
+        "label": "van Ruijven (2019)",
+        "x": 0.47174437671096164,
+        "y": -0.09268843003115676,
+        "cluster": 1,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Amplification of future energy demand growth due to climate change\n综合性期刊\nDOI: 10.1038/s41467-019-10399-3\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 50,
+        "label": "Soergel (2021)",
+        "x": -0.09345377846551706,
+        "y": -0.14485590726590522,
+        "cluster": 4,
+        "weights": {
+          "Documents": 16,
+          "NodeSize": 6.0,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "A sustainable development pathway for climate action within the UN 2030 Agenda\n综合性期刊\nDOI: 10.1038/s41558-021-01098-3\n本网络全部边中被引: 16"
+      },
+      {
+        "id": 51,
+        "label": "Bauer (2020)",
+        "x": 0.0228715286017256,
+        "y": -0.34145099539137314,
+        "cluster": 4,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 13,
+          "Total Link Strength": 13
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Quantification of an efficiency-sovereignty trade-off in climate policy\n综合性期刊\nDOI: 10.1038/s41586-020-2982-5\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 52,
+        "label": "Luderer (2018)",
+        "x": -0.1797685276809737,
+        "y": -0.186042198112915,
+        "cluster": 3,
+        "weights": {
+          "Documents": 22,
+          "NodeSize": 6.69041575982343,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Residual fossil CO2 emissions in 1.5-2 °C pathways\n综合性期刊\nDOI: 10.1038/s41558-018-0198-6\n本网络全部边中被引: 22"
+      },
+      {
+        "id": 53,
+        "label": "Le Quere (2019)",
+        "x": -0.4874749356224182,
+        "y": -0.4244985793272438,
+        "cluster": 2,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Drivers of declining CO2 emissions in 18 developed economies\n综合性期刊\nDOI: 10.1038/s41558-019-0419-7\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 54,
+        "label": "Battiston (2017)",
+        "x": -0.1696920269882899,
+        "y": -0.119997727321451,
+        "cluster": 3,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "A climate stress-test of the financial system\n综合性期刊\nDOI: 10.1038/nclimate3255\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 55,
+        "label": "Lamperti (2019)",
+        "x": 0.3082738397657615,
+        "y": -0.16312556138346213,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "The public costs of climate-induced financial instability\n综合性期刊\nDOI: 10.1038/s41558-019-0607-5\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 56,
+        "label": "van Soest (2021)",
+        "x": -0.44884267331046795,
+        "y": -0.17592114991355268,
+        "cluster": 2,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Net-zero emission targets for major emitting countries consistent with the Paris Agreement\n综合性期刊\nDOI: 10.1038/s41467-021-22294-x\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 57,
+        "label": "Peng (2023)",
+        "x": -0.5348959950785528,
+        "y": -0.29040594526185676,
+        "cluster": 5,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "The global power sector&#x27;s low-carbon transition may enhance sustainable development goal achievement\n综合性期刊\nDOI: 10.1038/s41467-023-38987-4\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 58,
+        "label": "Budolfson (2021)",
+        "x": 0.418946347582772,
+        "y": -0.4280722007828767,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Climate action with revenue recycling has benefits for poverty, inequality and well-being\n综合性期刊\nDOI: 10.1038/s41558-021-01217-0\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 59,
+        "label": "Cui (2019)",
+        "x": -0.4015537825476334,
+        "y": -0.5400894122661158,
+        "cluster": 2,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Quantifying operational lifetimes for coal power plants under the Paris goals\n综合性期刊\nDOI: 10.1038/s41467-019-12618-3\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 60,
+        "label": "Shen (2025)",
+        "x": 0.11408227559069292,
+        "y": -0.732250358477951,
+        "cluster": 3,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2025
+        },
+        "description": "Improving cost-benefit analyses for health-considered climate mitigation policymaking\n综合性期刊\nDOI: 10.1038/s41558-025-02351-9\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 61,
+        "label": "Adler (2017)",
+        "x": 0.593131933766278,
+        "y": -0.42286235520833454,
+        "cluster": 1,
+        "weights": {
+          "Documents": 11,
+          "NodeSize": 5.3166247903554,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Priority for the worse-off and the social cost of carbon\n综合性期刊\nDOI: 10.1038/nclimate3298\n本网络全部边中被引: 11"
+      },
+      {
+        "id": 62,
+        "label": "Bi (2023)",
+        "x": -0.27239216764824387,
+        "y": -0.25432483173236514,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "Coal-exit alliance must confront freeriding sectors to propel Paris-aligned momentum\n综合性期刊\nDOI: 10.1038/s41558-022-01570-8\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 63,
+        "label": "Peng (2021)",
+        "x": -0.12315419564646886,
+        "y": -0.6329391509297533,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "The surprisingly inexpensive cost of state-driven emission control strategies\n综合性期刊\nDOI: 10.1038/s41558-021-01128-0\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 64,
+        "label": "Poore (2018)",
+        "x": -0.3342677044905893,
+        "y": 0.30495766363020116,
+        "cluster": 3,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Reducing food&#x27;s environmental impacts through producers and consumers\n综合性期刊\nDOI: 10.1126/science.aaq0216\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 65,
+        "label": "Otto (2020)",
+        "x": -0.21590383838196686,
+        "y": 0.02962473095449,
+        "cluster": 5,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Social tipping dynamics for stabilizing Earth&#x27;s climate by 2050\n综合性期刊\nDOI: 10.1073/pnas.1900577117\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 66,
+        "label": "Gazzotti (2021)",
+        "x": 0.21985334269192788,
+        "y": -0.34542881845081985,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 16,
+          "Total Link Strength": 16
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Persistent inequality in economically optimal climate policies\n综合性期刊\nDOI: 10.1038/s41467-021-23613-y\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 67,
+        "label": "Chancel (2022)",
+        "x": 0.465096543472025,
+        "y": 0.07228240713218757,
+        "cluster": 5,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Global carbon inequality over 1990-2019\n综合性期刊\nDOI: 10.1038/s41893-022-00955-z\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 68,
+        "label": "Ricke (2018)",
+        "x": 0.4501904130960459,
+        "y": -0.24274843829571935,
+        "cluster": 1,
+        "weights": {
+          "Documents": 27,
+          "NodeSize": 7.196152422706632,
+          "Links": 17,
+          "Total Link Strength": 17
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Country-level social cost of carbon\n综合性期刊\nDOI: 10.1038/s41558-018-0282-y\n本网络全部边中被引: 27"
+      },
+      {
+        "id": 69,
+        "label": "Peters (2017)",
+        "x": -0.30071433082265214,
+        "y": -0.5682586186170383,
+        "cluster": 2,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Key indicators to track current progress and future ambition of the Paris Agreement\n综合性期刊\nDOI: 10.1038/nclimate3202\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 70,
+        "label": "Springmann (2017)",
+        "x": 0.010495954639627759,
+        "y": 0.17076918956332743,
+        "cluster": 3,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Mitigation potential and global health impacts from emissions pricing of food commodities\n综合性期刊\nDOI: 10.1038/nclimate3155\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 71,
+        "label": "Davis (2010)",
+        "x": -0.5985339253722647,
+        "y": -0.6381819521576517,
+        "cluster": 2,
+        "weights": {
+          "Documents": 26,
+          "NodeSize": 7.0990195135927845,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2010
+        },
+        "description": "Consumption-based accounting of CO2 emissions\n综合性期刊\nDOI: 10.1073/pnas.0906974107\n本网络全部边中被引: 26"
+      },
+      {
+        "id": 72,
+        "label": "Emmerling (2024)",
+        "x": 0.21182942832654167,
+        "y": -0.19165589986141465,
+        "cluster": 4,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "A multi-model assessment of inequality and climate change\n综合性期刊\nDOI: 10.1038/s41558-024-02151-7\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 73,
+        "label": "Dietz (2021)",
+        "x": 0.6467785122595485,
+        "y": -0.33598781587012205,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Economic impacts of tipping points in the climate system\n综合性期刊\nDOI: 10.1073/pnas.2103081118\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 74,
+        "label": "Piontek (2021)",
+        "x": 0.4810928084950848,
+        "y": -0.15871179555553758,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Integrated perspective on translating biophysical to economic impacts of climate change\n综合性期刊\nDOI: 10.1038/s41558-021-01065-y\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 75,
+        "label": "Andreoni (2024)",
+        "x": 0.19853536300792682,
+        "y": -0.4105047856194925,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "Inequality repercussions of financing negative emissions\n综合性期刊\nDOI: 10.1038/s41558-023-01870-7\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 76,
+        "label": "Raupach (2007)",
+        "x": -0.4963056345515829,
+        "y": -0.8,
+        "cluster": 2,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2007
+        },
+        "description": "Global and regional drivers of accelerating CO2 emissions\n综合性期刊\nDOI: 10.1073/pnas.0700609104\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 77,
+        "label": "Iyer (2017)",
+        "x": -0.19270890439981653,
+        "y": -0.7081185178151084,
+        "cluster": 2,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Measuring progress from nationally determined contributions to mid-century strategies\n综合性期刊\nDOI: 10.1038/s41558-017-0005-9\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 78,
+        "label": "Moss (2010)",
+        "x": 0.5131981826477606,
+        "y": 0.02038083105337881,
+        "cluster": 6,
+        "weights": {
+          "Documents": 37,
+          "NodeSize": 8.082762530298218,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2010
+        },
+        "description": "The next generation of scenarios for climate change research and assessment\n综合性期刊\nDOI: 10.1038/nature08823\n本网络全部边中被引: 37"
+      },
+      {
+        "id": 79,
+        "label": "Friedlingstein (2014)",
+        "x": -0.3277846576898877,
+        "y": -0.646312056521736,
+        "cluster": 2,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Persistent growth of CO2 emissions and implications for reaching climate targets\n综合性期刊\nDOI: 10.1038/ngeo2248\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 80,
+        "label": "Vandyck (2018)",
+        "x": 0.0817827396069091,
+        "y": -0.22320285338383652,
+        "cluster": 3,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Air quality co-benefits for human health and agriculture counterbalance costs to meet Paris Agreement pledges\n综合性期刊\nDOI: 10.1038/s41467-018-06885-9\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 81,
+        "label": "O'Neill (2020)",
+        "x": 0.11859144658375562,
+        "y": -0.029983443950087774,
+        "cluster": 4,
+        "weights": {
+          "Documents": 11,
+          "NodeSize": 5.3166247903554,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Achievements and needs for the climate change scenario framework\n综合性期刊\nDOI: 10.1038/s41558-020-00952-0\n本网络全部边中被引: 11"
+      },
+      {
+        "id": 82,
+        "label": "Moore (2015)",
+        "x": 0.45924566672123823,
+        "y": -0.38050001283889634,
+        "cluster": 1,
+        "weights": {
+          "Documents": 21,
+          "NodeSize": 6.58257569495584,
+          "Links": 13,
+          "Total Link Strength": 13
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Temperature impacts on economic growth warrant stringent mitigation policy\n综合性期刊\nDOI: 10.1038/nclimate2481\n本网络全部边中被引: 21"
+      },
+      {
+        "id": 83,
+        "label": "Riahi (2021)",
+        "x": 0.034403515046747844,
+        "y": -0.14925686869481744,
+        "cluster": 4,
+        "weights": {
+          "Documents": 18,
+          "NodeSize": 6.242640687119285,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Cost and attainability of meeting stringent climate targets without overshoot\n综合性期刊\nDOI: 10.1038/s41558-021-01215-2\n本网络全部边中被引: 18"
+      },
+      {
+        "id": 84,
+        "label": "Kates (2012)",
+        "x": 0.7871845426285539,
+        "y": 0.17335438678784837,
+        "cluster": 6,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "Transformational adaptation when incremental adaptations to climate change are insufficient\n综合性期刊\nDOI: 10.1073/pnas.1115521109\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 85,
+        "label": "Nordhaus (2010)",
+        "x": 0.5012619515472855,
+        "y": -0.5767904009996884,
+        "cluster": 1,
+        "weights": {
+          "Documents": 16,
+          "NodeSize": 6.0,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2010
+        },
+        "description": "Economic aspects of global warming in a post-Copenhagen environment\n综合性期刊\nDOI: 10.1073/pnas.1005985107\n本网络全部边中被引: 16"
+      },
+      {
+        "id": 86,
+        "label": "Heck (2018)",
+        "x": -0.45491968099660257,
+        "y": 0.08242793395469,
+        "cluster": 3,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Biomass-based negative emissions difficult to reconcile with planetary boundaries\n综合性期刊\nDOI: 10.1038/s41558-017-0064-y\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 87,
+        "label": "Beckage (2018)",
+        "x": 0.4731096812816475,
+        "y": 0.20518844009661663,
+        "cluster": 6,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Linking models of human behaviour and climate alters projected climate change\n综合性期刊\nDOI: 10.1038/s41558-017-0031-7\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 88,
+        "label": "Hsiang (2013)",
+        "x": 0.6298925203352883,
+        "y": -0.47918063548352346,
+        "cluster": 1,
+        "weights": {
+          "Documents": 21,
+          "NodeSize": 6.58257569495584,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "Quantifying the Influence of Climate on Human Conflict\n综合性期刊\nDOI: 10.1126/science.1235367\n本网络全部边中被引: 21"
+      },
+      {
+        "id": 89,
+        "label": "Havlik (2014)",
+        "x": 0.16482220536057626,
+        "y": 0.22682618659486492,
+        "cluster": 3,
+        "weights": {
+          "Documents": 17,
+          "NodeSize": 6.123105625617661,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Climate change mitigation through livestock system transitions\n综合性期刊\nDOI: 10.1073/pnas.1308044111\n本网络全部边中被引: 17"
+      },
+      {
+        "id": 90,
+        "label": "Robiou du Pont (2017)",
+        "x": -0.10104467641592191,
+        "y": -0.5455988824280474,
+        "cluster": 2,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Equitable mitigation to achieve the Paris Agreement goals\n综合性期刊\nDOI: 10.1038/nclimate3186\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 91,
+        "label": "Davis (2018)",
+        "x": -0.340812445399648,
+        "y": -0.13182931638288595,
+        "cluster": 5,
+        "weights": {
+          "Documents": 28,
+          "NodeSize": 7.291502622129181,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Net-zero emissions energy systems\n综合性期刊\nDOI: 10.1126/science.aas9793\n本网络全部边中被引: 28"
+      },
+      {
+        "id": 92,
+        "label": "Sachs (2019)",
+        "x": -0.47753107380726884,
+        "y": 0.01788089222676886,
+        "cluster": 5,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Six Transformations to achieve the Sustainable Development Goals\n综合性期刊\nDOI: 10.1038/s41893-019-0352-9\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 93,
+        "label": "Lenton (2023)",
+        "x": 0.2956685089507114,
+        "y": -0.56618133411397,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "Quantifying the human cost of global warming\n综合性期刊\nDOI: 10.1038/s41893-023-01132-6\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 94,
+        "label": "Nordhaus (2017)",
+        "x": 0.27353563359721517,
+        "y": -0.3699012989047874,
+        "cluster": 1,
+        "weights": {
+          "Documents": 29,
+          "NodeSize": 7.385164807134504,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Revisiting the social cost of carbon\n综合性期刊\nDOI: 10.1073/pnas.1609244114\n本网络全部边中被引: 29"
+      },
+      {
+        "id": 95,
+        "label": "Tavoni (2011)",
+        "x": -0.3740790392812721,
+        "y": -0.06888199348294319,
+        "cluster": 2,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2011
+        },
+        "description": "Inequality, communication, and the avoidance of disastrous climate change in a public goods game\n综合性期刊\nDOI: 10.1073/pnas.1102493108\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 96,
+        "label": "Dennig (2015)",
+        "x": 0.39802549034478757,
+        "y": -0.16367588158788965,
+        "cluster": 1,
+        "weights": {
+          "Documents": 24,
+          "NodeSize": 6.898979485566356,
+          "Links": 15,
+          "Total Link Strength": 15
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Inequality, climate impacts on the future poor, and carbon prices\n综合性期刊\nDOI: 10.1073/pnas.1513967112\n本网络全部边中被引: 24"
+      },
+      {
+        "id": 97,
+        "label": "Roelfsema (2020)",
+        "x": -0.16449502185395093,
+        "y": -0.2881300414022657,
+        "cluster": 2,
+        "weights": {
+          "Documents": 20,
+          "NodeSize": 6.47213595499958,
+          "Links": 15,
+          "Total Link Strength": 15
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Taking stock of national climate policies to evaluate implementation of the Paris Agreement\n综合性期刊\nDOI: 10.1038/s41467-020-15414-6\n本网络全部边中被引: 20"
+      },
+      {
+        "id": 98,
+        "label": "Drouet (2021)",
+        "x": 0.13836949226810621,
+        "y": -0.2762263890200497,
+        "cluster": 1,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Net zero-emission pathways reduce the physical and economic risks of climate change\n综合性期刊\nDOI: 10.1038/s41558-021-01218-z\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 99,
+        "label": "Soergel (2021)",
+        "x": 0.18594256998917308,
+        "y": -0.10145243905516671,
+        "cluster": 4,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Combining ambitious climate policies with efforts to eradicate poverty\n综合性期刊\nDOI: 10.1038/s41467-021-22315-9\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 100,
+        "label": "Raupach (2014)",
+        "x": -0.36318393894258716,
+        "y": -0.4597364163283059,
+        "cluster": 2,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Sharing a quota on cumulative carbon emissions\n综合性期刊\nDOI: 10.1038/nclimate2384\n本网络全部边中被引: 12"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 1,
+        "target_id": 5,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 25,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 6,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 42,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 27,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 18,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 11,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 29,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 46,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 48,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 52,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 59,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 62,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 20,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 15,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 32,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 37,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 22,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 52,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 15,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 48,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 12,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 28,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 58,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 58,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 20,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 22,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 43,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 29,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 35,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 39,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 40,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 40,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 40,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 22,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 21,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 21,
+        "target_id": 41,
+        "strength": 1
+      },
+      {
+        "source_id": 21,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 59,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 62,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 43,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 26,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 41,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 41,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 39,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 37,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 52,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 61,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 35,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 64,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 61,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 48,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 52,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 57,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 61,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 53,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 48,
+        "strength": 1
+      },
+      {
+        "source_id": 47,
+        "target_id": 52,
+        "strength": 1
+      },
+      {
+        "source_id": 48,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 48,
+        "target_id": 62,
+        "strength": 1
+      },
+      {
+        "source_id": 48,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 62,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 52,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 62,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 53,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 53,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 53,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 57,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 57,
+        "target_id": 59,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 59,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 59,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 60,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 60,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 61,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 61,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 61,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 61,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 62,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 62,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 63,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 64,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 64,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 65,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 67,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 69,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 69,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 69,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 70,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 70,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 71,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 71,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 71,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 73,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 74,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 74,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 74,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 75,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 75,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 75,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 76,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 84,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 80,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 81,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 82,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 82,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 82,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 82,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 88,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 90,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 91,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 93,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 96,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 97,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 97,
+        "target_id": 98,
+        "strength": 1
+      }
+    ]
+  }
+}

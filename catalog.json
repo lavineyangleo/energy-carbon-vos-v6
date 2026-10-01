@@ -1,0 +1,527 @@
+[
+  {
+    "id": "econ-countries",
+    "title": "经济学期刊的全球国家合作态势",
+    "category": "经济学期刊",
+    "kind": "countries",
+    "nodes": 33,
+    "edges": 168,
+    "page": 63,
+    "note": "图示33节点、168边、2个聚类；表列规模前2群，括号为参与篇数。",
+    "points": [
+      [
+        "美国兼具发表规模与连接优势",
+        "美国参与681篇居首；美国总连接强度为321，也是图示合作强度最高的国家。"
+      ],
+      [
+        "英美关系构成最强合作主轴",
+        "英国—美国共同参与49篇，是本图最强合作边；双边篇数按共同署名计算。"
+      ],
+      [
+        "聚类规模与高产核心分别观察",
+        "最大聚类含17国，其中美国参与篇数最多。全图33/33国处于同一连通分量，群间仍存在合作联系。"
+      ]
+    ],
+    "references": []
+  },
+  {
+    "id": "mgmt-countries",
+    "title": "管理学期刊的全球国家合作态势",
+    "category": "管理学期刊",
+    "kind": "countries",
+    "nodes": 30,
+    "edges": 171,
+    "page": 64,
+    "note": "图示30节点、171边、2个聚类；表列规模前2群，括号为参与篇数。",
+    "points": [
+      [
+        "美国兼具发表规模与连接优势",
+        "美国参与474篇居首；美国总连接强度为294，也是图示合作强度最高的国家。"
+      ],
+      [
+        "英美关系构成最强合作主轴",
+        "英国—美国共同参与47篇，是本图最强合作边；双边篇数按共同署名计算。"
+      ],
+      [
+        "聚类规模与高产核心分别观察",
+        "最大聚类含16国，其中英国参与篇数最多。全图30/30国处于同一连通分量，群间仍存在合作联系。"
+      ]
+    ],
+    "references": []
+  },
+  {
+    "id": "general-countries",
+    "title": "综合性期刊的全球国家合作态势",
+    "category": "综合性期刊",
+    "kind": "countries",
+    "nodes": 60,
+    "edges": 1079,
+    "page": 65,
+    "note": "图示60节点、1079边、3个聚类；表列规模前3群，括号为参与篇数。",
+    "points": [
+      [
+        "美国兼具发表规模与连接优势",
+        "美国参与954篇居首；美国总连接强度为1605，也是图示合作强度最高的国家。"
+      ],
+      [
+        "英美关系构成最强合作主轴",
+        "英国—美国共同参与223篇，是本图最强合作边；双边篇数按共同署名计算。"
+      ],
+      [
+        "聚类规模与高产核心分别观察",
+        "最大聚类含32国，其中丹麦参与篇数最多。全图60/60国处于同一连通分量，群间仍存在合作联系。"
+      ]
+    ],
+    "references": []
+  },
+  {
+    "id": "econ-institutions",
+    "title": "经济学期刊的全球机构合作态势",
+    "category": "经济学期刊",
+    "kind": "institutions",
+    "nodes": 100,
+    "edges": 509,
+    "page": 66,
+    "note": "图示100节点、509边、7个聚类；表列规模前5群，括号为参与篇数。",
+    "points": [
+      [
+        "发文领先与合作连接共同定位核心",
+        "美国国家经济研究局参与140篇居首；美国国家经济研究局总连接强度最高，为240。"
+      ],
+      [
+        "核心搭档构成可识别的合作关系",
+        "美国国家经济研究局与加州大学伯克利分校共同参与23篇，是最强合作边。"
+      ],
+      [
+        "机构合作跨越多个局部聚类",
+        "最大聚类含31个机构，以美国国家经济研究局发文最多；最大连通分量覆盖100/100个图示机构，形成跨群连接。"
+      ]
+    ],
+    "references": []
+  },
+  {
+    "id": "mgmt-institutions",
+    "title": "管理学期刊的全球机构合作态势",
+    "category": "管理学期刊",
+    "kind": "institutions",
+    "nodes": 100,
+    "edges": 309,
+    "page": 67,
+    "note": "图示100节点、309边、8个聚类；表列规模前5群，括号为参与篇数。",
+    "points": [
+      [
+        "发文领先与合作连接共同定位核心",
+        "哈佛大学参与32篇居首；麻省理工学院总连接强度最高，为23。"
+      ],
+      [
+        "核心搭档构成可识别的合作关系",
+        "奥尔登堡大学与瑞士联邦理工学院共同参与4篇，是最强合作边之一。"
+      ],
+      [
+        "机构合作跨越多个局部聚类",
+        "最大聚类含19个机构，以密歇根大学发文最多；最大连通分量覆盖99/100个图示机构，形成跨群连接。"
+      ]
+    ],
+    "references": []
+  },
+  {
+    "id": "general-institutions",
+    "title": "综合性期刊的全球机构合作态势",
+    "category": "综合性期刊",
+    "kind": "institutions",
+    "nodes": 100,
+    "edges": 2236,
+    "page": 68,
+    "note": "图示100节点、2236边、4个聚类；表列规模前4群，括号为参与篇数。",
+    "points": [
+      [
+        "发文领先与合作连接共同定位核心",
+        "斯坦福大学参与100篇居首；乌得勒支大学总连接强度最高，为269。"
+      ],
+      [
+        "核心搭档构成可识别的合作关系",
+        "荷兰环境评估署与乌得勒支大学共同参与26篇，是最强合作边。"
+      ],
+      [
+        "机构合作跨越多个局部聚类",
+        "最大聚类含41个机构，以斯坦福大学发文最多；最大连通分量覆盖100/100个图示机构，形成跨群连接。"
+      ]
+    ],
+    "references": []
+  },
+  {
+    "id": "econ-authors",
+    "title": "经济学期刊的全球学者合作态势",
+    "category": "经济学期刊",
+    "kind": "authors",
+    "nodes": 100,
+    "edges": 90,
+    "page": 69,
+    "note": "图示100节点、90边、36个聚类；表列规模前5群，括号为参与篇数。",
+    "points": [
+      [
+        "高产作者与合作核心分别识别",
+        "Allcott, Hunt参与11篇并列居首；Martin, Ralf总连接强度最高，为13。"
+      ],
+      [
+        "稳定共同署名形成局部团队",
+        "Abrell, Jan与Rausch, Sebastian共同署名6篇，是本图最强合作边。"
+      ],
+      [
+        "多个独立团队并行开展研究",
+        "最大连通分量含39/100位作者，图示孤立作者18位。该结构描述筛选后的共同署名；孤立不等于缺乏学术影响。"
+      ]
+    ],
+    "references": []
+  },
+  {
+    "id": "mgmt-authors",
+    "title": "管理学期刊的全球学者合作态势",
+    "category": "管理学期刊",
+    "kind": "authors",
+    "nodes": 43,
+    "edges": 20,
+    "page": 70,
+    "note": "图示43节点、20边、25个聚类；表列规模前5群，括号为参与篇数。",
+    "points": [
+      [
+        "高产作者与合作核心分别识别",
+        "Geels, Frank W.参与6篇并列居首；Ketter, Wolfgang总连接强度最高，为6。"
+      ],
+      [
+        "稳定共同署名形成局部团队",
+        "Collins, John与Ketter, Wolfgang共同署名3篇，是本图最强合作边之一。"
+      ],
+      [
+        "多个独立团队并行开展研究",
+        "最大连通分量含4/43位作者，图示孤立作者14位。该结构描述筛选后的共同署名；孤立不等于缺乏学术影响。"
+      ]
+    ],
+    "references": []
+  },
+  {
+    "id": "general-authors",
+    "title": "综合性期刊的全球学者合作态势",
+    "category": "综合性期刊",
+    "kind": "authors",
+    "nodes": 100,
+    "edges": 789,
+    "page": 71,
+    "note": "图示100节点、789边、10个聚类；表列规模前5群，括号为参与篇数。",
+    "points": [
+      [
+        "高产作者与合作核心分别识别",
+        "Riahi, Keywan参与26篇居首；Riahi, Keywan总连接强度最高，为180。"
+      ],
+      [
+        "稳定共同署名形成局部团队",
+        "Krey, Volker与Riahi, Keywan共同署名12篇，是本图最强合作边。"
+      ],
+      [
+        "作者之间形成较广的合作连接",
+        "最大连通分量含96/100位作者，图示孤立作者4位。该结构描述筛选后的共同署名；孤立不等于缺乏学术影响。"
+      ]
+    ],
+    "references": []
+  },
+  {
+    "id": "econ-keywords",
+    "title": "经济学期刊的英文关键词共现网络",
+    "category": "经济学期刊",
+    "kind": "keywords",
+    "nodes": 100,
+    "edges": 2763,
+    "page": 74,
+    "note": "图示100节点、2763边、5个聚类；表列规模前5群，括号为出现篇数。",
+    "points": [
+      [
+        "政策与气候问题居于词频中心",
+        "CLIMATE CHANGE出现140篇，POLICY为113篇。关键词体现气候约束与政策设计的结合，但词频不等于理论贡献大小。"
+      ],
+      [
+        "碳定价与需求侧干预并存",
+        "Golosov[1]、Acemoglu[2]的理论研究与Allcott[3]的节能实验提供不同机制，支持将本类理解为多条问题主线，而非单一碳税主题。"
+      ],
+      [
+        "共现用于定位议题，引用用于识别基础",
+        "本图颜色代表关键词聚类；后续文献网络再检验哪些论文被共同调用。两类网络的边含义不同，不直接互换。"
+      ]
+    ],
+    "references": [
+      {
+        "citation": "GOLOSOV M, HASSLER J, KRUSELL P, et al. Optimal Taxes on Fossil Fuel in General Equilibrium[J]. Econometrica, 2014, 82(1): 41-88. DOI: 10.3982/ecta10217.",
+        "doi": "10.3982/ecta10217"
+      },
+      {
+        "citation": "ACEMOGLU D, AGHION P, BURSZTYN L, et al. The Environment and Directed Technical Change[J]. American Economic Review, 2012, 102(1): 131-166. DOI: 10.1257/aer.102.1.131.",
+        "doi": "10.1257/aer.102.1.131"
+      },
+      {
+        "citation": "ALLCOTT H. Social norms and energy conservation[J]. Journal of Public Economics, 2011, 95(9-10): 1082-1095. DOI: 10.1016/j.jpubeco.2011.03.003.",
+        "doi": "10.1016/j.jpubeco.2011.03.003"
+      }
+    ]
+  },
+  {
+    "id": "mgmt-keywords",
+    "title": "管理学期刊的英文关键词共现网络",
+    "category": "管理学期刊",
+    "kind": "keywords",
+    "nodes": 100,
+    "edges": 2150,
+    "page": 75,
+    "note": "图示100节点、2150边、4个聚类；表列规模前4群，括号为出现篇数。",
+    "points": [
+      [
+        "组织绩效与创新形成主要议题",
+        "PERFORMANCE为97篇、MANAGEMENT为94篇、INNOVATION为83篇，显示管理学样本关注组织表现及创新过程。"
+      ],
+      [
+        "系统转型与能源运营同时存在",
+        "ENERGY出现90篇。结合Markard[1]等的转型框架与Sunar[2]、Birge的电力运营研究，可区分系统制度和企业决策两个层次。"
+      ],
+      [
+        "主题接近不等于同一知识基础",
+        "高频词只显示共同讨论的问题。框架、实验与运营模型如何连接，需要进一步查看具体文献及直接引用关系。"
+      ]
+    ],
+    "references": [
+      {
+        "citation": "MARKARD J, RAVEN R, TRUFFER B. Sustainability transitions: An emerging field of research and its prospects[J]. Research Policy, 2012, 41(6): 955-967. DOI: 10.1016/j.respol.2012.02.013.",
+        "doi": "10.1016/j.respol.2012.02.013"
+      },
+      {
+        "citation": "SUNAR N, BIRGE J R. Strategic Commitment to a Production Schedule with Uncertain Supply and Demand: Renewable Energy in Day-Ahead Electricity Markets[J]. Management Science, 2019, 65(2): 714-734. DOI: 10.1287/mnsc.2017.2961.",
+        "doi": "10.1287/mnsc.2017.2961"
+      }
+    ]
+  },
+  {
+    "id": "general-keywords",
+    "title": "综合性期刊的英文关键词共现网络",
+    "category": "综合性期刊",
+    "kind": "keywords",
+    "nodes": 100,
+    "edges": 2376,
+    "page": 76,
+    "note": "图示100节点、2376边、4个聚类；表列规模前4群，括号为出现篇数。",
+    "points": [
+      [
+        "气候变化统领影响与减排讨论",
+        "CLIMATE CHANGE出现371篇，IMPACTS为138篇、EMISSIONS为130篇，呈现气候—损害—减排的共同问题背景。"
+      ],
+      [
+        "模型与政策连接不同研究尺度",
+        "MODEL为120篇、POLICY为127篇。Moss[1]的情景框架与Nordhaus[2]的碳成本研究分别提供研究接口与定价指标。"
+      ],
+      [
+        "共同主题内部仍需区分贡献",
+        "Burke[3]提供经验损害依据，Rogelj评估承诺缺口，Davis讨论净零系统；不能把这些论文都归结为同一种“气候影响”。"
+      ]
+    ],
+    "references": [
+      {
+        "citation": "MOSS R H, EDMONDS J A, HIBBARD K A, et al. The next generation of scenarios for climate change research and assessment[J]. Nature, 2010, 463(7282): 747-756. DOI: 10.1038/nature08823.",
+        "doi": "10.1038/nature08823"
+      },
+      {
+        "citation": "NORDHAUS W D. Revisiting the social cost of carbon[J]. Proceedings of the National Academy of Sciences, 2017, 114(7): 1518-1523. DOI: 10.1073/pnas.1609244114.",
+        "doi": "10.1073/pnas.1609244114"
+      },
+      {
+        "citation": "BURKE M, HSIANG S M, MIGUEL E. Global non-linear effect of temperature on economic production[J]. Nature, 2015, 527(7577): 235-239. DOI: 10.1038/nature15725.",
+        "doi": "10.1038/nature15725"
+      }
+    ]
+  },
+  {
+    "id": "cn-keywords",
+    "title": "中文期刊的中文关键词共现网络",
+    "category": "中文期刊",
+    "kind": "keywords",
+    "nodes": 48,
+    "edges": 138,
+    "page": 77,
+    "note": "中文只有主题代表性，缺少CR和TC；右表不表示引用排名。",
+    "points": [
+      [
+        "宏观路径与政策评估应分层解读",
+        "张希良等讨论碳中和系统路径；林鹏昇、李硕比较行政与市场政策。前者是模型路径，后者区分排放强度、总量与产出。"
+      ],
+      [
+        "企业效率—配置—供应链形成机制链",
+        "王杰[1]、刘斌讨论规制与生产率；杨豪[2]等考察碳配置效率；屠西伟[3]、张平淡研究数字化降碳及前向供应链溢出。"
+      ],
+      [
+        "价值链研究需明确连接碳问题",
+        "牛猛等把价值链重构与贸易隐含碳联系起来。六篇仅作主题代表；中文缺少引文数据，不能据此给出引用中心性排名。"
+      ]
+    ],
+    "references": [
+      {
+        "citation": "王杰, 刘斌. 环境规制与企业全要素生产率——基于中国工业企业数据的经验分析[J]. 中国工业经济, 2014(3): 44-56. DOI: 10.19581/j.cnki.ciejournal.2014.03.004.",
+        "doi": "10.19581/j.cnki.ciejournal.2014.03.004"
+      },
+      {
+        "citation": "杨豪, 潘颖豪, 才国伟. 碳排放总量控制、配置效率与产出收益[J]. 中国工业经济, 2023(7): 46-65. DOI: 10.19581/j.cnki.ciejournal.2023.07.003.",
+        "doi": "10.19581/j.cnki.ciejournal.2023.07.003"
+      },
+      {
+        "citation": "屠西伟, 张平淡. 企业数字化转型、碳排放与供应链溢出[J]. 中国工业经济, 2024(4): 133-151. DOI: 10.19581/j.cnki.ciejournal.2024.04.010.",
+        "doi": "10.19581/j.cnki.ciejournal.2024.04.010"
+      }
+    ]
+  },
+  {
+    "id": "econ-citations",
+    "title": "经济学期刊的文献被引网络",
+    "category": "经济学期刊",
+    "kind": "citations",
+    "nodes": 100,
+    "edges": 320,
+    "page": 83,
+    "note": "指标按完整类内网络计算；内容分组不与图中聚类编号机械对应。",
+    "points": [
+      [
+        "碳定价—创新方向构成理论基础",
+        "Golosov等（2014）[1]类内被引70篇；Acemoglu等（2012）[2]被引66篇、中介居首，共同连接碳税、清洁创新与增长问题。"
+      ],
+      [
+        "需求侧研究兼顾效果与福利",
+        "Allcott（2011）[3]和能效缺口研究各被引57篇：前者提供节能实验，后者审查投资低效率与政策靶向性，二者作用互补。"
+      ],
+      [
+        "共同基础不等于同一种机制",
+        "碳税改变价格，研发激励改变技术方向，社会规范改变行为。应按机制解释节点，不能将不同结果合成单一政策结论。"
+      ]
+    ],
+    "references": [
+      {
+        "citation": "GOLOSOV M, HASSLER J, KRUSELL P, et al. Optimal Taxes on Fossil Fuel in General Equilibrium[J]. Econometrica, 2014, 82(1): 41-88. DOI: 10.3982/ecta10217.",
+        "doi": "10.3982/ecta10217"
+      },
+      {
+        "citation": "ACEMOGLU D, AGHION P, BURSZTYN L, et al. The Environment and Directed Technical Change[J]. American Economic Review, 2012, 102(1): 131-166. DOI: 10.1257/aer.102.1.131.",
+        "doi": "10.1257/aer.102.1.131"
+      },
+      {
+        "citation": "ALLCOTT H. Social norms and energy conservation[J]. Journal of Public Economics, 2011, 95(9-10): 1082-1095. DOI: 10.1016/j.jpubeco.2011.03.003.",
+        "doi": "10.1016/j.jpubeco.2011.03.003"
+      }
+    ]
+  },
+  {
+    "id": "mgmt-citations",
+    "title": "管理学期刊的文献被引网络",
+    "category": "管理学期刊",
+    "kind": "citations",
+    "nodes": 100,
+    "edges": 377,
+    "page": 84,
+    "note": "指标按完整类内网络计算；内容分组不与图中聚类编号机械对应。",
+    "points": [
+      [
+        "制度—组织—创新系统是一组基础",
+        "Markard等（2012）[1]被引与PageRank居首；Bergek等（2008）[3]提供诊断框架，Sine、Lee（2009）[2]解释制度与产业形成。"
+      ],
+      [
+        "市场机制—运营决策是另一组基础",
+        "Sunar、Birge（2019）获22篇类内引用，研究电力承诺与可靠性；这一分支说明“可持续转型”不能概括全部管理学文献。"
+      ],
+      [
+        "Drake、York连接分支，尚无被引积累",
+        "该文中介居首，通过8条外向引用连接社会运动、技术选择和投资研究。类内及跨类被引均为0，不能解释为已获广泛影响。"
+      ]
+    ],
+    "references": [
+      {
+        "citation": "MARKARD J, RAVEN R, TRUFFER B. Sustainability transitions: An emerging field of research and its prospects[J]. Research Policy, 2012, 41(6): 955-967. DOI: 10.1016/j.respol.2012.02.013.",
+        "doi": "10.1016/j.respol.2012.02.013"
+      },
+      {
+        "citation": "SINE W D, LEE B H. Tilting at Windmills? The Environmental Movement and the Emergence of the U.S. Wind Energy Sector[J]. Administrative Science Quarterly, 2009, 54(1): 123-155. DOI: 10.2189/asqu.2009.54.1.123.",
+        "doi": "10.2189/asqu.2009.54.1.123"
+      },
+      {
+        "citation": "BERGEK A, JACOBSSON S, CARLSSON B, et al. Analyzing the functional dynamics of technological innovation systems: A scheme of analysis[J]. Research Policy, 2008, 37(3): 407-429. DOI: 10.1016/j.respol.2007.12.003.",
+        "doi": "10.1016/j.respol.2007.12.003"
+      }
+    ]
+  },
+  {
+    "id": "general-citations",
+    "title": "综合性期刊的文献被引网络",
+    "category": "综合性期刊",
+    "kind": "citations",
+    "nodes": 100,
+    "edges": 344,
+    "page": 85,
+    "note": "指标按完整类内网络计算；内容分组不与图中聚类编号机械对应。",
+    "points": [
+      [
+        "气候损害—政策目标构成两端证据",
+        "Burke等（2015）[1]被引60篇，提供温度—产出的经验关系；Rogelj等（2016）[2]被引49篇，连接国家承诺与温控目标。"
+      ],
+      [
+        "情景—净零系统提供共同研究接口",
+        "Moss等（2010）[3]组织情景研究，Davis等（2018）讨论难减排过程与能源系统整合，使目标、影响与技术路径能够衔接。"
+      ],
+      [
+        "碳社会成本是跨类别定价接口",
+        "Nordhaus（2017）类内被引29篇、跨类39篇，其中37篇来自经济学。发表载体与知识流向不同，应同时考察。"
+      ]
+    ],
+    "references": [
+      {
+        "citation": "BURKE M, HSIANG S M, MIGUEL E. Global non-linear effect of temperature on economic production[J]. Nature, 2015, 527(7577): 235-239. DOI: 10.1038/nature15725.",
+        "doi": "10.1038/nature15725"
+      },
+      {
+        "citation": "ROGELJ J, DEN ELZEN M, HÖHNE N, et al. Paris Agreement climate proposals need a boost to keep warming well below 2 °C[J]. Nature, 2016, 534(7609): 631-639. DOI: 10.1038/nature18307.",
+        "doi": "10.1038/nature18307"
+      },
+      {
+        "citation": "MOSS R H, EDMONDS J A, HIBBARD K A, et al. The next generation of scenarios for climate change research and assessment[J]. Nature, 2010, 463(7282): 747-756. DOI: 10.1038/nature08823.",
+        "doi": "10.1038/nature08823"
+      }
+    ]
+  },
+  {
+    "id": "cross-citations",
+    "title": "三类期刊的交叉文献被引网络",
+    "category": "英文三类",
+    "kind": "cross-citations",
+    "nodes": 95,
+    "edges": 188,
+    "page": 86,
+    "note": "颜色区分期刊类型；连接为直接引用的无向展示，完整方向见证据边表。",
+    "points": [
+      [
+        "损害与碳成本主要进入经济学研究",
+        "Nordhaus（2017）[1]的39篇跨类施引中，经济学占37篇；Burke等（2015）[2]的25篇中，经济学占22篇，显示明显方向差异。"
+      ],
+      [
+        "经济学也向综合性研究提供适应证据",
+        "Deschênes、Greenstone（2011）[3]获21篇跨类引用，全部来自综合性期刊，连接健康损害、适应行为与能源需求。"
+      ],
+      [
+        "低类内排序不排除跨类别作用",
+        "实时反馈研究类内被引3篇，却获10篇跨类引用。它作为具体实验证据进入其他类别，不能仅凭类内排名判断作用。"
+      ]
+    ],
+    "references": [
+      {
+        "citation": "NORDHAUS W D. Revisiting the social cost of carbon[J]. Proceedings of the National Academy of Sciences, 2017, 114(7): 1518-1523. DOI: 10.1073/pnas.1609244114.",
+        "doi": "10.1073/pnas.1609244114"
+      },
+      {
+        "citation": "BURKE M, HSIANG S M, MIGUEL E. Global non-linear effect of temperature on economic production[J]. Nature, 2015, 527(7577): 235-239. DOI: 10.1038/nature15725.",
+        "doi": "10.1038/nature15725"
+      },
+      {
+        "citation": "DESCHÊNES O, GREENSTONE M. Climate Change, Mortality, and Adaptation: Evidence from Annual Fluctuations in Weather in the US[J]. American Economic Journal: Applied Economics, 2011, 3(4): 152-185. DOI: 10.1257/app.3.4.152.",
+        "doi": "10.1257/app.3.4.152"
+      }
+    ]
+  }
+]

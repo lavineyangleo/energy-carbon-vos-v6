@@ -1,0 +1,1403 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "United States",
+        "x": 0.010967564710188948,
+        "y": -0.2153124414923985,
+        "cluster": 1,
+        "weights": {
+          "Documents": 474.0,
+          "Links": 29.0,
+          "Total Link Strength": 294.0,
+          "NodeSize": 5.265731158561586
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.9493670886077
+        },
+        "description": "United States"
+      },
+      {
+        "id": 2,
+        "label": "United Kingdom",
+        "x": -0.013225399162074512,
+        "y": -0.2938827463972511,
+        "cluster": 2,
+        "weights": {
+          "Documents": 155.0,
+          "Links": 26.0,
+          "Total Link Strength": 170.0,
+          "NodeSize": 3.8674849396983095
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.858064516129
+        },
+        "description": "United Kingdom"
+      },
+      {
+        "id": 3,
+        "label": "Germany",
+        "x": -0.050907275337025555,
+        "y": -0.3723231619491224,
+        "cluster": 2,
+        "weights": {
+          "Documents": 81.0,
+          "Links": 21.0,
+          "Total Link Strength": 95.0,
+          "NodeSize": 3.3499999999999996
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.530864197531
+        },
+        "description": "Germany"
+      },
+      {
+        "id": 4,
+        "label": "China",
+        "x": 0.09979726500356219,
+        "y": -0.12514152466644263,
+        "cluster": 1,
+        "weights": {
+          "Documents": 77.0,
+          "Links": 13.0,
+          "Total Link Strength": 81.0,
+          "NodeSize": 3.3162446581088183
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.4545454545455
+        },
+        "description": "China"
+      },
+      {
+        "id": 5,
+        "label": "Canada",
+        "x": 0.1161523457947983,
+        "y": -0.2239938469172245,
+        "cluster": 1,
+        "weights": {
+          "Documents": 66.0,
+          "Links": 17.0,
+          "Total Link Strength": 82.0,
+          "NodeSize": 3.218605760695394
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.5
+        },
+        "description": "Canada"
+      },
+      {
+        "id": 6,
+        "label": "Netherlands",
+        "x": -0.12479027317732942,
+        "y": -0.30722013912067414,
+        "cluster": 2,
+        "weights": {
+          "Documents": 62.0,
+          "Links": 18.0,
+          "Total Link Strength": 82.0,
+          "NodeSize": 3.1811011811017718
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.2903225806451
+        },
+        "description": "Netherlands"
+      },
+      {
+        "id": 7,
+        "label": "France",
+        "x": 0.06539094280108798,
+        "y": -0.29696769383703653,
+        "cluster": 2,
+        "weights": {
+          "Documents": 59.0,
+          "Links": 18.0,
+          "Total Link Strength": 75.0,
+          "NodeSize": 3.152171862180291
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.9830508474577
+        },
+        "description": "France"
+      },
+      {
+        "id": 8,
+        "label": "Switzerland",
+        "x": -0.18793116460444384,
+        "y": -0.36270126600176733,
+        "cluster": 2,
+        "weights": {
+          "Documents": 44.0,
+          "Links": 18.0,
+          "Total Link Strength": 51.0,
+          "NodeSize": 2.99498743710662
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.909090909091
+        },
+        "description": "Switzerland"
+      },
+      {
+        "id": 9,
+        "label": "Australia",
+        "x": -0.001790872880113397,
+        "y": -0.11270607754254003,
+        "cluster": 1,
+        "weights": {
+          "Documents": 37.0,
+          "Links": 16.0,
+          "Total Link Strength": 43.0,
+          "NodeSize": 2.9124143795447326
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.972972972973
+        },
+        "description": "Australia"
+      },
+      {
+        "id": 10,
+        "label": "Italy",
+        "x": -0.09874514288610624,
+        "y": -0.1508242878771001,
+        "cluster": 2,
+        "weights": {
+          "Documents": 25.0,
+          "Links": 15.0,
+          "Total Link Strength": 31.0,
+          "NodeSize": 2.75
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.52
+        },
+        "description": "Italy"
+      },
+      {
+        "id": 11,
+        "label": "Singapore",
+        "x": -0.02794077768202187,
+        "y": -0.013647563634021682,
+        "cluster": 1,
+        "weights": {
+          "Documents": 24.0,
+          "Links": 11.0,
+          "Total Link Strength": 32.0,
+          "NodeSize": 2.7348469228349535
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.2916666666667
+        },
+        "description": "Singapore"
+      },
+      {
+        "id": 12,
+        "label": "Spain",
+        "x": 0.08444708129538346,
+        "y": -0.3765743422962025,
+        "cluster": 2,
+        "weights": {
+          "Documents": 24.0,
+          "Links": 16.0,
+          "Total Link Strength": 39.0,
+          "NodeSize": 2.7348469228349535
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "Spain"
+      },
+      {
+        "id": 13,
+        "label": "Belgium",
+        "x": -0.1489974807298098,
+        "y": -0.22294310220176436,
+        "cluster": 2,
+        "weights": {
+          "Documents": 20.0,
+          "Links": 16.0,
+          "Total Link Strength": 37.0,
+          "NodeSize": 2.670820393249937
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.9
+        },
+        "description": "Belgium"
+      },
+      {
+        "id": 14,
+        "label": "Finland",
+        "x": -0.11461528381791343,
+        "y": -0.6459999999999999,
+        "cluster": 2,
+        "weights": {
+          "Documents": 17.0,
+          "Links": 6.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.9411764705883
+        },
+        "description": "Finland"
+      },
+      {
+        "id": 15,
+        "label": "Norway",
+        "x": 0.021463885453888654,
+        "y": -0.5828851923763514,
+        "cluster": 2,
+        "weights": {
+          "Documents": 17.0,
+          "Links": 9.0,
+          "Total Link Strength": 18.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1764705882354
+        },
+        "description": "Norway"
+      },
+      {
+        "id": 16,
+        "label": "Sweden",
+        "x": -0.2731527553695737,
+        "y": -0.27440986151980823,
+        "cluster": 2,
+        "weights": {
+          "Documents": 14.0,
+          "Links": 12.0,
+          "Total Link Strength": 24.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.7142857142858
+        },
+        "description": "Sweden"
+      },
+      {
+        "id": 17,
+        "label": "Denmark",
+        "x": -0.2215334426751102,
+        "y": -0.47364958206604596,
+        "cluster": 2,
+        "weights": {
+          "Documents": 13.0,
+          "Links": 10.0,
+          "Total Link Strength": 19.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "Denmark"
+      },
+      {
+        "id": 18,
+        "label": "New Zealand",
+        "x": 0.21342567133471993,
+        "y": 0.07109347362741204,
+        "cluster": 1,
+        "weights": {
+          "Documents": 13.0,
+          "Links": 5.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.923076923077
+        },
+        "description": "New Zealand"
+      },
+      {
+        "id": 19,
+        "label": "Austria",
+        "x": -0.11100337396922741,
+        "y": -0.5147978859460817,
+        "cluster": 2,
+        "weights": {
+          "Documents": 10.0,
+          "Links": 12.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.1
+        },
+        "description": "Austria"
+      },
+      {
+        "id": 20,
+        "label": "Ireland",
+        "x": 0.1042433466866468,
+        "y": -0.5021081971291508,
+        "cluster": 2,
+        "weights": {
+          "Documents": 9.0,
+          "Links": 11.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.111111111111
+        },
+        "description": "Ireland"
+      },
+      {
+        "id": 21,
+        "label": "South Korea",
+        "x": 0.0677690982449136,
+        "y": 0.16215954334200836,
+        "cluster": 1,
+        "weights": {
+          "Documents": 8.0,
+          "Links": 4.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.875
+        },
+        "description": "South Korea"
+      },
+      {
+        "id": 22,
+        "label": "India",
+        "x": -0.18579564320185715,
+        "y": 0.017656012925422855,
+        "cluster": 1,
+        "weights": {
+          "Documents": 7.0,
+          "Links": 6.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4285714285713
+        },
+        "description": "India"
+      },
+      {
+        "id": 23,
+        "label": "Japan",
+        "x": 0.315833398415227,
+        "y": -0.0647226003933233,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 7.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.3333333333333
+        },
+        "description": "Japan"
+      },
+      {
+        "id": 24,
+        "label": "Saudi Arabia",
+        "x": 0.4227110517480557,
+        "y": -0.17578813175556188,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 3.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.6666666666667
+        },
+        "description": "Saudi Arabia"
+      },
+      {
+        "id": 25,
+        "label": "Brazil",
+        "x": 0.5234912274260772,
+        "y": -0.32555701627190087,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.6
+        },
+        "description": "Brazil"
+      },
+      {
+        "id": 26,
+        "label": "Pakistan",
+        "x": 0.3331993047888617,
+        "y": -0.4590430524800133,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.8
+        },
+        "description": "Pakistan"
+      },
+      {
+        "id": 27,
+        "label": "Portugal",
+        "x": -0.40915925229736305,
+        "y": -0.0684783361580651,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 6.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.6
+        },
+        "description": "Portugal"
+      },
+      {
+        "id": 28,
+        "label": "Israel",
+        "x": 0.19272407223310647,
+        "y": 0.646,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2010.0
+        },
+        "description": "Israel"
+      },
+      {
+        "id": 29,
+        "label": "Turkey",
+        "x": -0.45053136863874405,
+        "y": -0.6435059445579532,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 3.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.25
+        },
+        "description": "Turkey"
+      },
+      {
+        "id": 30,
+        "label": "South Africa",
+        "x": -0.5234912274260772,
+        "y": -0.3056718577095534,
+        "cluster": 2,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 5.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "South Africa"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 2,
+        "target_id": 1,
+        "strength": 47.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 1,
+        "strength": 41.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 1,
+        "strength": 34.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 1,
+        "strength": 25.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 1,
+        "strength": 19.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 1,
+        "strength": 18.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 2,
+        "strength": 15.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 1,
+        "strength": 13.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 1,
+        "strength": 13.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 2,
+        "strength": 12.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 6,
+        "strength": 12.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 2,
+        "strength": 12.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 1,
+        "strength": 11.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 4,
+        "strength": 11.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 1,
+        "strength": 11.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 2,
+        "strength": 10.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 8,
+        "strength": 9.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 2,
+        "strength": 8.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 2,
+        "strength": 7.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 11,
+        "strength": 7.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 2,
+        "strength": 7.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 6,
+        "strength": 7.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 1,
+        "strength": 7.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 7,
+        "strength": 6.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 2,
+        "strength": 6.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 2,
+        "strength": 6.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 8,
+        "strength": 5.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 5,
+        "strength": 4.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 7,
+        "strength": 4.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 6,
+        "strength": 4.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 7,
+        "strength": 4.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 3,
+        "strength": 4.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 12,
+        "strength": 4.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 16,
+        "strength": 4.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 2,
+        "strength": 4.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 22,
+        "strength": 3.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 26,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 10,
+        "strength": 3.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 10,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 11,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 12,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 20,
+        "strength": 3.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 12,
+        "strength": 3.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 18,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 11,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 20,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 7,
+        "strength": 2.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 20,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 29,
+        "strength": 1.0
+      }
+    ]
+  }
+}

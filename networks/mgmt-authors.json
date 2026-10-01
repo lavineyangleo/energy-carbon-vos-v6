@@ -1,0 +1,882 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "Geels, Frank W.｜Univ Manchester｜United Kingdom",
+        "x": -0.7917158901963918,
+        "y": -0.455057956081937,
+        "cluster": 2,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.3333333333333
+        },
+        "description": "Geels, Frank W.｜Univ Manchester｜United Kingdom"
+      },
+      {
+        "id": 2,
+        "label": "Hoppmann, Joern｜Swiss Fed Inst Technol｜Switzerland",
+        "x": -0.6638072352665486,
+        "y": 0.7243148875522056,
+        "cluster": 6,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "Hoppmann, Joern｜Swiss Fed Inst Technol｜Switzerland"
+      },
+      {
+        "id": 3,
+        "label": "Secomandi, Nicola｜Carnegie Mellon Univ｜United States",
+        "x": 0.49306506926083504,
+        "y": -0.8124723472941087,
+        "cluster": 7,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6666666666667
+        },
+        "description": "Secomandi, Nicola｜Carnegie Mellon Univ｜United States"
+      },
+      {
+        "id": 4,
+        "label": "York, Jeffrey G.｜Univ Colorado｜United States",
+        "x": -0.8889274553304491,
+        "y": -0.2658917253159999,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 2.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.8333333333333
+        },
+        "description": "York, Jeffrey G.｜Univ Colorado｜United States"
+      },
+      {
+        "id": 5,
+        "label": "Yucel, Safak｜Georgetown Univ｜United States",
+        "x": -0.27535564143184427,
+        "y": -0.796144266738446,
+        "cluster": 3,
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6666666666667
+        },
+        "description": "Yucel, Safak｜Georgetown Univ｜United States"
+      },
+      {
+        "id": 6,
+        "label": "Hoffmann, Volker H.｜ETH｜Switzerland",
+        "x": -0.375893301808368,
+        "y": 0.4407488153539502,
+        "cluster": 6,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.0
+        },
+        "description": "Hoffmann, Volker H.｜ETH｜Switzerland"
+      },
+      {
+        "id": 7,
+        "label": "Ketter, Wolfgang｜Erasmus Univ｜Netherlands",
+        "x": -1.1764652737857142,
+        "y": 0.10271782771450799,
+        "cluster": 5,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.8
+        },
+        "description": "Ketter, Wolfgang｜Erasmus Univ｜Netherlands"
+      },
+      {
+        "id": 8,
+        "label": "Nadarajah, Selvaprabu｜Univ Illinois｜United States",
+        "x": 0.2517457106781207,
+        "y": -0.5747972134901309,
+        "cluster": 7,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6
+        },
+        "description": "Nadarajah, Selvaprabu｜Univ Illinois｜United States"
+      },
+      {
+        "id": 9,
+        "label": "Pacheco, Desiree F.｜Portland State Univ｜United States",
+        "x": -0.8531003962946899,
+        "y": -0.347346489558829,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.6
+        },
+        "description": "Pacheco, Desiree F.｜Portland State Univ｜United States"
+      },
+      {
+        "id": 10,
+        "label": "Plambeck, Erica L.｜Stanford Univ｜United States",
+        "x": -0.232467619404391,
+        "y": -0.455057956081937,
+        "cluster": 3,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.6
+        },
+        "description": "Plambeck, Erica L.｜Stanford Univ｜United States"
+      },
+      {
+        "id": 11,
+        "label": "Sunar, Nur｜Univ North Carolina Chapel Hill｜United States",
+        "x": -0.20732911628525938,
+        "y": -0.149938024680039,
+        "cluster": 4,
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.0
+        },
+        "description": "Sunar, Nur｜Univ North Carolina Chapel Hill｜United States"
+      },
+      {
+        "id": 12,
+        "label": "Birge, John R.｜Univ Chicago｜United States",
+        "x": -0.48366916563468987,
+        "y": -0.30931029354918604,
+        "cluster": 4,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.5
+        },
+        "description": "Birge, John R.｜Univ Chicago｜United States"
+      },
+      {
+        "id": 13,
+        "label": "Drake, David F.｜Univ Colorado｜United States",
+        "x": -0.9491920371342292,
+        "y": -0.1288769260236533,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.75
+        },
+        "description": "Drake, David F.｜Univ Colorado｜United States"
+      },
+      {
+        "id": 14,
+        "label": "Kivimaa, Paula｜Univ Sussex｜United Kingdom",
+        "x": -1.064508286559321,
+        "y": -0.708254915864964,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.75
+        },
+        "description": "Kivimaa, Paula｜Univ Sussex｜United Kingdom"
+      },
+      {
+        "id": 15,
+        "label": "Markard, Jochen｜Swiss Fed Inst Technol｜Switzerland",
+        "x": -0.8722750604692742,
+        "y": 0.5481140924414694,
+        "cluster": 8,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.25
+        },
+        "description": "Markard, Jochen｜Swiss Fed Inst Technol｜Switzerland"
+      },
+      {
+        "id": 16,
+        "label": "Muthulingam, Suresh｜Penn State Univ｜United States",
+        "x": -1.003123780461023,
+        "y": -0.006260178902320113,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "Muthulingam, Suresh｜Penn State Univ｜United States"
+      },
+      {
+        "id": 17,
+        "label": "Pan, Kai｜Hong Kong Polytech Univ｜China",
+        "x": -0.4336294968189855,
+        "y": 0.2829675250805253,
+        "cluster": 9,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.25
+        },
+        "description": "Pan, Kai｜Hong Kong Polytech Univ｜China"
+      },
+      {
+        "id": 18,
+        "label": "Powell, Warren B.｜Princeton Univ｜United States",
+        "x": 0.5740138709132102,
+        "y": -0.28597541630376144,
+        "cluster": 12,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.75
+        },
+        "description": "Powell, Warren B.｜Princeton Univ｜United States"
+      },
+      {
+        "id": 19,
+        "label": "Rogge, Karoline S.｜Univ Sussex｜United Kingdom",
+        "x": -0.9406605800632305,
+        "y": -0.796144266738446,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.75
+        },
+        "description": "Rogge, Karoline S.｜Univ Sussex｜United Kingdom"
+      },
+      {
+        "id": 20,
+        "label": "Swaminathan, Jayashankar M.｜UNC Kenan Flagler Business Sch｜United States",
+        "x": -0.024154095201545434,
+        "y": -0.044296374911963116,
+        "cluster": 4,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.75
+        },
+        "description": "Swaminathan, Jayashankar M.｜UNC Kenan Flagler Business Sch｜United States"
+      },
+      {
+        "id": 21,
+        "label": "Truffer, Bernhard｜EAWAG Swiss Fed Inst Aquat Sci & Technol｜Switzerland",
+        "x": -1.1369922695538293,
+        "y": 0.808833739878382,
+        "cluster": 8,
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.75
+        },
+        "description": "Truffer, Bernhard｜EAWAG Swiss Fed Inst Aquat Sci &amp; Technol｜Switzerland"
+      },
+      {
+        "id": 22,
+        "label": "Ahmed, Shabbir｜Georgia Inst Technol｜United States",
+        "x": 0.8473073980146087,
+        "y": -0.6461703179558208,
+        "cluster": 13,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6666666666667
+        },
+        "description": "Ahmed, Shabbir｜Georgia Inst Technol｜United States"
+      },
+      {
+        "id": 23,
+        "label": "Anadon, Laura Diaz｜Univ Cambridge｜United Kingdom",
+        "x": 1.1491024660048696,
+        "y": -0.6461703179558208,
+        "cluster": 14,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6666666666667
+        },
+        "description": "Anadon, Laura Diaz｜Univ Cambridge｜United Kingdom"
+      },
+      {
+        "id": 24,
+        "label": "Bichler, Martin｜Tech Univ Munich｜Germany",
+        "x": 0.8473073980146087,
+        "y": -0.23851095386746238,
+        "cluster": 15,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3333333333333
+        },
+        "description": "Bichler, Martin｜Tech Univ Munich｜Germany"
+      },
+      {
+        "id": 25,
+        "label": "Bunn, Derek W.｜London Business Sch｜United Kingdom",
+        "x": 1.1491024660048696,
+        "y": -0.23851095386746238,
+        "cluster": 16,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "Bunn, Derek W.｜London Business Sch｜United Kingdom"
+      },
+      {
+        "id": 26,
+        "label": "Clarkson, Peter｜Univ Queensland｜Australia",
+        "x": 0.1874674808173132,
+        "y": 0.1864890461325376,
+        "cluster": 17,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "Clarkson, Peter｜Univ Queensland｜Australia"
+      },
+      {
+        "id": 27,
+        "label": "Collins, John｜Univ Minnesota｜United States",
+        "x": -0.8328020562373892,
+        "y": 0.17964538797880691,
+        "cluster": 5,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 2.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3333333333333
+        },
+        "description": "Collins, John｜Univ Minnesota｜United States"
+      },
+      {
+        "id": 28,
+        "label": "Costantini, Valeria｜Roma Tre Univ｜Italy",
+        "x": -0.28497311229525824,
+        "y": 0.7243148875522054,
+        "cluster": 10,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3333333333333
+        },
+        "description": "Costantini, Valeria｜Roma Tre Univ｜Italy"
+      },
+      {
+        "id": 29,
+        "label": "Dowell, Glen｜Cornell Univ｜United States",
+        "x": 0.46560061061298486,
+        "y": 0.1864890461325376,
+        "cluster": 18,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6666666666667
+        },
+        "description": "Dowell, Glen｜Cornell Univ｜United States"
+      },
+      {
+        "id": 30,
+        "label": "Gond, Jean-Pascal｜City Univ London｜United Kingdom",
+        "x": 0.1874674808173132,
+        "y": 0.6288296820441792,
+        "cluster": 19,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "Gond, Jean-Pascal｜City Univ London｜United Kingdom"
+      },
+      {
+        "id": 31,
+        "label": "Guan, Yongpei｜Univ Florida｜United States",
+        "x": -0.22723691728464074,
+        "y": 0.07969173218486454,
+        "cluster": 9,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.6666666666667
+        },
+        "description": "Guan, Yongpei｜Univ Florida｜United States"
+      },
+      {
+        "id": 32,
+        "label": "Gupta, Alok｜Univ Minnesota｜United States",
+        "x": -1.1301398098882647,
+        "y": 0.45182555896457743,
+        "cluster": 5,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 2.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "Gupta, Alok｜Univ Minnesota｜United States"
+      },
+      {
+        "id": 33,
+        "label": "He, Long｜George Washington Univ｜United States",
+        "x": 0.4032318423804464,
+        "y": -0.4368840108481963,
+        "cluster": 11,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "He, Long｜George Washington Univ｜United States"
+      },
+      {
+        "id": 34,
+        "label": "Kern, Florian｜Univ Sussex｜United Kingdom",
+        "x": -0.9074246515999222,
+        "y": -0.6181068872540336,
+        "cluster": 2,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.0
+        },
+        "description": "Kern, Florian｜Univ Sussex｜United Kingdom"
+      },
+      {
+        "id": 35,
+        "label": "Kim, Eun-Hee｜Fordham Univ｜United States",
+        "x": 0.46560061061298486,
+        "y": 0.6288296820441792,
+        "cluster": 20,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "Kim, Eun-Hee｜Fordham Univ｜United States"
+      },
+      {
+        "id": 36,
+        "label": "Li, Bin｜Univ Houston｜United States",
+        "x": 0.7785003816331155,
+        "y": 0.14225498254137348,
+        "cluster": 21,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.6666666666667
+        },
+        "description": "Li, Bin｜Univ Houston｜United States"
+      },
+      {
+        "id": 37,
+        "label": "Mazzanti, Massimiliano｜Univ Ferrara｜Italy",
+        "x": 0.002940821162922408,
+        "y": 0.44074881535395055,
+        "cluster": 10,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.3333333333333
+        },
+        "description": "Mazzanti, Massimiliano｜Univ Ferrara｜Italy"
+      },
+      {
+        "id": 38,
+        "label": "Owens, Bradley P.｜Brigham Young Univ｜United States",
+        "x": 1.1261667938777054,
+        "y": 0.14225498254137348,
+        "cluster": 22,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6666666666667
+        },
+        "description": "Owens, Bradley P.｜Brigham Young Univ｜United States"
+      },
+      {
+        "id": 39,
+        "label": "Pinkse, Jonatan｜Grenoble Ecole Management｜France",
+        "x": 0.7205559795923506,
+        "y": 0.584595618453015,
+        "cluster": 23,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6666666666667
+        },
+        "description": "Pinkse, Jonatan｜Grenoble Ecole Management｜France"
+      },
+      {
+        "id": 40,
+        "label": "Qi, Wei｜McGill Univ｜Canada",
+        "x": 0.09678695134597315,
+        "y": -0.1350668217593266,
+        "cluster": 11,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.3333333333333
+        },
+        "description": "Qi, Wei｜McGill Univ｜Canada"
+      },
+      {
+        "id": 41,
+        "label": "Schmidt, Tobias S.｜Swiss Fed Inst Technol｜Switzerland",
+        "x": 1.0682223918369402,
+        "y": 0.45189342767952256,
+        "cluster": 24,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3333333333333
+        },
+        "description": "Schmidt, Tobias S.｜Swiss Fed Inst Technol｜Switzerland"
+      },
+      {
+        "id": 42,
+        "label": "Tang, Shaojie｜Univ Texas Dallas｜United States",
+        "x": 1.0682223918369402,
+        "y": 0.7172978092265074,
+        "cluster": 25,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.3333333333333
+        },
+        "description": "Tang, Shaojie｜Univ Texas Dallas｜United States"
+      },
+      {
+        "id": 43,
+        "label": "Toktay, L. Beril｜Georgia Inst Technol｜United States",
+        "x": -0.2539117506334149,
+        "y": -0.6256020674764845,
+        "cluster": 3,
+        "weights": {
+          "Documents": 3.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "Toktay, L. Beril｜Georgia Inst Technol｜United States"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 27,
+        "target_id": 7,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 17,
+        "strength": 3.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 7,
+        "strength": 3.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 21,
+        "strength": 3.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 4,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 20,
+        "strength": 3.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 5,
+        "strength": 1.0
+      }
+    ]
+  }
+}
