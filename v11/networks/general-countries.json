@@ -9,16 +9,16 @@
         "cluster": 1,
         "cluster_name": "United States / United Kingdom / Germany",
         "weights": {
-          "Documents": 953.0,
+          "Documents": 952.0,
           "Links": 58.0,
           "Total Link Strength": 1576.0,
-          "NodeSize": 6.630604712129939
+          "NodeSize": 6.628174586162453
         },
         "scores": {
           "springrank": 0.0,
-          "Avg. pub. year": 2019.218258132214
+          "Avg. pub. year": 2019.2384453781513
         },
-        "description": "United States\n文献频次：953\n聚类：1\n总连接强度：1576"
+        "description": "United States\n文献频次：952\n聚类：1\n总连接强度：1576"
       },
       {
         "id": 2,

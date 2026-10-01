@@ -4,8 +4,8 @@
       {
         "id": 1,
         "label": "Geels, Frank W.｜曼彻斯特大学｜英国",
-        "x": -0.9044452339737808,
-        "y": -0.25448718993650055,
+        "x": -0.8927860033087369,
+        "y": -0.24819208683316815,
         "cluster": 2,
         "cluster_name": "Geels, Frank W. / Kivimaa, Paula / Rogge, Karoline S.",
         "weights": {
@@ -23,8 +23,8 @@
       {
         "id": 2,
         "label": "Hoppmann, Joern｜瑞士联邦理工学院｜瑞士",
-        "x": -0.32955074266264456,
-        "y": 0.662973285449902,
+        "x": -0.3009461277980952,
+        "y": 0.6666580705728058,
         "cluster": 6,
         "cluster_name": "Hoppmann, Joern / Hoffmann, Volker H.",
         "weights": {
@@ -42,8 +42,8 @@
       {
         "id": 3,
         "label": "Secomandi, Nicola｜卡内基梅隆大学｜美国",
-        "x": 0.2891632413456745,
-        "y": -0.42330566893229893,
+        "x": 0.31736941335171087,
+        "y": -0.3861120582433679,
         "cluster": 7,
         "cluster_name": "Secomandi, Nicola / Nadarajah, Selvaprabu",
         "weights": {
@@ -61,7 +61,7 @@
       {
         "id": 4,
         "label": "York, Jeffrey G.｜科罗拉多大学｜美国",
-        "x": -0.5590638415594354,
+        "x": -0.5391901529258376,
         "y": -0.6196917451494877,
         "cluster": 1,
         "cluster_name": "York, Jeffrey G. / Pacheco, Desiree F. / Drake, David F.",
@@ -80,8 +80,8 @@
       {
         "id": 5,
         "label": "Yucel, Safak｜乔治敦大学｜美国",
-        "x": -0.3571639442456602,
-        "y": -0.5371450596675741,
+        "x": -0.3293732462247658,
+        "y": -0.5391814787339584,
         "cluster": 3,
         "cluster_name": "Yucel, Safak / Plambeck, Erica L. / Toktay, L. Beril",
         "weights": {
@@ -99,8 +99,8 @@
       {
         "id": 6,
         "label": "Hoffmann, Volker H.｜苏黎世联邦理工学院｜瑞士",
-        "x": -0.07569481705394887,
-        "y": 0.41295090249508,
+        "x": -0.03960763581282889,
+        "y": 0.4092661173721761,
         "cluster": 6,
         "cluster_name": "Hoppmann, Joern / Hoffmann, Volker H.",
         "weights": {
@@ -118,7 +118,7 @@
       {
         "id": 7,
         "label": "Ketter, Wolfgang｜鹿特丹伊拉斯姆斯大学｜荷兰",
-        "x": -1.1769148696647085,
+        "x": -1.1681260321941174,
         "y": 0.438109964043688,
         "cluster": 5,
         "cluster_name": "Ketter, Wolfgang / Collins, John / Gupta, Alok",
@@ -137,8 +137,8 @@
       {
         "id": 8,
         "label": "Nadarajah, Selvaprabu｜伊利诺伊大学｜美国",
-        "x": 0.00867527167445828,
-        "y": -0.14705341916029244,
+        "x": 0.04470811979850839,
+        "y": -0.11756829197021715,
         "cluster": 7,
         "cluster_name": "Secomandi, Nicola / Nadarajah, Selvaprabu",
         "weights": {
@@ -156,7 +156,7 @@
       {
         "id": 9,
         "label": "Pacheco, Desiree F.｜波特兰州立大学｜美国",
-        "x": -0.4980835954208482,
+        "x": -0.47820990678725034,
         "y": -0.7583336461699033,
         "cluster": 1,
         "cluster_name": "York, Jeffrey G. / Pacheco, Desiree F. / Drake, David F.",
@@ -175,8 +175,8 @@
       {
         "id": 10,
         "label": "Plambeck, Erica L.｜斯坦福大学｜美国",
-        "x": -0.07946025363345102,
-        "y": -0.3989686584149532,
+        "x": -0.04348406105282934,
+        "y": -0.39693223934856886,
         "cluster": 3,
         "cluster_name": "Yucel, Safak / Plambeck, Erica L. / Toktay, L. Beril",
         "weights": {
@@ -194,8 +194,8 @@
       {
         "id": 11,
         "label": "Sunar, Nur｜北卡罗来纳大学教堂山分校｜美国",
-        "x": -0.9558824595722513,
-        "y": 0.17441214660641732,
+        "x": -0.9457393741531547,
+        "y": 0.17519317551870436,
         "cluster": 4,
         "cluster_name": "Sunar, Nur / Birge, John R. / Swaminathan, Jayashankar M.",
         "weights": {
@@ -213,8 +213,8 @@
       {
         "id": 12,
         "label": "Birge, John R.｜芝加哥大学｜美国",
-        "x": -1.2284385054376867,
-        "y": 0.017222207884756424,
+        "x": -1.2263291844447448,
+        "y": 0.01336996244115185,
         "cluster": 4,
         "cluster_name": "Sunar, Nur / Birge, John R. / Swaminathan, Jayashankar M.",
         "weights": {
@@ -232,7 +232,7 @@
       {
         "id": 13,
         "label": "Drake, David F.｜科罗拉多大学｜美国",
-        "x": -0.6616385192120317,
+        "x": -0.6417648305784338,
         "y": -0.3864826453699869,
         "cluster": 1,
         "cluster_name": "York, Jeffrey G. / Pacheco, Desiree F. / Drake, David F.",
@@ -251,8 +251,8 @@
       {
         "id": 14,
         "label": "Kivimaa, Paula｜萨塞克斯大学｜英国",
-        "x": -1.2460607137236974,
-        "y": -0.5715634796011979,
+        "x": -1.2444708186330096,
+        "y": -0.574614403690904,
         "cluster": 2,
         "cluster_name": "Geels, Frank W. / Kivimaa, Paula / Rogge, Karoline S.",
         "weights": {
@@ -270,7 +270,7 @@
       {
         "id": 15,
         "label": "Markard, Jochen｜瑞士联邦理工学院｜瑞士",
-        "x": -0.24924077557173918,
+        "x": -0.22181761855612203,
         "y": -0.04866916935922623,
         "cluster": 8,
         "cluster_name": "Markard, Jochen / Truffer, Bernhard",
@@ -289,7 +289,7 @@
       {
         "id": 16,
         "label": "Muthulingam, Suresh｜宾夕法尼亚州立大学｜美国",
-        "x": -0.7534342476715865,
+        "x": -0.7335605590379888,
         "y": -0.17778007191262402,
         "cluster": 1,
         "cluster_name": "York, Jeffrey G. / Pacheco, Desiree F. / Drake, David F.",
@@ -308,8 +308,8 @@
       {
         "id": 17,
         "label": "Pan, Kai｜香港理工大学｜中国",
-        "x": -0.6635716974109284,
-        "y": 0.662973285449902,
+        "x": -0.644812564620814,
+        "y": 0.6666580705728058,
         "cluster": 9,
         "cluster_name": "Pan, Kai / Guan, Yongpei",
         "weights": {
@@ -327,8 +327,8 @@
       {
         "id": 18,
         "label": "Powell, Warren B.｜普林斯顿大学｜美国",
-        "x": 0.8518854501195475,
-        "y": -0.6381923290173609,
+        "x": 0.8643895423620596,
+        "y": -0.6256900656650473,
         "cluster": 12,
         "cluster_name": "Powell, Warren B.",
         "weights": {
@@ -346,8 +346,8 @@
       {
         "id": 19,
         "label": "Rogge, Karoline S.｜萨塞克斯大学｜英国",
-        "x": -1.090967337828055,
-        "y": -0.6816265281460268,
+        "x": -1.0848059659167144,
+        "y": -0.6879216312493591,
         "cluster": 2,
         "cluster_name": "Geels, Frank W. / Kivimaa, Paula / Rogge, Karoline S.",
         "weights": {
@@ -365,8 +365,8 @@
       {
         "id": 20,
         "label": "Swaminathan, Jayashankar M.｜北卡罗来纳大学凯南－弗拉格勒商学院｜美国",
-        "x": -0.7752157065430356,
-        "y": 0.27860721499145263,
+        "x": -0.7597473525947955,
+        "y": 0.2824594604350572,
         "cluster": 4,
         "cluster_name": "Sunar, Nur / Birge, John R. / Swaminathan, Jayashankar M.",
         "weights": {
@@ -384,7 +384,7 @@
       {
         "id": 21,
         "label": "Truffer, Bernhard｜瑞士联邦水科学与技术研究所｜瑞士",
-        "x": -0.49002573889313805,
+        "x": -0.4626025818775209,
         "y": 0.1884796392216807,
         "cluster": 8,
         "cluster_name": "Markard, Jochen / Truffer, Bernhard",
@@ -403,8 +403,8 @@
       {
         "id": 22,
         "label": "Ahmed, Shabbir｜佐治亚理工学院｜美国",
-        "x": 1.1506284833731826,
-        "y": -0.6381923290173609,
+        "x": 1.1547965141206864,
+        "y": -0.6256900656650473,
         "cluster": 13,
         "cluster_name": "Ahmed, Shabbir",
         "weights": {
@@ -422,8 +422,8 @@
       {
         "id": 23,
         "label": "Anadon, Laura Diaz｜剑桥大学｜英国",
-        "x": 0.8518854501195475,
-        "y": -0.21457698705208264,
+        "x": 0.8643895423620596,
+        "y": -0.17707019699514165,
         "cluster": 14,
         "cluster_name": "Anadon, Laura Diaz",
         "weights": {
@@ -441,8 +441,8 @@
       {
         "id": 24,
         "label": "Bichler, Martin｜慕尼黑工业大学｜德国",
-        "x": 1.1506284833731826,
-        "y": -0.21457698705208264,
+        "x": 1.1547965141206864,
+        "y": -0.17707019699514165,
         "cluster": 15,
         "cluster_name": "Bichler, Martin",
         "weights": {
@@ -460,8 +460,8 @@
       {
         "id": 25,
         "label": "Bunn, Derek W.｜伦敦商学院｜英国",
-        "x": 0.11278906445852904,
-        "y": 0.21042301294791738,
+        "x": 0.1639492945301603,
+        "y": 0.24792980300485834,
         "cluster": 16,
         "cluster_name": "Bunn, Derek W.",
         "weights": {
@@ -479,8 +479,8 @@
       {
         "id": 26,
         "label": "Clarkson, Peter｜昆士兰大学｜澳大利亚",
-        "x": 0.40959179834389675,
-        "y": 0.21042301294791738,
+        "x": 0.48853521037868597,
+        "y": 0.24792980300485834,
         "cluster": 17,
         "cluster_name": "Clarkson, Peter",
         "weights": {
@@ -498,7 +498,7 @@
       {
         "id": 27,
         "label": "Collins, John｜明尼苏达大学｜美国",
-        "x": -0.8267393423160139,
+        "x": -0.8179505048454229,
         "y": 0.5164952773611116,
         "cluster": 5,
         "cluster_name": "Ketter, Wolfgang / Collins, John / Gupta, Alok",
@@ -517,8 +517,8 @@
       {
         "id": 28,
         "label": "Costantini, Valeria｜罗马第三大学｜意大利",
-        "x": 0.22448947607810987,
-        "y": -0.6014789993803701,
+        "x": 0.24502825171685255,
+        "y": -0.5868096770469887,
         "cluster": 10,
         "cluster_name": "Costantini, Valeria / Mazzanti, Massimiliano",
         "weights": {
@@ -536,8 +536,8 @@
       {
         "id": 29,
         "label": "Dowell, Glen｜康奈尔大学｜美国",
-        "x": 0.11278906445852904,
-        "y": 0.6368076709826391,
+        "x": 0.1639492945301603,
+        "y": 0.6493099343349528,
         "cluster": 18,
         "cluster_name": "Dowell, Glen",
         "weights": {
@@ -555,8 +555,8 @@
       {
         "id": 30,
         "label": "Gond, Jean-Pascal｜伦敦城市大学｜英国",
-        "x": 0.40959179834389675,
-        "y": 0.6368076709826391,
+        "x": 0.48853521037868597,
+        "y": 0.6493099343349528,
         "cluster": 19,
         "cluster_name": "Gond, Jean-Pascal",
         "weights": {
@@ -574,8 +574,8 @@
       {
         "id": 31,
         "label": "Guan, Yongpei｜佛罗里达大学｜美国",
-        "x": -0.40971577180223273,
-        "y": 0.41295090249508,
+        "x": -0.38347407263554767,
+        "y": 0.4092661173721761,
         "cluster": 9,
         "cluster_name": "Pan, Kai / Guan, Yongpei",
         "weights": {
@@ -593,7 +593,7 @@
       {
         "id": 32,
         "label": "Gupta, Alok｜明尼苏达大学｜美国",
-        "x": -1.1297115528079045,
+        "x": -1.1209227153373136,
         "y": 0.7938331769150484,
         "cluster": 5,
         "cluster_name": "Ketter, Wolfgang / Collins, John / Gupta, Alok",
@@ -612,8 +612,8 @@
       {
         "id": 33,
         "label": "He, Long｜乔治华盛顿大学｜美国",
-        "x": 0.6582263593341169,
-        "y": -0.42330566893229893,
+        "x": 0.40347297973693275,
+        "y": -0.11756829197021715,
         "cluster": 11,
         "cluster_name": "He, Long / Qi, Wei",
         "weights": {
@@ -631,8 +631,8 @@
       {
         "id": 34,
         "label": "Kern, Florian｜萨塞克斯大学｜英国",
-        "x": -1.04934628167581,
-        "y": -0.4586719091137986,
+        "x": -1.0419581024146884,
+        "y": -0.4583952816897798,
         "cluster": 2,
         "cluster_name": "Geels, Frank W. / Kivimaa, Paula / Rogge, Karoline S.",
         "weights": {
@@ -650,8 +650,8 @@
       {
         "id": 35,
         "label": "Kim, Eun-Hee｜福特汉姆大学｜美国",
-        "x": 0.7434948739649354,
-        "y": 0.1677845471444452,
+        "x": 0.8131211262272116,
+        "y": 0.24792980300485834,
         "cluster": 20,
         "cluster_name": "Kim, Eun-Hee",
         "weights": {
@@ -669,8 +669,8 @@
       {
         "id": 36,
         "label": "Li, Bin｜休斯敦大学｜美国",
-        "x": 1.1144982913216452,
-        "y": 0.1677845471444452,
+        "x": 1.1377070420757374,
+        "y": 0.24792980300485834,
         "cluster": 21,
         "cluster_name": "Li, Bin",
         "weights": {
@@ -688,8 +688,8 @@
       {
         "id": 37,
         "label": "Mazzanti, Massimiliano｜费拉拉大学｜意大利",
-        "x": 0.4424121549304654,
-        "y": -0.8161107726427778,
+        "x": 0.47581414137179107,
+        "y": -0.8141104105064075,
         "cluster": 10,
         "cluster_name": "Costantini, Valeria / Mazzanti, Massimiliano",
         "weights": {
@@ -706,29 +706,10 @@
       },
       {
         "id": 38,
-        "label": "Owens, Bradley P.｜杨百翰大学｜美国",
-        "x": 0.6816609710721505,
-        "y": 0.594169205179167,
-        "cluster": 22,
-        "cluster_name": "Owens, Bradley P.",
-        "weights": {
-          "Documents": 3.0,
-          "Links": 0.0,
-          "Total Link Strength": 0.0,
-          "NodeSize": 2.2598076211353315
-        },
-        "scores": {
-          "springrank": 0.0,
-          "Avg. pub. year": 2017.6666666666667
-        },
-        "description": "Owens, Bradley P.\n文献频次：3\n聚类：22\n总连接强度：0"
-      },
-      {
-        "id": 39,
         "label": "Pinkse, Jonatan｜格勒诺布尔管理学院｜法国",
-        "x": 1.0526643884288602,
-        "y": 0.4662538077687505,
-        "cluster": 23,
+        "x": 0.8131211262272116,
+        "y": 0.6493099343349528,
+        "cluster": 22,
         "cluster_name": "Pinkse, Jonatan",
         "weights": {
           "Documents": 3.0,
@@ -740,13 +721,13 @@
           "springrank": 0.0,
           "Avg. pub. year": 2016.6666666666667
         },
-        "description": "Pinkse, Jonatan\n文献频次：3\n聚类：23\n总连接强度：0"
+        "description": "Pinkse, Jonatan\n文献频次：3\n聚类：22\n总连接强度：0"
       },
       {
-        "id": 40,
+        "id": 39,
         "label": "Qi, Wei｜麦吉尔大学｜加拿大",
-        "x": 0.3777383896629007,
-        "y": -0.14705341916029244,
+        "x": 0.6761342732901352,
+        "y": -0.3861120582433679,
         "cluster": 11,
         "cluster_name": "He, Long / Qi, Wei",
         "weights": {
@@ -762,11 +743,11 @@
         "description": "Qi, Wei\n文献频次：3\n聚类：11\n总连接强度：2"
       },
       {
-        "id": 41,
+        "id": 40,
         "label": "Schmidt, Tobias S.｜瑞士联邦理工学院｜瑞士",
-        "x": 1.0526643884288602,
-        "y": 0.7220846025895836,
-        "cluster": 24,
+        "x": 1.1377070420757374,
+        "y": 0.6493099343349528,
+        "cluster": 23,
         "cluster_name": "Schmidt, Tobias S.",
         "weights": {
           "Documents": 3.0,
@@ -778,13 +759,13 @@
           "springrank": 0.0,
           "Avg. pub. year": 2020.3333333333333
         },
-        "description": "Schmidt, Tobias S.\n文献频次：3\n聚类：24\n总连接强度：0"
+        "description": "Schmidt, Tobias S.\n文献频次：3\n聚类：23\n总连接强度：0"
       },
       {
-        "id": 42,
+        "id": 41,
         "label": "Toktay, L. Beril｜佐治亚理工学院｜美国",
-        "x": -0.21831287890220075,
-        "y": -0.46805724712552416,
+        "x": -0.1864294565913424,
+        "y": -0.4680572585645569,
         "cluster": 3,
         "cluster_name": "Yucel, Safak / Plambeck, Erica L. / Toktay, L. Beril",
         "weights": {
@@ -843,7 +824,7 @@
       },
       {
         "source_id": 33,
-        "target_id": 40,
+        "target_id": 39,
         "strength": 2.0
       },
       {
@@ -893,11 +874,11 @@
       },
       {
         "source_id": 10,
-        "target_id": 42,
+        "target_id": 41,
         "strength": 1.0
       },
       {
-        "source_id": 42,
+        "source_id": 41,
         "target_id": 5,
         "strength": 1.0
       }
