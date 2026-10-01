@@ -1,0 +1,1640 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "全球价值链",
+        "x": 0.370561640218587,
+        "y": 0.3253977553902101,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 125.0,
+          "Links": 18.0,
+          "Total Link Strength": 57.0,
+          "NodeSize": 3.6770509831248424
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.056
+        },
+        "description": "全球价值链\n文献频次：125\n聚类：1\n总连接强度：57"
+      },
+      {
+        "id": 2,
+        "label": "环境规制",
+        "x": 0.027545430000489403,
+        "y": 0.10091551195126601,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 72.0,
+          "Links": 18.0,
+          "Total Link Strength": 30.0,
+          "NodeSize": 3.2727922061357857
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.7777777777778
+        },
+        "description": "环境规制\n文献频次：72\n聚类：2\n总连接强度：30"
+      },
+      {
+        "id": 3,
+        "label": "可持续发展",
+        "x": -0.054606760182996046,
+        "y": 0.3696402927493773,
+        "cluster": 4,
+        "cluster_name": "可持续发展 / ESG / 制造业",
+        "weights": {
+          "Documents": 36.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.9
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2010.111111111111
+        },
+        "description": "可持续发展\n文献频次：36\n聚类：4\n总连接强度：8"
+      },
+      {
+        "id": 4,
+        "label": "碳排放",
+        "x": -0.20607665370664321,
+        "y": -0.10611475854718026,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 30.0,
+          "Links": 11.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.8215838362577492
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.1666666666667
+        },
+        "description": "碳排放\n文献频次：30\n聚类：2\n总连接强度：14"
+      },
+      {
+        "id": 5,
+        "label": "气候变化",
+        "x": 9.39762589667615e-05,
+        "y": -0.44545005287778455,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 16.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.6
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.875
+        },
+        "description": "气候变化\n文献频次：16\n聚类：3\n总连接强度：7"
+      },
+      {
+        "id": 6,
+        "label": "全要素生产率",
+        "x": -0.052900679467091934,
+        "y": 0.21246394890439776,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 15.0,
+          "Links": 11.0,
+          "Total Link Strength": 19.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5333333333333
+        },
+        "description": "全要素生产率\n文献频次：15\n聚类：2\n总连接强度：19"
+      },
+      {
+        "id": 7,
+        "label": "碳减排",
+        "x": 0.013084023047030876,
+        "y": -0.2320204840206843,
+        "cluster": 5,
+        "cluster_name": "碳减排 / 碳市场 / 碳税",
+        "weights": {
+          "Documents": 15.0,
+          "Links": 8.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.2666666666667
+        },
+        "description": "碳减排\n文献频次：15\n聚类：5\n总连接强度：9"
+      },
+      {
+        "id": 8,
+        "label": "经济增长",
+        "x": 0.2520116255339122,
+        "y": -0.12817650247499549,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 15.0,
+          "Links": 13.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.8
+        },
+        "description": "经济增长\n文献频次：15\n聚类：3\n总连接强度：15"
+      },
+      {
+        "id": 9,
+        "label": "低碳经济",
+        "x": 0.035502866209252706,
+        "y": -0.020608795866354824,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.4285714285713
+        },
+        "description": "低碳经济\n文献频次：14\n聚类：3\n总连接强度：7"
+      },
+      {
+        "id": 10,
+        "label": "二氧化碳排放",
+        "x": 0.26294613146318446,
+        "y": 0.14704562925563425,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 6.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.5384615384614
+        },
+        "description": "二氧化碳排放\n文献频次：13\n聚类：3\n总连接强度：8"
+      },
+      {
+        "id": 11,
+        "label": "产业升级",
+        "x": 0.4085761431794845,
+        "y": 0.19651863234035236,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 9.0,
+          "Total Link Strength": 20.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.4615384615386
+        },
+        "description": "产业升级\n文献频次：13\n聚类：1\n总连接强度：20"
+      },
+      {
+        "id": 12,
+        "label": "绿色创新",
+        "x": -0.5442184041811571,
+        "y": 0.10592550127803373,
+        "cluster": 6,
+        "cluster_name": "绿色创新 / 绿色金融 / 溢出效应",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.1538461538462
+        },
+        "description": "绿色创新\n文献频次：13\n聚类：6\n总连接强度：8"
+      },
+      {
+        "id": 13,
+        "label": "碳中和",
+        "x": 0.2625646717439769,
+        "y": -0.5423344094521305,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.75
+        },
+        "description": "碳中和\n文献频次：12\n聚类：3\n总连接强度：5"
+      },
+      {
+        "id": 14,
+        "label": "国内价值链",
+        "x": 0.4882254707021887,
+        "y": 0.30294769242358355,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 7.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.5
+        },
+        "description": "国内价值链\n文献频次：10\n聚类：1\n总连接强度：15"
+      },
+      {
+        "id": 15,
+        "label": "波特假说",
+        "x": -0.3187432257721611,
+        "y": 0.03246814938288535,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 7.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.4444444444443
+        },
+        "description": "波特假说\n文献频次：9\n聚类：2\n总连接强度：11"
+      },
+      {
+        "id": 16,
+        "label": "节能减排",
+        "x": -0.4062887165589926,
+        "y": -0.22623631411903344,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 5.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.5555555555557
+        },
+        "description": "节能减排\n文献频次：9\n聚类：2\n总连接强度：7"
+      },
+      {
+        "id": 17,
+        "label": "双重差分法",
+        "x": -0.08882515519755693,
+        "y": 0.05976558832798164,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.875
+        },
+        "description": "双重差分法\n文献频次：8\n聚类：2\n总连接强度：8"
+      },
+      {
+        "id": 18,
+        "label": "技术进步",
+        "x": 0.15766414310314364,
+        "y": 0.12904439608170168,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.0
+        },
+        "description": "技术进步\n文献频次：8\n聚类：3\n总连接强度：7"
+      },
+      {
+        "id": 19,
+        "label": "环境污染",
+        "x": -0.2075060893849684,
+        "y": 0.12690406593068856,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.625
+        },
+        "description": "环境污染\n文献频次：8\n聚类：2\n总连接强度：8"
+      },
+      {
+        "id": 20,
+        "label": "碳市场",
+        "x": 0.5240074363071797,
+        "y": -0.2697438292002207,
+        "cluster": 5,
+        "cluster_name": "碳减排 / 碳市场 / 碳税",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.625
+        },
+        "description": "碳市场\n文献频次：8\n聚类：5\n总连接强度：5"
+      },
+      {
+        "id": 21,
+        "label": "碳税",
+        "x": 0.39733436037514475,
+        "y": -0.47735193909548246,
+        "cluster": 5,
+        "cluster_name": "碳减排 / 碳市场 / 碳税",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.375
+        },
+        "description": "碳税\n文献频次：8\n聚类：5\n总连接强度：4"
+      },
+      {
+        "id": 22,
+        "label": "绿色金融",
+        "x": -0.6652187962371676,
+        "y": 0.4683817288141916,
+        "cluster": 6,
+        "cluster_name": "绿色创新 / 绿色金融 / 溢出效应",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "绿色金融\n文献频次：8\n聚类：6\n总连接强度：6"
+      },
+      {
+        "id": 23,
+        "label": "ESG",
+        "x": -0.28758438106591216,
+        "y": 0.646,
+        "cluster": 4,
+        "cluster_name": "可持续发展 / ESG / 制造业",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.2857142857142
+        },
+        "description": "ESG\n文献频次：7\n聚类：4\n总连接强度：5"
+      },
+      {
+        "id": 24,
+        "label": "可再生能源",
+        "x": 0.45636792814537896,
+        "y": -0.646,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.0
+        },
+        "description": "可再生能源\n文献频次：7\n聚类：3\n总连接强度：3"
+      },
+      {
+        "id": 25,
+        "label": "出口国内附加值率",
+        "x": 0.5810740003300875,
+        "y": 0.49547704486260946,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 2.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "出口国内附加值率\n文献频次：6\n聚类：1\n总连接强度：7"
+      },
+      {
+        "id": 26,
+        "label": "制造业",
+        "x": 0.23493752922199027,
+        "y": 0.0004163332687466595,
+        "cluster": 4,
+        "cluster_name": "可持续发展 / ESG / 制造业",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.6666666666667
+        },
+        "description": "制造业\n文献频次：6\n聚类：4\n总连接强度：7"
+      },
+      {
+        "id": 27,
+        "label": "加工贸易",
+        "x": 0.47365221078248476,
+        "y": 0.571969697893494,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.3333333333333
+        },
+        "description": "加工贸易\n文献频次：6\n聚类：1\n总连接强度：8"
+      },
+      {
+        "id": 28,
+        "label": "投入产出模型",
+        "x": 0.3529922979817103,
+        "y": 0.46137856952502654,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.8333333333333
+        },
+        "description": "投入产出模型\n文献频次：6\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 29,
+        "label": "比较优势",
+        "x": 0.25657806278836276,
+        "y": 0.35487865220779397,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.5
+        },
+        "description": "比较优势\n文献频次：6\n聚类：1\n总连接强度：7"
+      },
+      {
+        "id": 30,
+        "label": "清洁发展机制",
+        "x": -0.322337632376593,
+        "y": -0.5937956377053794,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2011.0
+        },
+        "description": "清洁发展机制\n文献频次：6\n聚类：3\n总连接强度：2"
+      },
+      {
+        "id": 31,
+        "label": "碳关税",
+        "x": 0.19640584635516475,
+        "y": -0.41184800857624626,
+        "cluster": 5,
+        "cluster_name": "碳减排 / 碳市场 / 碳税",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "碳关税\n文献频次：6\n聚类：5\n总连接强度：5"
+      },
+      {
+        "id": 32,
+        "label": "产业结构调整",
+        "x": 0.4023526353905602,
+        "y": -0.15062289454095373,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.8
+        },
+        "description": "产业结构调整\n文献频次：5\n聚类：3\n总连接强度：4"
+      },
+      {
+        "id": 33,
+        "label": "产业转移",
+        "x": 0.5108399763043134,
+        "y": 0.11281431559771872,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.8
+        },
+        "description": "产业转移\n文献频次：5\n聚类：1\n总连接强度：8"
+      },
+      {
+        "id": 34,
+        "label": "供应链",
+        "x": -0.4549398178409333,
+        "y": -0.05454029833377578,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.4
+        },
+        "description": "供应链\n文献频次：5\n聚类：2\n总连接强度：5"
+      },
+      {
+        "id": 35,
+        "label": "国际贸易",
+        "x": 0.15751218979688175,
+        "y": -0.09377714092593623,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.2
+        },
+        "description": "国际贸易\n文献频次：5\n聚类：2\n总连接强度：4"
+      },
+      {
+        "id": 36,
+        "label": "地方产业集群",
+        "x": 0.60452697227408,
+        "y": 0.3426395389658789,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2004.8
+        },
+        "description": "地方产业集群\n文献频次：5\n聚类：1\n总连接强度：8"
+      },
+      {
+        "id": 37,
+        "label": "增加值贸易",
+        "x": 0.3308168007639976,
+        "y": 0.6228109734607725,
+        "cluster": 1,
+        "cluster_name": "全球价值链 / 产业升级 / 国内价值链",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "增加值贸易\n文献频次：5\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 38,
+        "label": "外商直接投资",
+        "x": -0.03281160971870972,
+        "y": 0.49689196656456797,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.0
+        },
+        "description": "外商直接投资\n文献频次：5\n聚类：2\n总连接强度：5"
+      },
+      {
+        "id": 39,
+        "label": "市场势力",
+        "x": 0.8147618849880361,
+        "y": 0.02771171808726751,
+        "cluster": 5,
+        "cluster_name": "碳减排 / 碳市场 / 碳税",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6
+        },
+        "description": "市场势力\n文献频次：5\n聚类：5\n总连接强度：2"
+      },
+      {
+        "id": 40,
+        "label": "技术效应",
+        "x": -0.10635199428177831,
+        "y": -0.34713426919842966,
+        "cluster": 5,
+        "cluster_name": "碳减排 / 碳市场 / 碳税",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.2
+        },
+        "description": "技术效应\n文献频次：5\n聚类：5\n总连接强度：5"
+      },
+      {
+        "id": 41,
+        "label": "投入产出分析",
+        "x": 0.06043216513202838,
+        "y": 0.21666458430508787,
+        "cluster": 2,
+        "cluster_name": "环境规制 / 碳排放 / 全要素生产率",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.6
+        },
+        "description": "投入产出分析\n文献频次：5\n聚类：2\n总连接强度：4"
+      },
+      {
+        "id": 42,
+        "label": "溢出效应",
+        "x": -0.49668436223430235,
+        "y": 0.5628098618829707,
+        "cluster": 6,
+        "cluster_name": "绿色创新 / 绿色金融 / 溢出效应",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.4
+        },
+        "description": "溢出效应\n文献频次：5\n聚类：6\n总连接强度：5"
+      },
+      {
+        "id": 43,
+        "label": "绿色信贷",
+        "x": -0.7174949873013703,
+        "y": 0.254926666803728,
+        "cluster": 6,
+        "cluster_name": "绿色创新 / 绿色金融 / 溢出效应",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.4
+        },
+        "description": "绿色信贷\n文献频次：5\n聚类：6\n总连接强度：4"
+      },
+      {
+        "id": 44,
+        "label": "绿色发展",
+        "x": -0.471876799914227,
+        "y": 0.3763436465485549,
+        "cluster": 6,
+        "cluster_name": "绿色创新 / 绿色金融 / 溢出效应",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "绿色发展\n文献频次：5\n聚类：6\n总连接强度：4"
+      },
+      {
+        "id": 45,
+        "label": "绿色技术创新",
+        "x": -0.5125356769139486,
+        "y": 0.20070089494251778,
+        "cluster": 6,
+        "cluster_name": "绿色创新 / 绿色金融 / 溢出效应",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.6
+        },
+        "description": "绿色技术创新\n文献频次：5\n聚类：6\n总连接强度：5"
+      },
+      {
+        "id": 46,
+        "label": "绿色转型",
+        "x": -0.8147618849880361,
+        "y": -0.0475460234561694,
+        "cluster": 6,
+        "cluster_name": "绿色创新 / 绿色金融 / 溢出效应",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6
+        },
+        "description": "绿色转型\n文献频次：5\n聚类：6\n总连接强度：2"
+      },
+      {
+        "id": 47,
+        "label": "能源安全",
+        "x": 0.7225390442451756,
+        "y": -0.47908891548645854,
+        "cluster": 3,
+        "cluster_name": "气候变化 / 经济增长 / 低碳经济",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.2
+        },
+        "description": "能源安全\n文献频次：5\n聚类：3\n总连接强度：1"
+      },
+      {
+        "id": 48,
+        "label": "融资约束",
+        "x": 0.12313181326987167,
+        "y": 0.5833470145707355,
+        "cluster": 4,
+        "cluster_name": "可持续发展 / ESG / 制造业",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.4
+        },
+        "description": "融资约束\n文献频次：5\n聚类：4\n总连接强度：6"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 11,
+        "target_id": 1,
+        "strength": 9.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 14,
+        "strength": 9.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 25,
+        "strength": 6.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 2,
+        "strength": 6.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 36,
+        "strength": 5.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 27,
+        "strength": 4.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 37,
+        "strength": 4.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 36,
+        "strength": 3.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 18,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 33,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 4,
+        "strength": 2.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 4,
+        "strength": 2.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 26,
+        "strength": 2.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 48,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 7,
+        "strength": 2.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 13,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 22,
+        "strength": 1.0
+      }
+    ]
+  },
+  "options": {
+    "scale": 1.5,
+    "network": {
+      "normalization": {
+        "method": "lin/log",
+        "attributes": [
+          "weights.NodeSize"
+        ]
+      }
+    },
+    "visualization": {
+      "scale": 2.0,
+      "nodes": {
+        "size": {
+          "variation": 0.35,
+          "min": 4,
+          "max": 24
+        }
+      },
+      "labels": {
+        "size": {
+          "variation": 0.5,
+          "min": 7,
+          "max": 14
+        },
+        "fontSize": 14,
+        "maximumLabelLength": 120
+      }
+    }
+  }
+}

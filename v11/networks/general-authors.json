@@ -1,0 +1,5883 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "Riahi, Keywan｜格拉茨理工大学｜奥地利",
+        "x": -0.2191143017716845,
+        "y": -0.2568866605813674,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 26.0,
+          "Links": 48.0,
+          "Total Link Strength": 180.0,
+          "NodeSize": 2.7648529270389175
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.3076923076924
+        },
+        "description": "Riahi, Keywan\n文献频次：26\n聚类：2\n总连接强度：180"
+      },
+      {
+        "id": 2,
+        "label": "Guan, Dabo｜清华大学｜中国",
+        "x": 0.0034272602367100835,
+        "y": 0.5113065397517781,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 22.0,
+          "Links": 10.0,
+          "Total Link Strength": 45.0,
+          "NodeSize": 2.7035623639735142
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6363636363637
+        },
+        "description": "Guan, Dabo\n文献频次：22\n聚类：1\n总连接强度：45"
+      },
+      {
+        "id": 3,
+        "label": "Tavoni, Massimo｜米兰理工大学｜意大利",
+        "x": -0.1833838468983678,
+        "y": -0.24580085949320565,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 22.0,
+          "Links": 40.0,
+          "Total Link Strength": 120.0,
+          "NodeSize": 2.7035623639735142
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.6363636363637
+        },
+        "description": "Tavoni, Massimo\n文献频次：22\n聚类：2\n总连接强度：120"
+      },
+      {
+        "id": 4,
+        "label": "Davis, Steven J.｜加州大学欧文分校｜美国",
+        "x": -0.04032478528417266,
+        "y": 0.35524179049546156,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 21.0,
+          "Links": 23.0,
+          "Total Link Strength": 57.0,
+          "NodeSize": 2.687386354243376
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.3809523809523
+        },
+        "description": "Davis, Steven J.\n文献频次：21\n聚类：1\n总连接强度：57"
+      },
+      {
+        "id": 5,
+        "label": "Rogelj, Joeri｜伦敦帝国理工学院｜英国",
+        "x": -0.1580803272836695,
+        "y": -0.1501988751959143,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 18.0,
+          "Links": 39.0,
+          "Total Link Strength": 68.0,
+          "NodeSize": 2.636396103067893
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.111111111111
+        },
+        "description": "Rogelj, Joeri\n文献频次：18\n聚类：5\n总连接强度：68"
+      },
+      {
+        "id": 6,
+        "label": "van Vuuren, Detlef P.｜乌得勒支大学｜荷兰",
+        "x": -0.22430564859057864,
+        "y": -0.1976254375018246,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 18.0,
+          "Links": 39.0,
+          "Total Link Strength": 71.0,
+          "NodeSize": 2.636396103067893
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.2777777777778
+        },
+        "description": "van Vuuren, Detlef P.\n文献频次：18\n聚类：2\n总连接强度：71"
+      },
+      {
+        "id": 7,
+        "label": "Fujimori, Shinichiro｜京都大学｜日本",
+        "x": -0.1670493183141355,
+        "y": -0.3322093783344295,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 17.0,
+          "Links": 38.0,
+          "Total Link Strength": 159.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.4117647058824
+        },
+        "description": "Fujimori, Shinichiro\n文献频次：17\n聚类：2\n总连接强度：159"
+      },
+      {
+        "id": 8,
+        "label": "Kriegler, Elmar｜莱布尼茨学会｜德国",
+        "x": -0.24478250583318695,
+        "y": -0.2861963731646096,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 17.0,
+          "Links": 40.0,
+          "Total Link Strength": 131.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.7058823529412
+        },
+        "description": "Kriegler, Elmar\n文献频次：17\n聚类：3\n总连接强度：131"
+      },
+      {
+        "id": 9,
+        "label": "Edenhofer, Ottmar｜墨卡托全球公域与气候变化研究所｜德国",
+        "x": -0.4615264640350845,
+        "y": -0.23676762747967361,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 16.0,
+          "Links": 17.0,
+          "Total Link Strength": 33.0,
+          "NodeSize": 2.6
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.75
+        },
+        "description": "Edenhofer, Ottmar\n文献频次：16\n聚类：3\n总连接强度：33"
+      },
+      {
+        "id": 10,
+        "label": "Luderer, Gunnar｜柏林工业大学｜德国",
+        "x": -0.28194963621058416,
+        "y": -0.35090698245123686,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 15.0,
+          "Links": 36.0,
+          "Total Link Strength": 96.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.4
+        },
+        "description": "Luderer, Gunnar\n文献频次：15\n聚类：3\n总连接强度：96"
+      },
+      {
+        "id": 11,
+        "label": "Bauer, Nico｜莱布尼茨学会｜德国",
+        "x": -0.3153914307167279,
+        "y": -0.3349974983791821,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 20.0,
+          "Total Link Strength": 52.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.7142857142858
+        },
+        "description": "Bauer, Nico\n文献频次：14\n聚类：3\n总连接强度：52"
+      },
+      {
+        "id": 12,
+        "label": "Hasegawa, Tomoko｜立命馆大学｜日本",
+        "x": -0.14161249110302404,
+        "y": -0.3893841932687217,
+        "cluster": 6,
+        "cluster_name": "Hasegawa, Tomoko / Havlik, Petr / Obersteiner, Michael",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 33.0,
+          "Total Link Strength": 93.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5
+        },
+        "description": "Hasegawa, Tomoko\n文献频次：14\n聚类：6\n总连接强度：93"
+      },
+      {
+        "id": 13,
+        "label": "Havlik, Petr｜国际应用系统分析研究所｜奥地利",
+        "x": -0.16274296208774158,
+        "y": -0.4538199743553097,
+        "cluster": 6,
+        "cluster_name": "Hasegawa, Tomoko / Havlik, Petr / Obersteiner, Michael",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 27.0,
+          "Total Link Strength": 78.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5
+        },
+        "description": "Havlik, Petr\n文献频次：14\n聚类：6\n总连接强度：78"
+      },
+      {
+        "id": 14,
+        "label": "Hubacek, Klaus｜马里兰大学｜美国",
+        "x": 0.056487485102768714,
+        "y": 0.5452467907280681,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 10.0,
+          "Total Link Strength": 31.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0714285714287
+        },
+        "description": "Hubacek, Klaus\n文献频次：14\n聚类：1\n总连接强度：31"
+      },
+      {
+        "id": 15,
+        "label": "Popp, Alexander｜莱布尼茨学会｜德国",
+        "x": -0.22713141225800637,
+        "y": -0.4072176238920173,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 31.0,
+          "Total Link Strength": 95.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.2857142857142
+        },
+        "description": "Popp, Alexander\n文献频次：14\n聚类：3\n总连接强度：95"
+      },
+      {
+        "id": 16,
+        "label": "Emmerling, Johannes｜欧洲地中海气候变化中心｜意大利",
+        "x": -0.16174762376022853,
+        "y": -0.3558934705824343,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 30.0,
+          "Total Link Strength": 98.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.3846153846155
+        },
+        "description": "Emmerling, Johannes\n文献频次：13\n聚类：2\n总连接强度：98"
+      },
+      {
+        "id": 17,
+        "label": "Liu, Zhu｜清华大学｜中国",
+        "x": 0.013639031999446188,
+        "y": 0.4160304270346703,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 14.0,
+          "Total Link Strength": 38.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6923076923076
+        },
+        "description": "Liu, Zhu\n文献频次：13\n聚类：1\n总连接强度：38"
+      },
+      {
+        "id": 18,
+        "label": "Meng, Jing｜伦敦大学学院｜英国",
+        "x": -0.0041310356899814105,
+        "y": 0.5843489118752853,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 8.0,
+          "Total Link Strength": 19.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.923076923077
+        },
+        "description": "Meng, Jing\n文献频次：13\n聚类：1\n总连接强度：19"
+      },
+      {
+        "id": 19,
+        "label": "Ciais, Philippe｜巴黎萨克雷大学｜法国",
+        "x": -0.00577881007687947,
+        "y": 0.20078389053584247,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 12.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.8333333333333
+        },
+        "description": "Ciais, Philippe\n文献频次：12\n聚类：1\n总连接强度：21"
+      },
+      {
+        "id": 20,
+        "label": "Humpenoeder, Florian｜波茨坦气候影响研究所｜德国",
+        "x": -0.20618751468051044,
+        "y": -0.39051291611495836,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 33.0,
+          "Total Link Strength": 104.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.1666666666667
+        },
+        "description": "Humpenoeder, Florian\n文献频次：12\n聚类：3\n总连接强度：104"
+      },
+      {
+        "id": 21,
+        "label": "Krey, Volker｜国际应用系统分析研究所｜奥地利",
+        "x": -0.19584475306254714,
+        "y": -0.2698118743482292,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 37.0,
+          "Total Link Strength": 127.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0833333333333
+        },
+        "description": "Krey, Volker\n文献频次：12\n聚类：2\n总连接强度：127"
+      },
+      {
+        "id": 22,
+        "label": "Lu, Xi｜清华大学｜中国",
+        "x": 0.21160414229168678,
+        "y": 0.6320900209029927,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.0833333333333
+        },
+        "description": "Lu, Xi\n文献频次：12\n聚类：1\n总连接强度：3"
+      },
+      {
+        "id": 23,
+        "label": "McJeon, Haewon｜太平洋西北国家实验室｜美国",
+        "x": -0.3096463655057171,
+        "y": -0.10998316547609534,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 14.0,
+          "Total Link Strength": 25.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1666666666667
+        },
+        "description": "McJeon, Haewon\n文献频次：12\n聚类：5\n总连接强度：25"
+      },
+      {
+        "id": 24,
+        "label": "Zhang, Qiang｜清华大学｜中国",
+        "x": -0.08404000580308062,
+        "y": 0.3608384859230288,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 14.0,
+          "Total Link Strength": 37.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.5
+        },
+        "description": "Zhang, Qiang\n文献频次：12\n聚类：1\n总连接强度：37"
+      },
+      {
+        "id": 25,
+        "label": "Bertram, Christoph｜莱布尼茨学会｜德国",
+        "x": -0.25202201870154656,
+        "y": -0.336326658215433,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 36.0,
+          "Total Link Strength": 128.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.090909090909
+        },
+        "description": "Bertram, Christoph\n文献频次：11\n聚类：2\n总连接强度：128"
+      },
+      {
+        "id": 26,
+        "label": "Feng, Kuishuang｜马里兰大学｜美国",
+        "x": 0.07715186596448706,
+        "y": 0.42397769990049866,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 13.0,
+          "Total Link Strength": 26.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "Feng, Kuishuang\n文献频次：11\n聚类：1\n总连接强度：26"
+      },
+      {
+        "id": 27,
+        "label": "Iyer, Gokul｜太平洋西北国家实验室｜美国",
+        "x": -0.18980285981273837,
+        "y": -0.16779610299361117,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 27.0,
+          "Total Link Strength": 47.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.090909090909
+        },
+        "description": "Iyer, Gokul\n文献频次：11\n聚类：5\n总连接强度：47"
+      },
+      {
+        "id": 28,
+        "label": "Mach, Katharine J.｜迈阿密大学｜美国",
+        "x": -0.3202722784391545,
+        "y": 0.0946708298911296,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 13.0,
+          "Total Link Strength": 20.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.090909090909
+        },
+        "description": "Mach, Katharine J.\n文献频次：11\n聚类：4\n总连接强度：20"
+      },
+      {
+        "id": 29,
+        "label": "van Vuuren, Detlef｜荷兰环境评估署｜荷兰",
+        "x": -0.20343043831129703,
+        "y": -0.32630516007122234,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 32.0,
+          "Total Link Strength": 100.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.4545454545455
+        },
+        "description": "van Vuuren, Detlef\n文献频次：11\n聚类：2\n总连接强度：100"
+      },
+      {
+        "id": 30,
+        "label": "Drouet, Laurent｜欧洲地中海气候变化中心｜意大利",
+        "x": -0.16457316072288647,
+        "y": -0.2741885971512892,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 32.0,
+          "Total Link Strength": 110.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.4
+        },
+        "description": "Drouet, Laurent\n文献频次：10\n聚类：2\n总连接强度：110"
+      },
+      {
+        "id": 31,
+        "label": "Frank, Stefan｜国际应用系统分析研究所｜奥地利",
+        "x": -0.17053223647305024,
+        "y": -0.4064584344852357,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 30.0,
+          "Total Link Strength": 100.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.2
+        },
+        "description": "Frank, Stefan\n文献频次：10\n聚类：2\n总连接强度：100"
+      },
+      {
+        "id": 32,
+        "label": "Kammen, Daniel M.｜加州大学伯克利分校｜美国",
+        "x": 0.12424870355785561,
+        "y": 0.3425875913268371,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 10.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.9
+        },
+        "description": "Kammen, Daniel M.\n文献频次：10\n聚类：1\n总连接强度：12"
+      },
+      {
+        "id": 33,
+        "label": "Meinshausen, Malte｜墨尔本大学｜澳大利亚",
+        "x": -0.09746429696436563,
+        "y": -0.19470246375142058,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 29.0,
+          "Total Link Strength": 42.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.8
+        },
+        "description": "Meinshausen, Malte\n文献频次：10\n聚类：5\n总连接强度：42"
+      },
+      {
+        "id": 34,
+        "label": "Oppenheimer, Michael｜普林斯顿大学｜美国",
+        "x": -0.39236181821868577,
+        "y": 0.1188904816198226,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 13.0,
+          "Total Link Strength": 16.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.3
+        },
+        "description": "Oppenheimer, Michael\n文献频次：10\n聚类：4\n总连接强度：16"
+      },
+      {
+        "id": 35,
+        "label": "Peters, Glen P.｜国际气候研究中心｜挪威",
+        "x": -0.10445006447271048,
+        "y": 0.10123272349270904,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 13.0,
+          "Total Link Strength": 25.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3
+        },
+        "description": "Peters, Glen P.\n文献频次：10\n聚类：1\n总连接强度：25"
+      },
+      {
+        "id": 36,
+        "label": "Schaeffer, Roberto｜里约热内卢联邦大学｜巴西",
+        "x": -0.15071952282910078,
+        "y": -0.3047799396271025,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 34.0,
+          "Total Link Strength": 107.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6
+        },
+        "description": "Schaeffer, Roberto\n文献频次：10\n聚类：2\n总连接强度：107"
+      },
+      {
+        "id": 37,
+        "label": "Bosetti, Valentina｜博科尼大学｜意大利",
+        "x": -0.1263215622014522,
+        "y": -0.3480855032721868,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 26.0,
+          "Total Link Strength": 56.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "Bosetti, Valentina\n文献频次：9\n聚类：2\n总连接强度：56"
+      },
+      {
+        "id": 38,
+        "label": "Caldeira, Ken｜卡内基科学研究所｜美国",
+        "x": -0.05103423432470931,
+        "y": 0.25013317620886644,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 14.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.7777777777778
+        },
+        "description": "Caldeira, Ken\n文献频次：9\n聚类：1\n总连接强度：21"
+      },
+      {
+        "id": 39,
+        "label": "Clarke, Leon｜马里兰大学｜美国",
+        "x": -0.23722716641711022,
+        "y": -0.0756838589253661,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 20.0,
+          "Total Link Strength": 33.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.2222222222222
+        },
+        "description": "Clarke, Leon\n文献频次：9\n聚类：5\n总连接强度：33"
+      },
+      {
+        "id": 40,
+        "label": "Feyen, Luc｜欧盟委员会｜意大利",
+        "x": 0.3573681336421114,
+        "y": -0.10538899206218968,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 5.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5555555555557
+        },
+        "description": "Feyen, Luc\n文献频次：9\n聚类：4\n总连接强度：6"
+      },
+      {
+        "id": 41,
+        "label": "Leiserowitz, Anthony｜耶鲁大学｜美国",
+        "x": 1.130864329637946,
+        "y": -0.6375,
+        "cluster": 7,
+        "cluster_name": "Leiserowitz, Anthony",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5555555555557
+        },
+        "description": "Leiserowitz, Anthony\n文献频次：9\n聚类：7\n总连接强度：0"
+      },
+      {
+        "id": 42,
+        "label": "Levermann, Anders｜波茨坦气候影响研究所｜德国",
+        "x": 1.130864329637946,
+        "y": -0.2125,
+        "cluster": 8,
+        "cluster_name": "Levermann, Anders",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3333333333333
+        },
+        "description": "Levermann, Anders\n文献频次：9\n聚类：8\n总连接强度：0"
+      },
+      {
+        "id": 43,
+        "label": "O'Neill, Brian C.｜美国国家大气研究中心｜美国",
+        "x": -0.3946054262355797,
+        "y": -0.09343364004950265,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6666666666667
+        },
+        "description": "O'Neill, Brian C.\n文献频次：9\n聚类：4\n总连接强度：10"
+      },
+      {
+        "id": 44,
+        "label": "Obersteiner, Michael｜国际应用系统分析研究所｜奥地利",
+        "x": 0.00038210700388394137,
+        "y": -0.5184697841812376,
+        "cluster": 6,
+        "cluster_name": "Hasegawa, Tomoko / Havlik, Petr / Obersteiner, Michael",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 8.0,
+          "Total Link Strength": 18.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5555555555557
+        },
+        "description": "Obersteiner, Michael\n文献频次：9\n聚类：6\n总连接强度：18"
+      },
+      {
+        "id": 45,
+        "label": "Oshiro, Ken｜京都大学｜日本",
+        "x": -0.18437592948762743,
+        "y": -0.30963024495415137,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 30.0,
+          "Total Link Strength": 96.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.7777777777778
+        },
+        "description": "Oshiro, Ken\n文献频次：9\n聚类：2\n总连接强度：96"
+      },
+      {
+        "id": 46,
+        "label": "Schleussner, Carl-Friedrich｜柏林洪堡大学｜德国",
+        "x": 0.022226322456355918,
+        "y": -0.24893274712367794,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 8.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.0
+        },
+        "description": "Schleussner, Carl-Friedrich\n文献频次：9\n聚类：5\n总连接强度：12"
+      },
+      {
+        "id": 47,
+        "label": "Tong, Dan｜清华大学｜中国",
+        "x": -0.02964112672373198,
+        "y": 0.4492101970314313,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 10.0,
+          "Total Link Strength": 25.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "Tong, Dan\n文献频次：9\n聚类：1\n总连接强度：25"
+      },
+      {
+        "id": 48,
+        "label": "Valin, Hugo｜国际应用系统分析研究所｜奥地利",
+        "x": -0.13916698249038978,
+        "y": -0.5423391769894833,
+        "cluster": 6,
+        "cluster_name": "Hasegawa, Tomoko / Havlik, Petr / Obersteiner, Michael",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 11.0,
+          "Total Link Strength": 36.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3333333333333
+        },
+        "description": "Valin, Hugo\n文献频次：9\n聚类：6\n总连接强度：36"
+      },
+      {
+        "id": 49,
+        "label": "Victor, David G.｜加州大学圣迭戈分校｜美国",
+        "x": 0.16931615410327033,
+        "y": 0.2615872809301141,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4444444444443
+        },
+        "description": "Victor, David G.\n文献频次：9\n聚类：1\n总连接强度：10"
+      },
+      {
+        "id": 50,
+        "label": "Aerts, Jeroen C. J. H.｜阿姆斯特丹自由大学｜荷兰",
+        "x": 0.44334899897670355,
+        "y": -0.21240267001814703,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 5.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5
+        },
+        "description": "Aerts, Jeroen C. J. H.\n文献频次：8\n聚类：4\n总连接强度：8"
+      },
+      {
+        "id": 51,
+        "label": "Burke, Marshall｜斯坦福大学｜美国",
+        "x": -0.6521614129442279,
+        "y": 0.2772487785074578,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.75
+        },
+        "description": "Burke, Marshall\n文献频次：8\n聚类：4\n总连接强度：2"
+      },
+      {
+        "id": 52,
+        "label": "Field, Christopher B.｜斯坦福大学｜美国",
+        "x": -0.34446737435441843,
+        "y": 0.06410047216553409,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 12.0,
+          "Total Link Strength": 18.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.875
+        },
+        "description": "Field, Christopher B.\n文献频次：8\n聚类：4\n总连接强度：18"
+      },
+      {
+        "id": 53,
+        "label": "Hallegatte, Stephane｜世界银行｜美国",
+        "x": -0.1790131207467093,
+        "y": 0.008665026501906583,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 11.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.75
+        },
+        "description": "Hallegatte, Stephane\n文献频次：8\n聚类：4\n总连接强度：13"
+      },
+      {
+        "id": 54,
+        "label": "Harmsen, Mathijs｜乌得勒支大学｜荷兰",
+        "x": -0.22523063271140215,
+        "y": -0.309317560468529,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 31.0,
+          "Total Link Strength": 99.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.5
+        },
+        "description": "Harmsen, Mathijs\n文献频次：8\n聚类：2\n总连接强度：99"
+      },
+      {
+        "id": 55,
+        "label": "Keramidas, Kimon｜欧盟委员会｜西班牙",
+        "x": -0.2540444630435008,
+        "y": -0.30823201957862517,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 31.0,
+          "Total Link Strength": 93.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.5
+        },
+        "description": "Keramidas, Kimon\n文献频次：8\n聚类：2\n总连接强度：93"
+      },
+      {
+        "id": 56,
+        "label": "Lenton, Timothy M.｜埃克塞特大学｜英国",
+        "x": 0.6225946144534357,
+        "y": 0.17158425376558353,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.25
+        },
+        "description": "Lenton, Timothy M.\n文献频次：8\n聚类：1\n总连接强度：1"
+      },
+      {
+        "id": 57,
+        "label": "Mauzerall, Denise L.｜普林斯顿大学｜美国",
+        "x": 0.18797453519621976,
+        "y": 0.1511232545663715,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.375
+        },
+        "description": "Mauzerall, Denise L.\n文献频次：8\n聚类：1\n总连接强度：10"
+      },
+      {
+        "id": 58,
+        "label": "Moore, Frances C.｜加州大学戴维斯分校｜美国",
+        "x": -0.2001798336530275,
+        "y": 0.58382954166472,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.125
+        },
+        "description": "Moore, Frances C.\n文献频次：8\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 59,
+        "label": "Schellnhuber, Hans Joachim｜波茨坦气候影响研究所｜德国",
+        "x": 0.11892979594184411,
+        "y": 0.04049725234479741,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 12.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.375
+        },
+        "description": "Schellnhuber, Hans Joachim\n文献频次：8\n聚类：1\n总连接强度：12"
+      },
+      {
+        "id": 60,
+        "label": "Botzen, W. J. Wouter｜阿姆斯特丹自由大学｜荷兰",
+        "x": 0.6293897966573659,
+        "y": -0.26623533206906286,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 3.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "Botzen, W. J. Wouter\n文献频次：7\n聚类：4\n总连接强度：6"
+      },
+      {
+        "id": 61,
+        "label": "Creutzig, Felix｜柏林工业大学｜德国",
+        "x": -0.5789242758993542,
+        "y": -0.4474182602333298,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 5.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "Creutzig, Felix\n文献频次：7\n聚类：3\n总连接强度：8"
+      },
+      {
+        "id": 62,
+        "label": "Dannenberg, Astrid｜卡塞尔大学｜德国",
+        "x": 0.48296035491115374,
+        "y": 0.4721814013152353,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.142857142857
+        },
+        "description": "Dannenberg, Astrid\n文献频次：7\n聚类：1\n总连接强度：2"
+      },
+      {
+        "id": 63,
+        "label": "Dennig, Francis｜耶鲁－新加坡国立大学学院｜新加坡",
+        "x": 0.062289853560289626,
+        "y": -0.16401447073770814,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 8.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.2857142857142
+        },
+        "description": "Dennig, Francis\n文献频次：7\n聚类：1\n总连接强度：11"
+      },
+      {
+        "id": 64,
+        "label": "Gambhir, Ajay｜伦敦帝国理工学院｜英国",
+        "x": -0.18468814256985322,
+        "y": -0.0645502728747581,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 8.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.4285714285713
+        },
+        "description": "Gambhir, Ajay\n文献频次：7\n聚类：5\n总连接强度：21"
+      },
+      {
+        "id": 65,
+        "label": "He, Kebin｜清华大学｜中国",
+        "x": -0.0556812112923253,
+        "y": 0.5272266407326834,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 9.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "He, Kebin\n文献频次：7\n聚类：1\n总连接强度：21"
+      },
+      {
+        "id": 66,
+        "label": "Koberle, Alexandre C.｜伦敦帝国理工学院｜英国",
+        "x": -0.18693589186333026,
+        "y": -0.19651767516570096,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 28.0,
+          "Total Link Strength": 56.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "Koberle, Alexandre C.\n文献频次：7\n聚类：5\n总连接强度：56"
+      },
+      {
+        "id": 67,
+        "label": "Kopp, Robert E.｜罗格斯大学｜美国",
+        "x": -0.21888675726313558,
+        "y": 0.19336081001104438,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.2857142857142
+        },
+        "description": "Kopp, Robert E.\n文献频次：7\n聚类：4\n总连接强度：7"
+      },
+      {
+        "id": 68,
+        "label": "Lotze-Campen, Hermann｜柏林洪堡大学｜德国",
+        "x": -0.20884194458915317,
+        "y": -0.5047957289888296,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 13.0,
+          "Total Link Strength": 29.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.857142857143
+        },
+        "description": "Lotze-Campen, Hermann\n文献频次：7\n聚类：3\n总连接强度：29"
+      },
+      {
+        "id": 69,
+        "label": "Marangoni, Giacomo｜米兰理工大学｜意大利",
+        "x": -0.10620518526159206,
+        "y": -0.2574940360169388,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 18.0,
+          "Total Link Strength": 30.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.4285714285713
+        },
+        "description": "Marangoni, Giacomo\n文献频次：7\n聚类：2\n总连接强度：30"
+      },
+      {
+        "id": 70,
+        "label": "Mittal, Shivika｜伦敦帝国理工学院｜英国",
+        "x": -0.24221657911614775,
+        "y": -0.15314942126781972,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 23.0,
+          "Total Link Strength": 36.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.4285714285713
+        },
+        "description": "Mittal, Shivika\n文献频次：7\n聚类：5\n总连接强度：36"
+      },
+      {
+        "id": 71,
+        "label": "Muttarak, Raya｜博洛尼亚大学｜意大利",
+        "x": 0.049193111392422856,
+        "y": -0.5830443999288543,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 2.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.0
+        },
+        "description": "Muttarak, Raya\n文献频次：7\n聚类：5\n总连接强度：3"
+      },
+      {
+        "id": 72,
+        "label": "Peng, Wei｜宾夕法尼亚州立大学｜美国",
+        "x": 0.08455284723095752,
+        "y": 0.12533377346989963,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 9.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "Peng, Wei\n文献频次：7\n聚类：1\n总连接强度：14"
+      },
+      {
+        "id": 73,
+        "label": "Shan, Yuli｜伯明翰大学｜英国",
+        "x": 0.0180457828883078,
+        "y": 0.646,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.857142857143
+        },
+        "description": "Shan, Yuli\n文献频次：7\n聚类：1\n总连接强度：15"
+      },
+      {
+        "id": 74,
+        "label": "Wagner, Fabian｜普林斯顿大学｜美国",
+        "x": 0.041478122219641006,
+        "y": -0.08673343625579887,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 15.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.4285714285713
+        },
+        "description": "Wagner, Fabian\n文献频次：7\n聚类：1\n总连接强度：21"
+      },
+      {
+        "id": 75,
+        "label": "den Elzen, Michel｜荷兰环境评估署｜荷兰",
+        "x": -0.13564533518481298,
+        "y": -0.24381441187910868,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 25.0,
+          "Total Link Strength": 43.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.2857142857142
+        },
+        "description": "den Elzen, Michel\n文献频次：7\n聚类：2\n总连接强度：43"
+      },
+      {
+        "id": 76,
+        "label": "Brandt, Adam R.｜斯坦福大学｜美国",
+        "x": 0.25773662332481656,
+        "y": 0.4707310147053659,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.5
+        },
+        "description": "Brandt, Adam R.\n文献频次：6\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 77,
+        "label": "Calvin, Katherine｜太平洋西北国家实验室｜美国",
+        "x": -0.3624497308833049,
+        "y": -0.3194450739942501,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 19.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.3333333333333
+        },
+        "description": "Calvin, Katherine\n文献频次：6\n聚类：5\n总连接强度：21"
+      },
+      {
+        "id": 78,
+        "label": "Canadell, Josep G.｜澳大利亚联邦科学与工业研究组织海洋与大气研究部｜澳大利亚",
+        "x": -0.1000392585409026,
+        "y": 0.20846832425773637,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 8.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.6666666666667
+        },
+        "description": "Canadell, Josep G.\n文献频次：6\n聚类：1\n总连接强度：15"
+      },
+      {
+        "id": 79,
+        "label": "Despres, Jacques｜欧盟委员会｜西班牙",
+        "x": -0.1966121650148846,
+        "y": -0.35629045074753923,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 30.0,
+          "Total Link Strength": 101.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.5
+        },
+        "description": "Despres, Jacques\n文献频次：6\n聚类：2\n总连接强度：101"
+      },
+      {
+        "id": 80,
+        "label": "Dietz, Thomas｜密歇根州立大学｜美国",
+        "x": 1.130864329637946,
+        "y": 0.2125,
+        "cluster": 9,
+        "cluster_name": "Dietz, Thomas",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.8333333333333
+        },
+        "description": "Dietz, Thomas\n文献频次：6\n聚类：9\n总连接强度：0"
+      },
+      {
+        "id": 81,
+        "label": "Edmonds, James｜太平洋西北国家实验室｜美国",
+        "x": -0.3399537044176966,
+        "y": -0.2211230559999583,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 16.0,
+          "Total Link Strength": 25.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6666666666667
+        },
+        "description": "Edmonds, James\n文献频次：6\n聚类：5\n总连接强度：25"
+      },
+      {
+        "id": 82,
+        "label": "Fragkiadakis, Kostas｜E3能源经济环境建模研究公司｜希腊",
+        "x": -0.10470453876292102,
+        "y": -0.3509193540828966,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 29.0,
+          "Total Link Strength": 65.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3333333333333
+        },
+        "description": "Fragkiadakis, Kostas\n文献频次：6\n聚类：2\n总连接强度：65"
+      },
+      {
+        "id": 83,
+        "label": "Fragkos, Panagiotis｜E3能源经济环境建模研究公司｜希腊",
+        "x": -0.06500833778807334,
+        "y": -0.29843736151137795,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 25.0,
+          "Total Link Strength": 39.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.5
+        },
+        "description": "Fragkos, Panagiotis\n文献频次：6\n聚类：2\n总连接强度：39"
+      },
+      {
+        "id": 84,
+        "label": "Fricko, Oliver｜国际应用系统分析研究所｜奥地利",
+        "x": -0.22563150150501837,
+        "y": -0.3499224343235716,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 30.0,
+          "Total Link Strength": 96.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "Fricko, Oliver\n文献频次：6\n聚类：2\n总连接强度：96"
+      },
+      {
+        "id": 85,
+        "label": "Frieler, Katja｜波茨坦气候影响研究所｜德国",
+        "x": 0.32205770722400945,
+        "y": -0.2834114436884931,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 3.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.8333333333333
+        },
+        "description": "Frieler, Katja\n文献频次：6\n聚类：4\n总连接强度：5"
+      },
+      {
+        "id": 86,
+        "label": "Groom, Ben｜埃克塞特大学｜英国",
+        "x": 1.130864329637946,
+        "y": 0.6375,
+        "cluster": 10,
+        "cluster_name": "Groom, Ben",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.8333333333333
+        },
+        "description": "Groom, Ben\n文献频次：6\n聚类：10\n总连接强度：0"
+      },
+      {
+        "id": 87,
+        "label": "Hall, Jim W.｜牛津大学｜英国",
+        "x": 0.41538372129610823,
+        "y": -0.3952297020298957,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.8333333333333
+        },
+        "description": "Hall, Jim W.\n文献频次：6\n聚类：4\n总连接强度：4"
+      },
+      {
+        "id": 88,
+        "label": "Hanasaki, Naota｜日本国立环境研究所｜日本",
+        "x": 0.17340889543564153,
+        "y": -0.19208186215346762,
+        "cluster": 6,
+        "cluster_name": "Hasegawa, Tomoko / Havlik, Petr / Obersteiner, Michael",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 3.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.0
+        },
+        "description": "Hanasaki, Naota\n文献频次：6\n聚类：6\n总连接强度：5"
+      },
+      {
+        "id": 89,
+        "label": "Herrero, Mario｜康奈尔大学｜美国",
+        "x": -0.09706135572251637,
+        "y": -0.646,
+        "cluster": 6,
+        "cluster_name": "Hasegawa, Tomoko / Havlik, Petr / Obersteiner, Michael",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.5
+        },
+        "description": "Herrero, Mario\n文献频次：6\n聚类：6\n总连接强度：15"
+      },
+      {
+        "id": 90,
+        "label": "Hinkel, Jochen｜柏林洪堡大学｜德国",
+        "x": 0.3070350329469973,
+        "y": -0.4011217493456545,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5
+        },
+        "description": "Hinkel, Jochen\n文献频次：6\n聚类：4\n总连接强度：4"
+      },
+      {
+        "id": 91,
+        "label": "Jakob, Michael｜墨卡托全球公域与气候变化研究所｜德国",
+        "x": -0.744726000691942,
+        "y": -0.2677528833010341,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.8333333333333
+        },
+        "description": "Jakob, Michael\n文献频次：6\n聚类：3\n总连接强度：4"
+      },
+      {
+        "id": 92,
+        "label": "Jewell, Jessica｜卑尔根大学｜挪威",
+        "x": -0.34450929381760015,
+        "y": -0.42899977486442303,
+        "cluster": 2,
+        "cluster_name": "Riahi, Keywan / Tavoni, Massimo / van Vuuren, Detlef P.",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 13.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.5
+        },
+        "description": "Jewell, Jessica\n文献频次：6\n聚类：2\n总连接强度：15"
+      },
+      {
+        "id": 93,
+        "label": "Levin, Simon A.｜普林斯顿大学｜美国",
+        "x": -0.8263635430664656,
+        "y": 0.3880181494490799,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5
+        },
+        "description": "Levin, Simon A.\n文献频次：6\n聚类：4\n总连接强度：1"
+      },
+      {
+        "id": 94,
+        "label": "Meckling, Jonas｜加州大学伯克利分校｜美国",
+        "x": -0.9676611373814742,
+        "y": -0.3641078796486487,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.1666666666667
+        },
+        "description": "Meckling, Jonas\n文献频次：6\n聚类：3\n总连接强度：1"
+      },
+      {
+        "id": 95,
+        "label": "Minx, Jan C.｜利兹大学｜英国",
+        "x": -0.6739169694411711,
+        "y": -0.4558353527898939,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 3.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "Minx, Jan C.\n文献频次：6\n聚类：3\n总连接强度：5"
+      },
+      {
+        "id": 96,
+        "label": "Morgan, M. Granger｜卡内基梅隆大学｜美国",
+        "x": 0.2080644277629945,
+        "y": 0.5224320862777819,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3333333333333
+        },
+        "description": "Morgan, M. Granger\n文献频次：6\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 97,
+        "label": "Mueller, Christoph｜波茨坦气候影响研究所｜德国",
+        "x": -0.0033777737197282776,
+        "y": -0.42074790739773504,
+        "cluster": 3,
+        "cluster_name": "Kriegler, Elmar / Edenhofer, Ottmar / Luderer, Gunnar",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 11.0,
+          "Total Link Strength": 17.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.6666666666667
+        },
+        "description": "Mueller, Christoph\n文献频次：6\n聚类：3\n总连接强度：17"
+      },
+      {
+        "id": 98,
+        "label": "Nicholls, Zebedee｜墨尔本大学｜澳大利亚",
+        "x": -0.028605847925862404,
+        "y": -0.07384778485617867,
+        "cluster": 5,
+        "cluster_name": "Rogelj, Joeri / McJeon, Haewon / Iyer, Gokul",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 7.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.8333333333333
+        },
+        "description": "Nicholls, Zebedee\n文献频次：6\n聚类：5\n总连接强度：12"
+      },
+      {
+        "id": 99,
+        "label": "Qin, Yue｜北京大学｜中国",
+        "x": 0.04527404170002364,
+        "y": 0.3296422321556278,
+        "cluster": 1,
+        "cluster_name": "Guan, Dabo / Davis, Steven J. / Hubacek, Klaus",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 9.0,
+          "Total Link Strength": 16.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.1666666666667
+        },
+        "description": "Qin, Yue\n文献频次：6\n聚类：1\n总连接强度：16"
+      },
+      {
+        "id": 100,
+        "label": "Rising, James｜特拉华大学｜美国",
+        "x": -0.45374787200460537,
+        "y": 0.4915394744086971,
+        "cluster": 4,
+        "cluster_name": "Mach, Katharine J. / Oppenheimer, Michael / Feyen, Luc",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6666666666667
+        },
+        "description": "Rising, James\n文献频次：6\n聚类：4\n总连接强度：3"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 21,
+        "target_id": 1,
+        "strength": 12.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 10,
+        "strength": 11.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 15,
+        "strength": 10.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 10,
+        "strength": 9.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 12,
+        "strength": 9.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 1,
+        "strength": 9.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 48,
+        "strength": 9.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 29,
+        "strength": 9.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 8,
+        "strength": 8.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 21,
+        "strength": 8.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 45,
+        "strength": 8.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 14,
+        "strength": 8.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 17,
+        "strength": 8.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 13,
+        "strength": 8.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 3,
+        "strength": 8.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 7,
+        "strength": 7.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 8,
+        "strength": 7.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 1,
+        "strength": 7.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 14,
+        "strength": 7.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 13,
+        "strength": 7.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 18,
+        "strength": 7.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 29,
+        "strength": 7.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 1,
+        "strength": 7.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 5,
+        "strength": 7.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 36,
+        "strength": 7.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 24,
+        "strength": 7.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 15,
+        "strength": 6.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 55,
+        "strength": 6.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 21,
+        "strength": 6.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 10,
+        "strength": 6.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 4,
+        "strength": 6.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 17,
+        "strength": 6.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 7,
+        "strength": 6.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 16,
+        "strength": 6.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 7,
+        "strength": 6.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 36,
+        "strength": 6.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 3,
+        "strength": 6.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 7,
+        "strength": 6.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 21,
+        "strength": 6.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 3,
+        "strength": 6.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 28,
+        "strength": 6.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 12,
+        "strength": 6.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 7,
+        "strength": 6.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 54,
+        "strength": 6.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 13,
+        "strength": 6.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 55,
+        "strength": 6.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 8,
+        "strength": 6.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 36,
+        "strength": 6.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 3,
+        "strength": 6.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 29,
+        "strength": 6.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 24,
+        "strength": 6.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 10,
+        "strength": 6.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 15,
+        "strength": 6.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 3,
+        "strength": 6.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 15,
+        "strength": 6.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 79,
+        "strength": 5.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 30,
+        "strength": 5.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 16,
+        "strength": 5.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 84,
+        "strength": 5.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 54,
+        "strength": 5.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 20,
+        "strength": 5.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 15,
+        "strength": 5.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 3,
+        "strength": 5.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 35,
+        "strength": 5.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 23,
+        "strength": 5.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 24,
+        "strength": 5.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 30,
+        "strength": 5.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 31,
+        "strength": 5.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 84,
+        "strength": 5.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 54,
+        "strength": 5.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 21,
+        "strength": 5.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 45,
+        "strength": 5.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 36,
+        "strength": 5.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 84,
+        "strength": 5.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 54,
+        "strength": 5.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 55,
+        "strength": 5.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 21,
+        "strength": 5.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 45,
+        "strength": 5.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 10,
+        "strength": 5.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 29,
+        "strength": 5.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 7,
+        "strength": 5.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 21,
+        "strength": 5.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 21,
+        "strength": 5.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 20,
+        "strength": 5.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 15,
+        "strength": 5.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 66,
+        "strength": 5.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 55,
+        "strength": 5.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 45,
+        "strength": 5.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 36,
+        "strength": 5.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 15,
+        "strength": 5.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 48,
+        "strength": 5.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 29,
+        "strength": 5.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 47,
+        "strength": 5.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 8,
+        "strength": 5.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 68,
+        "strength": 5.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 8,
+        "strength": 5.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 45,
+        "strength": 5.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 36,
+        "strength": 5.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 3,
+        "strength": 5.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 15,
+        "strength": 5.0
+      },
+      {
+        "source_id": 69,
+        "target_id": 3,
+        "strength": 5.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 36,
+        "strength": 5.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 6,
+        "strength": 5.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 3,
+        "strength": 5.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 29,
+        "strength": 5.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 29,
+        "strength": 5.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 60,
+        "strength": 4.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 9,
+        "strength": 4.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 20,
+        "strength": 4.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 31,
+        "strength": 4.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 45,
+        "strength": 4.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 36,
+        "strength": 4.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 3,
+        "strength": 4.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 29,
+        "strength": 4.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 4,
+        "strength": 4.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 2,
+        "strength": 4.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 99,
+        "strength": 4.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 16,
+        "strength": 4.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 20,
+        "strength": 4.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 55,
+        "strength": 4.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 29,
+        "strength": 4.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 31,
+        "strength": 4.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 8,
+        "strength": 4.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 91,
+        "strength": 4.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 8,
+        "strength": 4.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 31,
+        "strength": 4.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 84,
+        "strength": 4.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 36,
+        "strength": 4.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 2,
+        "strength": 4.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 21,
+        "strength": 4.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 3,
+        "strength": 4.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 84,
+        "strength": 4.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 54,
+        "strength": 4.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 20,
+        "strength": 4.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 45,
+        "strength": 4.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 36,
+        "strength": 4.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 48,
+        "strength": 4.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 29,
+        "strength": 4.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 54,
+        "strength": 4.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 55,
+        "strength": 4.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 8,
+        "strength": 4.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 45,
+        "strength": 4.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 36,
+        "strength": 4.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 70,
+        "strength": 4.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 5,
+        "strength": 4.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 73,
+        "strength": 4.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 24,
+        "strength": 4.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 20,
+        "strength": 4.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 21,
+        "strength": 4.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 8,
+        "strength": 4.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 3,
+        "strength": 4.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 29,
+        "strength": 4.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 6,
+        "strength": 4.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 20,
+        "strength": 4.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 21,
+        "strength": 4.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 89,
+        "strength": 4.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 44,
+        "strength": 4.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 15,
+        "strength": 4.0
+      },
+      {
+        "source_id": 89,
+        "target_id": 44,
+        "strength": 4.0
+      },
+      {
+        "source_id": 89,
+        "target_id": 48,
+        "strength": 4.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 17,
+        "strength": 4.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 21,
+        "strength": 4.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 29,
+        "strength": 4.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 21,
+        "strength": 4.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 45,
+        "strength": 4.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 36,
+        "strength": 4.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 70,
+        "strength": 4.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 5,
+        "strength": 4.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 36,
+        "strength": 4.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 6,
+        "strength": 4.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 98,
+        "strength": 4.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 73,
+        "strength": 4.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 48,
+        "strength": 4.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 29,
+        "strength": 4.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 74,
+        "strength": 4.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 5,
+        "strength": 4.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 46,
+        "strength": 4.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 25,
+        "strength": 3.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 82,
+        "strength": 3.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 12,
+        "strength": 3.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 13,
+        "strength": 3.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 79,
+        "strength": 3.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 31,
+        "strength": 3.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 84,
+        "strength": 3.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 7,
+        "strength": 3.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 21,
+        "strength": 3.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 19,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 17,
+        "strength": 3.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 35,
+        "strength": 3.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 81,
+        "strength": 3.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 95,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 26,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 14,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 35,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 47,
+        "strength": 3.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 74,
+        "strength": 3.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 82,
+        "strength": 3.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 12,
+        "strength": 3.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 15,
+        "strength": 3.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 82,
+        "strength": 3.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 20,
+        "strength": 3.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 66,
+        "strength": 3.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 10,
+        "strength": 3.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 82,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 83,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 54,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 13,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 20,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 55,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 69,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 45,
+        "strength": 3.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 17,
+        "strength": 3.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 31,
+        "strength": 3.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 84,
+        "strength": 3.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 7,
+        "strength": 3.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 54,
+        "strength": 3.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 45,
+        "strength": 3.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 36,
+        "strength": 3.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 36,
+        "strength": 3.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 55,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 15,
+        "strength": 3.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 20,
+        "strength": 3.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 10,
+        "strength": 3.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 27,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 10,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 48,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 65,
+        "strength": 3.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 45,
+        "strength": 3.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 36,
+        "strength": 3.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 20,
+        "strength": 3.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 21,
+        "strength": 3.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 73,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 55,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 45,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 36,
+        "strength": 3.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 55,
+        "strength": 3.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 23,
+        "strength": 3.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 10,
+        "strength": 3.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 10,
+        "strength": 3.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 15,
+        "strength": 3.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 69,
+        "strength": 3.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 45,
+        "strength": 3.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 24,
+        "strength": 3.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 97,
+        "strength": 3.0
+      },
+      {
+        "source_id": 69,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 70,
+        "target_id": 5,
+        "strength": 3.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 15,
+        "strength": 3.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 29,
+        "strength": 3.0
+      },
+      {
+        "source_id": 99,
+        "target_id": 24,
+        "strength": 3.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 75,
+        "strength": 3.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 75,
+        "strength": 3.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 68,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 69,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 9,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 66,
+        "strength": 2.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 30,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 82,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 20,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 45,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 24,
+        "strength": 2.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 39,
+        "strength": 2.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 81,
+        "strength": 2.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 4,
+        "strength": 2.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 21,
+        "strength": 2.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 9,
+        "strength": 2.0
+      },
+      {
+        "source_id": 62,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 58,
+        "strength": 2.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 72,
+        "strength": 2.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 13,
+        "strength": 2.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 66,
+        "strength": 2.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 83,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 13,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 27,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 52,
+        "strength": 2.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 7,
+        "strength": 2.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 85,
+        "strength": 2.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 20,
+        "strength": 2.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 55,
+        "strength": 2.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 7,
+        "strength": 2.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 69,
+        "strength": 2.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 89,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 44,
+        "strength": 2.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 13,
+        "strength": 2.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 27,
+        "strength": 2.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 66,
+        "strength": 2.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 85,
+        "target_id": 97,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 66,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 68,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 70,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 35,
+        "strength": 2.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 28,
+        "strength": 2.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 34,
+        "strength": 2.0
+      },
+      {
+        "source_id": 88,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 88,
+        "target_id": 57,
+        "strength": 2.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 27,
+        "strength": 2.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 66,
+        "strength": 2.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 55,
+        "strength": 2.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 68,
+        "strength": 2.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 55,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 68,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 18,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 97,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 66,
+        "strength": 2.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 29,
+        "strength": 2.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 45,
+        "strength": 2.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 35,
+        "strength": 2.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 34,
+        "strength": 2.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 33,
+        "strength": 2.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 18,
+        "strength": 2.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 48,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 45,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 34,
+        "strength": 2.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 72,
+        "strength": 2.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 99,
+        "strength": 2.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 74,
+        "strength": 2.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 70,
+        "strength": 2.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 70,
+        "target_id": 45,
+        "strength": 2.0
+      },
+      {
+        "source_id": 70,
+        "target_id": 35,
+        "strength": 2.0
+      },
+      {
+        "source_id": 70,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 71,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 46,
+        "strength": 2.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 15,
+        "strength": 2.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 36,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 48,
+        "strength": 2.0
+      },
+      {
+        "source_id": 99,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 75,
+        "strength": 2.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 87,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 61,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 83,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 97,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 61,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 81,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 83,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 60,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 60,
+        "target_id": 87,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 96,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 96,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 99,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 98,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 98,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 72,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 96,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 73,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 83,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 83,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 94,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 95,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 72,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 99,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 73,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 83,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 84,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 85,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 97,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 87,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 87,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 97,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 97,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 72,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 96,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 100,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 98,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 93,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 73,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 72,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 97,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 69,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 69,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 69,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 69,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 69,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 95,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 70,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 70,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 70,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 70,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 70,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 99,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 100,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 71,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 100,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 99,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 99,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 29,
+        "strength": 1.0
+      }
+    ]
+  },
+  "options": {
+    "scale": 1.5,
+    "network": {
+      "normalization": {
+        "method": "lin/log",
+        "attributes": [
+          "weights.NodeSize"
+        ]
+      }
+    },
+    "visualization": {
+      "scale": 2.0,
+      "nodes": {
+        "size": {
+          "variation": 0.35,
+          "min": 4,
+          "max": 24
+        }
+      },
+      "labels": {
+        "size": {
+          "variation": 0.5,
+          "min": 7,
+          "max": 14
+        },
+        "fontSize": 14,
+        "maximumLabelLength": 120
+      }
+    }
+  }
+}

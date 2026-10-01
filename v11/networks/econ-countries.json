@@ -1,0 +1,1500 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "United States",
+        "x": -0.030591589259713513,
+        "y": 0.03725037703453767,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 681.0,
+          "Links": 30.0,
+          "Total Link Strength": 321.0,
+          "NodeSize": 5.914396505209966
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.5139500734215
+        },
+        "description": "United States\n文献频次：681\n聚类：1\n总连接强度：321"
+      },
+      {
+        "id": 2,
+        "label": "Germany",
+        "x": 0.021801948682200496,
+        "y": -0.03312228899171686,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 174.0,
+          "Links": 20.0,
+          "Total Link Strength": 198.0,
+          "NodeSize": 3.978635893740938
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0689655172414
+        },
+        "description": "Germany\n文献频次：174\n聚类：2\n总连接强度：198"
+      },
+      {
+        "id": 3,
+        "label": "United Kingdom",
+        "x": -0.051968895007534065,
+        "y": -0.05329577947431064,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 160.0,
+          "Links": 28.0,
+          "Total Link Strength": 229.0,
+          "NodeSize": 3.8973665961010275
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.55625
+        },
+        "description": "United Kingdom\n文献频次：160\n聚类：2\n总连接强度：229"
+      },
+      {
+        "id": 4,
+        "label": "France",
+        "x": -0.12303680880577396,
+        "y": -0.03826361434448792,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 93.0,
+          "Links": 20.0,
+          "Total Link Strength": 111.0,
+          "NodeSize": 3.446547614148943
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.3010752688172
+        },
+        "description": "France\n文献频次：93\n聚类：2\n总连接强度：111"
+      },
+      {
+        "id": 5,
+        "label": "Canada",
+        "x": 0.0745106542805262,
+        "y": 0.051145434530451256,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 70.0,
+          "Links": 16.0,
+          "Total Link Strength": 79.0,
+          "NodeSize": 3.2549900398011133
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4714285714285
+        },
+        "description": "Canada\n文献频次：70\n聚类：1\n总连接强度：79"
+      },
+      {
+        "id": 6,
+        "label": "China",
+        "x": 0.0033820346538337735,
+        "y": 0.1610917452553507,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 63.0,
+          "Links": 10.0,
+          "Total Link Strength": 63.0,
+          "NodeSize": 3.190588089979066
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.5873015873017
+        },
+        "description": "China\n文献频次：63\n聚类：1\n总连接强度：63"
+      },
+      {
+        "id": 7,
+        "label": "Netherlands",
+        "x": 0.07498767073283556,
+        "y": -0.1358834677946931,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 62.0,
+          "Links": 17.0,
+          "Total Link Strength": 90.0,
+          "NodeSize": 3.1811011811017718
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.4354838709678
+        },
+        "description": "Netherlands\n文献频次：62\n聚类：2\n总连接强度：90"
+      },
+      {
+        "id": 8,
+        "label": "Switzerland",
+        "x": -0.019170751507238806,
+        "y": -0.127630573857169,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 57.0,
+          "Links": 15.0,
+          "Total Link Strength": 79.0,
+          "NodeSize": 3.1324751652906127
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3859649122808
+        },
+        "description": "Switzerland\n文献频次：57\n聚类：2\n总连接强度：79"
+      },
+      {
+        "id": 9,
+        "label": "Italy",
+        "x": -0.20837960364707317,
+        "y": -0.04092642218397649,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 45.0,
+          "Links": 12.0,
+          "Total Link Strength": 55.0,
+          "NodeSize": 3.0062305898749053
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.911111111111
+        },
+        "description": "Italy\n文献频次：45\n聚类：2\n总连接强度：55"
+      },
+      {
+        "id": 10,
+        "label": "Australia",
+        "x": -0.22323340056313504,
+        "y": 0.042607144690324866,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 44.0,
+          "Links": 16.0,
+          "Total Link Strength": 48.0,
+          "NodeSize": 2.99498743710662
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.3863636363637
+        },
+        "description": "Australia\n文献频次：44\n聚类：1\n总连接强度：48"
+      },
+      {
+        "id": 11,
+        "label": "Sweden",
+        "x": 0.14998552497735915,
+        "y": 0.14503128551213304,
+        "cluster": 3,
+        "cluster_name": "Sweden / Norway / Japan",
+        "weights": {
+          "Documents": 31.0,
+          "Links": 10.0,
+          "Total Link Strength": 33.0,
+          "NodeSize": 2.8351646544245033
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.741935483871
+        },
+        "description": "Sweden\n文献频次：31\n聚类：3\n总连接强度：33"
+      },
+      {
+        "id": 12,
+        "label": "Norway",
+        "x": 0.1821864767009488,
+        "y": -0.12655916477567852,
+        "cluster": 3,
+        "cluster_name": "Sweden / Norway / Japan",
+        "weights": {
+          "Documents": 29.0,
+          "Links": 14.0,
+          "Total Link Strength": 39.0,
+          "NodeSize": 2.8077747210701753
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.3793103448277
+        },
+        "description": "Norway\n文献频次：29\n聚类：3\n总连接强度：39"
+      },
+      {
+        "id": 13,
+        "label": "Spain",
+        "x": -0.16597956411875953,
+        "y": 0.13180355294357174,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 28.0,
+          "Links": 14.0,
+          "Total Link Strength": 29.0,
+          "NodeSize": 2.7937253933193773
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.5357142857142
+        },
+        "description": "Spain\n文献频次：28\n聚类：2\n总连接强度：29"
+      },
+      {
+        "id": 14,
+        "label": "Belgium",
+        "x": -0.17059351281827942,
+        "y": -0.18270574347581534,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 18.0,
+          "Links": 13.0,
+          "Total Link Strength": 38.0,
+          "NodeSize": 2.636396103067893
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.611111111111
+        },
+        "description": "Belgium\n文献频次：18\n聚类：2\n总连接强度：38"
+      },
+      {
+        "id": 15,
+        "label": "Austria",
+        "x": -0.005961639919880805,
+        "y": -0.2522312601476146,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 17.0,
+          "Links": 13.0,
+          "Total Link Strength": 34.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.1764705882354
+        },
+        "description": "Austria\n文献频次：17\n聚类：2\n总连接强度：34"
+      },
+      {
+        "id": 16,
+        "label": "Japan",
+        "x": 0.3715916121977298,
+        "y": -0.22261529673695096,
+        "cluster": 3,
+        "cluster_name": "Sweden / Norway / Japan",
+        "weights": {
+          "Documents": 15.0,
+          "Links": 6.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5333333333333
+        },
+        "description": "Japan\n文献频次：15\n聚类：3\n总连接强度：10"
+      },
+      {
+        "id": 17,
+        "label": "Singapore",
+        "x": 0.2179544914584115,
+        "y": 0.01250968878748031,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 15.0,
+          "Links": 11.0,
+          "Total Link Strength": 26.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.2666666666667
+        },
+        "description": "Singapore\n文献频次：15\n聚类：1\n总连接强度：26"
+      },
+      {
+        "id": 18,
+        "label": "Finland",
+        "x": 0.1750347803489651,
+        "y": -0.646,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 3.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.090909090909
+        },
+        "description": "Finland\n文献频次：11\n聚类：2\n总连接强度：5"
+      },
+      {
+        "id": 19,
+        "label": "Chile",
+        "x": -0.07482265677807201,
+        "y": -0.3834195106025973,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 6.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.4444444444443
+        },
+        "description": "Chile\n文献频次：9\n聚类：1\n总连接强度：13"
+      },
+      {
+        "id": 20,
+        "label": "Denmark",
+        "x": -0.08645597323287298,
+        "y": 0.3691731459097974,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 6.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5555555555557
+        },
+        "description": "Denmark\n文献频次：9\n聚类：2\n总连接强度：9"
+      },
+      {
+        "id": 21,
+        "label": "Ireland",
+        "x": -0.24737529040073253,
+        "y": -0.4103956944274034,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.7142857142858
+        },
+        "description": "Ireland\n文献频次：7\n聚类：2\n总连接强度：11"
+      },
+      {
+        "id": 22,
+        "label": "Brazil",
+        "x": -0.2742717116381725,
+        "y": 0.31024022827332814,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.1666666666667
+        },
+        "description": "Brazil\n文献频次：6\n聚类：1\n总连接强度：10"
+      },
+      {
+        "id": 23,
+        "label": "Greece",
+        "x": -0.41607623254484744,
+        "y": -0.2506506832085505,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.1666666666667
+        },
+        "description": "Greece\n文献频次：6\n聚类：1\n总连接强度：9"
+      },
+      {
+        "id": 24,
+        "label": "Mexico",
+        "x": -0.4651441436812771,
+        "y": 0.1779766797334805,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.1666666666667
+        },
+        "description": "Mexico\n文献频次：6\n聚类：1\n总连接强度：7"
+      },
+      {
+        "id": 25,
+        "label": "New Zealand",
+        "x": 0.24560181082112537,
+        "y": -0.3905798729064596,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "New Zealand\n文献频次：6\n聚类：1\n总连接强度：7"
+      },
+      {
+        "id": 26,
+        "label": "South Korea",
+        "x": -0.17440075879416353,
+        "y": 0.4912010901880737,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.3333333333333
+        },
+        "description": "South Korea\n文献频次：6\n聚类：1\n总连接强度：7"
+      },
+      {
+        "id": 27,
+        "label": "Israel",
+        "x": 0.4314479037711338,
+        "y": 0.34535978342274565,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 3.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "Israel\n文献频次：4\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 28,
+        "label": "Russia",
+        "x": 0.37643405666990193,
+        "y": -0.05979626811978677,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 8.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.25
+        },
+        "description": "Russia\n文献频次：4\n聚类：2\n总连接强度：12"
+      },
+      {
+        "id": 29,
+        "label": "India",
+        "x": 0.13616476793272086,
+        "y": 0.646,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 2.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6666666666667
+        },
+        "description": "India\n文献频次：3\n聚类：1\n总连接强度：4"
+      },
+      {
+        "id": 30,
+        "label": "Kuwait",
+        "x": -0.5968989134476788,
+        "y": 0.05922586086652824,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 5.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2009.6666666666667
+        },
+        "description": "Kuwait\n文献频次：3\n聚类：1\n总连接强度：6"
+      },
+      {
+        "id": 31,
+        "label": "Poland",
+        "x": -0.657992387659585,
+        "y": -0.17036804635149214,
+        "cluster": 2,
+        "cluster_name": "Germany / United Kingdom / France",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 3.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.3333333333333
+        },
+        "description": "Poland\n文献频次：3\n聚类：2\n总连接强度：5"
+      },
+      {
+        "id": 32,
+        "label": "Portugal",
+        "x": 0.657992387659585,
+        "y": 0.10056593933472666,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.6666666666667
+        },
+        "description": "Portugal\n文献频次：3\n聚类：1\n总连接强度：3"
+      },
+      {
+        "id": 33,
+        "label": "Taiwan",
+        "x": 0.33898436900603834,
+        "y": 0.6270344965855029,
+        "cluster": 1,
+        "cluster_name": "United States / Canada / China",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 2.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3333333333333
+        },
+        "description": "Taiwan\n文献频次：3\n聚类：1\n总连接强度：3"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 3,
+        "target_id": 1,
+        "strength": 49.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 1,
+        "strength": 41.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 3,
+        "strength": 38.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 1,
+        "strength": 34.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 1,
+        "strength": 33.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 3,
+        "strength": 23.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 1,
+        "strength": 22.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 1,
+        "strength": 22.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 7,
+        "strength": 21.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 8,
+        "strength": 18.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 1,
+        "strength": 17.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 3,
+        "strength": 17.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 1,
+        "strength": 15.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 2,
+        "strength": 15.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 1,
+        "strength": 12.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 3,
+        "strength": 11.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 3,
+        "strength": 10.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 2,
+        "strength": 10.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 9,
+        "strength": 9.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 12,
+        "strength": 9.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 1,
+        "strength": 9.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 3,
+        "strength": 8.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 3,
+        "strength": 8.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 3,
+        "strength": 8.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 7,
+        "strength": 8.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 11,
+        "strength": 8.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 3,
+        "strength": 8.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 1,
+        "strength": 8.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 2,
+        "strength": 7.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 8,
+        "strength": 7.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 1,
+        "strength": 7.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 3,
+        "strength": 7.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 6,
+        "strength": 6.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 4,
+        "strength": 6.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 3,
+        "strength": 6.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 9,
+        "strength": 6.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 4,
+        "strength": 5.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 7,
+        "strength": 5.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 17,
+        "strength": 5.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 3,
+        "strength": 5.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 7,
+        "strength": 4.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 7,
+        "strength": 4.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 13,
+        "strength": 4.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 3,
+        "strength": 4.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 4,
+        "strength": 3.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 9,
+        "strength": 3.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 11,
+        "strength": 3.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 7,
+        "strength": 3.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 17,
+        "strength": 3.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 13,
+        "strength": 3.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 12,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 28,
+        "strength": 3.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 8,
+        "strength": 3.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 11,
+        "strength": 3.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 3,
+        "strength": 3.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 5,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 9,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 31,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 13,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 31,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 11,
+        "strength": 2.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 7,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 8,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 8,
+        "strength": 1.0
+      }
+    ]
+  },
+  "options": {
+    "scale": 1.5,
+    "network": {
+      "normalization": {
+        "method": "lin/log",
+        "attributes": [
+          "weights.NodeSize"
+        ]
+      }
+    },
+    "visualization": {
+      "scale": 2.0,
+      "nodes": {
+        "size": {
+          "variation": 0.35,
+          "min": 4,
+          "max": 24
+        }
+      },
+      "labels": {
+        "size": {
+          "variation": 0.5,
+          "min": 7,
+          "max": 14
+        },
+        "fontSize": 14,
+        "maximumLabelLength": 120
+      }
+    }
+  }
+}

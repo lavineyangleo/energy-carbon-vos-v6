@@ -1,0 +1,3623 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "Nunez-Jimenez (2022)",
+        "x": 0.5652791432392812,
+        "y": 0.3810690884489989,
+        "cluster": 1,
+        "weights": {
+          "Documents": 1,
+          "NodeSize": 3.0,
+          "Links": 13,
+          "Total Link Strength": 13
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Beyond innovation and deployment: Modeling the impact of technology-push and demand-pull policies in Germany's solar policy mix\n管理学期刊\nDOI: 10.1016/j.respol.2022.104585\n本网络全部边中被引: 1"
+      },
+      {
+        "id": 2,
+        "label": "Huang (2021)",
+        "x": 0.46511450622831724,
+        "y": -0.17368577462685086,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Carbon Leakage: The Impact of Asymmetric Regulation on Carbon-Emitting Production\n管理学期刊\nDOI: 10.1111/poms.13181\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 3,
+        "label": "Delmas (2010)",
+        "x": -0.020962197501457006,
+        "y": 0.43315454980413914,
+        "cluster": 3,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2010
+        },
+        "description": "VOLUNTARY AGREEMENTS TO IMPROVE ENVIRONMENTAL QUALITY: SYMBOLIC AND SUBSTANTIVE COOPERATION\n管理学期刊\nDOI: 10.1002/smj.826\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 4,
+        "label": "Drake (2021)",
+        "x": 0.35492045508850684,
+        "y": 0.048712476644723446,
+        "cluster": 3,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Kicking Ash: Who (or What) is Winning the War on Coal?\n管理学期刊\nDOI: 10.1111/poms.13360\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 5,
+        "label": "Kivimaa (2022)",
+        "x": 0.7288838936479218,
+        "y": 0.7452605663617375,
+        "cluster": 1,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Interplay of policy experimentation and institutional change in sustainability transitions: The case of mobility as a service in Finland\n管理学期刊\nDOI: 10.1016/j.respol.2021.104412\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 6,
+        "label": "Schot (2018)",
+        "x": 0.752032611534594,
+        "y": 0.638695195312835,
+        "cluster": 1,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Three frames for innovation policy: R&D, systems of innovation and transformative change\n管理学期刊\nDOI: 10.1016/j.respol.2018.08.011\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 7,
+        "label": "Schot (2018)",
+        "x": 0.6691684232593614,
+        "y": 0.7296096180410481,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Deep transitions: Emergence, acceleration, stabilization and directionality\n管理学期刊\nDOI: 10.1016/j.respol.2018.03.009\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 8,
+        "label": "Secomandi (2010)",
+        "x": 0.475538241739342,
+        "y": -0.8,
+        "cluster": 2,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2010
+        },
+        "description": "Optimal Commodity Trading with a Capacitated Storage Asset\n管理学期刊\nDOI: 10.1287/mnsc.1090.1049\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 9,
+        "label": "York (2016)",
+        "x": 0.037569124272362066,
+        "y": 0.34630584863883795,
+        "cluster": 3,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Exploring Environmental Entrepreneurship: Identity Coupling, Venture Goals, and Stakeholder Incentives\n管理学期刊\nDOI: 10.1111/joms.12198\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 10,
+        "label": "Sunar (2019)",
+        "x": 0.3987328880412961,
+        "y": -0.35215961862132733,
+        "cluster": 2,
+        "weights": {
+          "Documents": 22,
+          "NodeSize": 6.69041575982343,
+          "Links": 20,
+          "Total Link Strength": 20
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Strategic Commitment to a Production Schedule with Uncertain Supply and Demand: Renewable Energy in Day-Ahead Electricity Markets\n管理学期刊\nDOI: 10.1287/mnsc.2017.2961\n本网络全部边中被引: 22"
+      },
+      {
+        "id": 11,
+        "label": "Sunar (2021)",
+        "x": 0.2787374514018002,
+        "y": -0.3677133024812794,
+        "cluster": 2,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Net-Metered Distributed Renewable Energy: A Peril for Utilities?\n管理学期刊\nDOI: 10.1287/mnsc.2020.3854\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 12,
+        "label": "Gao (2024)",
+        "x": 0.5636976755132258,
+        "y": -0.3686814448616994,
+        "cluster": 2,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "Aggregating Distributed Energy Resources: Efficiency and Market Power\n管理学期刊\nDOI: 10.1287/msom.2021.0539\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 13,
+        "label": "Turnheim (2019)",
+        "x": 0.85,
+        "y": 0.5332017577358369,
+        "cluster": 1,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Incumbent actors, guided search paths, and landmark projects in infra system transitions: Re-thinking Strategic Niche Management with a case study of French tramway diffusion (1971-2016)\n管理学期刊\nDOI: 10.1016/j.respol.2019.02.002\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 14,
+        "label": "Pacheco (2023)",
+        "x": 0.32583610473504615,
+        "y": 0.41054425183897225,
+        "cluster": 3,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "Social movements and entrepreneurial activity: A study of the US solar energy industry\n管理学期刊\nDOI: 10.1016/j.respol.2022.104621\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 15,
+        "label": "Veal (2012)",
+        "x": -0.703594245049283,
+        "y": 0.6721563750573165,
+        "cluster": 4,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "Market-Based Responses to Climate Change: CO2 Market Design versus Operation\n管理学期刊\nDOI: 10.1177/0170840612463325\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 16,
+        "label": "Aflaki (2017)",
+        "x": 0.3486230923321007,
+        "y": -0.20549464926183983,
+        "cluster": 2,
+        "weights": {
+          "Documents": 16,
+          "NodeSize": 6.0,
+          "Links": 16,
+          "Total Link Strength": 16
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Strategic Investment in Renewable Energy Sources: The Effect of Supply Intermittency\n管理学期刊\nDOI: 10.1287/msom.2017.0621\n本网络全部边中被引: 16"
+      },
+      {
+        "id": 17,
+        "label": "Kivimaa (2016)",
+        "x": 0.6680370820459741,
+        "y": 0.5752544271997343,
+        "cluster": 1,
+        "weights": {
+          "Documents": 20,
+          "NodeSize": 6.47213595499958,
+          "Links": 16,
+          "Total Link Strength": 16
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Creative destruction or mere niche support? Innovation policy mixes for sustainability transitions\n管理学期刊\nDOI: 10.1016/j.respol.2015.09.008\n本网络全部边中被引: 20"
+      },
+      {
+        "id": 18,
+        "label": "Peters (2012)",
+        "x": 0.595509010906661,
+        "y": 0.23981547063090153,
+        "cluster": 1,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "The impact of technology-push and demand-pull policies on technical change - Does the locus of policies matter?\n管理学期刊\nDOI: 10.1016/j.respol.2012.02.004\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 19,
+        "label": "Bacq (2022)",
+        "x": 0.07204607650179554,
+        "y": 0.2387950464276325,
+        "cluster": 3,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Communities at the nexus of entrepreneurship and societal impact: A cross-disciplinary literature review\n管理学期刊\nDOI: 10.1016/j.jbusvent.2022.106231\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 20,
+        "label": "Angelus (2021)",
+        "x": 0.26525692360130276,
+        "y": -0.4381386911515618,
+        "cluster": 2,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Distributed Renewable Power Generation and Implications for Capacity Investment and Electricity Prices\n管理学期刊\nDOI: 10.1111/poms.13241\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 21,
+        "label": "Christian (2015)",
+        "x": -0.7182304072959252,
+        "y": 1.0200829836684562,
+        "cluster": 5,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Dynamic Associations among Somatic Complaints, Human Energy, and Discretionary Behaviors: Experiences with Pain Fluctuations at Work\n管理学期刊\nDOI: 10.1177/0001839214553655\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 22,
+        "label": "Hoppmann (2014)",
+        "x": 0.6150199315563284,
+        "y": 0.45293865345320844,
+        "cluster": 1,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 14,
+          "Total Link Strength": 14
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Compulsive policy-making-The evolution of the German feed-in tariff system for solar photovoltaic power\n管理学期刊\nDOI: 10.1016/j.respol.2014.01.014\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 23,
+        "label": "Rogge (2016)",
+        "x": 0.6862976311494529,
+        "y": 0.5019968901203833,
+        "cluster": 1,
+        "weights": {
+          "Documents": 21,
+          "NodeSize": 6.58257569495584,
+          "Links": 18,
+          "Total Link Strength": 18
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Policy mixes for sustainability transitions: An extended concept and framework for analysis\n管理学期刊\nDOI: 10.1016/j.respol.2016.04.004\n本网络全部边中被引: 21"
+      },
+      {
+        "id": 24,
+        "label": "Delmas (2007)",
+        "x": 0.12189188108335788,
+        "y": 0.4364742112901085,
+        "cluster": 3,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2007
+        },
+        "description": "Deregulation and environmental differentiation in the electric utility industry\n管理学期刊\nDOI: 10.1002/smj.578\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 25,
+        "label": "Rogge (2018)",
+        "x": 0.6224064589618056,
+        "y": 0.35132893135243015,
+        "cluster": 1,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Do policy mix characteristics matter for low-carbon innovation? A survey-based exploration of renewable power generation technologies in Germany\n管理学期刊\nDOI: 10.1016/j.respol.2018.05.011\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 26,
+        "label": "Georgallis (2019)",
+        "x": 0.42143953458128736,
+        "y": 0.2729796737117951,
+        "cluster": 3,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Shine on Me: Industry Coherence and Policy Support for Emerging Industries\n管理学期刊\nDOI: 10.1177/0001839218771550\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 27,
+        "label": "Kanger (2020)",
+        "x": 0.620346863967666,
+        "y": 0.6303816512555762,
+        "cluster": 1,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Six policy intervention points for sustainability transitions: A conceptual framework and a systematic literature review\n管理学期刊\nDOI: 10.1016/j.respol.2020.104072\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 28,
+        "label": "Markard (2006)",
+        "x": 0.4636694186818532,
+        "y": 0.7626718931169422,
+        "cluster": 1,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2006
+        },
+        "description": "Innovation processes in large technical systems: Market liberalization as a driver for radical change?\n管理学期刊\nDOI: 10.1016/j.respol.2006.02.008\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 29,
+        "label": "Nemet (2009)",
+        "x": 0.7422436389488265,
+        "y": 0.17237784648992216,
+        "cluster": 1,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2009
+        },
+        "description": "Demand-pull, technology-push, and government-led incentives for non-incremental technical change\n管理学期刊\nDOI: 10.1016/j.respol.2009.01.004\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 30,
+        "label": "Callon (2009)",
+        "x": -0.85,
+        "y": 0.791497200369113,
+        "cluster": 4,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2009
+        },
+        "description": "Civilizing markets: Carbon trading between in vitro and in vivo experiments\n管理学期刊\nDOI: 10.1016/j.aos.2008.04.003\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 31,
+        "label": "Markard (2012)",
+        "x": 0.5549239355507425,
+        "y": 0.5433335085070071,
+        "cluster": 1,
+        "weights": {
+          "Documents": 37,
+          "NodeSize": 8.082762530298218,
+          "Links": 26,
+          "Total Link Strength": 26
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "Sustainability transitions: An emerging field of research and its prospects\n管理学期刊\nDOI: 10.1016/j.respol.2012.02.013\n本网络全部边中被引: 37"
+      },
+      {
+        "id": 32,
+        "label": "Durand (2018)",
+        "x": 0.3064835891597557,
+        "y": 0.30677007050185406,
+        "cluster": 3,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Differential Firm Commitment to Industries Supported by Social Movement Organizations\n管理学期刊\nDOI: 10.1287/orsc.2017.1170\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 33,
+        "label": "Steen (2017)",
+        "x": 0.511688490020145,
+        "y": 0.7649280538075521,
+        "cluster": 1,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Incumbents' diversification and cross-sectorial energy industry dynamics\n管理学期刊\nDOI: 10.1016/j.respol.2017.04.001\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 34,
+        "label": "Bergek (2008)",
+        "x": 0.7570359538805219,
+        "y": 0.508227131864169,
+        "cluster": 1,
+        "weights": {
+          "Documents": 22,
+          "NodeSize": 6.69041575982343,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2008
+        },
+        "description": "Analyzing the functional dynamics of technological innovation systems: A scheme of analysis\n管理学期刊\nDOI: 10.1016/j.respol.2007.12.003\n本网络全部边中被引: 22"
+      },
+      {
+        "id": 35,
+        "label": "Kivimaa (2019)",
+        "x": 0.5516276733702462,
+        "y": 0.8,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Towards a typology of intermediaries in sustainability transitions: A systematic review and a research agenda\n管理学期刊\nDOI: 10.1016/j.respol.2018.10.006\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 36,
+        "label": "York (2018)",
+        "x": 0.22010804196586256,
+        "y": 0.36960673288993606,
+        "cluster": 3,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "IT'S NOT EASY BUILDING GREEN: THE IMPACT OF PUBLIC POLICY, PRIVATE ACTORS, AND REGIONAL LOGICS ON VOLUNTARY STANDARDS ADOPTION\n管理学期刊\nDOI: 10.5465/amj.2015.0769\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 37,
+        "label": "Song (2024)",
+        "x": -0.07298911134818409,
+        "y": 0.14446957801359434,
+        "cluster": 3,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "Customer base environmental disclosure and supplier greenhouse gas emissions: A signaling theory perspective\n管理学期刊\nDOI: 10.1002/joom.1272\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 38,
+        "label": "Pacheco (2014)",
+        "x": 0.25434386042772694,
+        "y": 0.2327500674572129,
+        "cluster": 3,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "The Coevolution of Industries, Social Movements, and Institutions: Wind Power in the United States\n管理学期刊\nDOI: 10.1287/orsc.2014.0918\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 39,
+        "label": "Rosenbloom (2016)",
+        "x": 0.3830533265216221,
+        "y": 0.6427985131469773,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Framing the sun: A discursive approach to understanding multi-dimensional interactions within socio-technical transitions through the case of solar electricity in Ontario, Canada\n管理学期刊\nDOI: 10.1016/j.respol.2016.03.012\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 40,
+        "label": "Wu (2025)",
+        "x": 0.20614743868482238,
+        "y": -0.3206848370305544,
+        "cluster": 2,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2025
+        },
+        "description": "Redesign of Virtual Power Plant-led Electricity Demand Response Program\n管理学期刊\nDOI: 10.1177/10591478241305859\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 41,
+        "label": "Dowell (2017)",
+        "x": 0.10067811527113081,
+        "y": 0.09921995571862088,
+        "cluster": 3,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Will firms go green if it pays? The impact of disruption, cost, and external factors on the adoption of environmental initiatives\n管理学期刊\nDOI: 10.1002/smj.2603\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 42,
+        "label": "Lohmann (2009)",
+        "x": -0.7472660433767351,
+        "y": 0.5010516716054688,
+        "cluster": 4,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2009
+        },
+        "description": "Toward a different debate in environmental accounting: The cases of carbon and cost-benefit\n管理学期刊\nDOI: 10.1016/j.aos.2008.03.002\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 43,
+        "label": "Plambeck (2013)",
+        "x": 0.005844497001328829,
+        "y": -0.22380620254585484,
+        "cluster": 3,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "Operations Management Challenges for Some Cleantech Firms\n管理学期刊\nDOI: 10.1287/msom.2013.0455\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 44,
+        "label": "Dehler-Holland (2025)",
+        "x": 0.5030608745877272,
+        "y": 0.47527852841838936,
+        "cluster": 1,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2025
+        },
+        "description": "From virtuous to vicious cycles-towards a life cycle model of technology deployment policies\n管理学期刊\nDOI: 10.1016/j.respol.2025.105267\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 45,
+        "label": "Hellsmark (2016)",
+        "x": 0.8135196578748094,
+        "y": 0.648685200175369,
+        "cluster": 1,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "The role of pilot and demonstration plants in technology development and innovation policy\n管理学期刊\nDOI: 10.1016/j.respol.2016.05.005\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 46,
+        "label": "Quinn (2005)",
+        "x": -0.6936220480893248,
+        "y": 1.09995141174609,
+        "cluster": 5,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2005
+        },
+        "description": "Coordination as energy-inconversation\n管理学期刊\nDOI: 10.5465/amr.2005.15281422\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 47,
+        "label": "Quitzow (2015)",
+        "x": 0.7783965438717068,
+        "y": 0.38340129003623885,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Assessing policy strategies for the promotion of environmental technologies: A review of India's National Solar Mission\n管理学期刊\nDOI: 10.1016/j.respol.2014.09.003\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 48,
+        "label": "Fu (2025)",
+        "x": 0.1921839768155874,
+        "y": -0.2523586810156821,
+        "cluster": 2,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2025
+        },
+        "description": "Designing Emission Permits Regulation for Multiple Compliance Periods\n管理学期刊\nDOI: 10.1287/msom.2023.0341\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 49,
+        "label": "York (2016)",
+        "x": 0.15204188490124362,
+        "y": 0.36575552672016465,
+        "cluster": 3,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "CONVERGING WINDS: LOGIC HYBRIDIZATION IN THE COLORADO WIND ENERGY FIELD\n管理学期刊\nDOI: 10.5465/amj.2013.0657\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 50,
+        "label": "Babich (2020)",
+        "x": 0.45464781153732914,
+        "y": -0.30907123611568377,
+        "cluster": 2,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 14,
+          "Total Link Strength": 14
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Promoting Solar Panel Investments: Feed-in-Tariff vs. Tax-Rebate Policies\n管理学期刊\nDOI: 10.1287/msom.2019.0860\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 51,
+        "label": "Trivella (2023)",
+        "x": 0.2114065583168516,
+        "y": -0.37283984966791284,
+        "cluster": 2,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "Meeting Corporate Renewable Power Targets\n管理学期刊\nDOI: 10.1287/mnsc.2022.4354\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 52,
+        "label": "Drake (2024)",
+        "x": 0.2021738467471428,
+        "y": -0.15799124935059727,
+        "cluster": 2,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "How Does Flexibility Affect Environmental Performance? Evidence from the Power Generation Industry\n管理学期刊\nDOI: 10.1287/msom.2023.0522\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 53,
+        "label": "Jung (2018)",
+        "x": -0.3893557027564993,
+        "y": 0.4575860842205348,
+        "cluster": 4,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Carbon Risk, Carbon Risk Awareness and the Cost of Debt Financing\n管理学期刊\nDOI: 10.1007/s10551-016-3207-6\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 54,
+        "label": "Alizamir (2016)",
+        "x": 0.3905987305622051,
+        "y": -0.4496779499357154,
+        "cluster": 2,
+        "weights": {
+          "Documents": 16,
+          "NodeSize": 6.0,
+          "Links": 14,
+          "Total Link Strength": 14
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Efficient Feed-In-Tariff Policies for Renewable Energy Technologies\n管理学期刊\nDOI: 10.1287/opre.2015.1460\n本网络全部边中被引: 16"
+      },
+      {
+        "id": 55,
+        "label": "Uppari (2019)",
+        "x": 0.15824032841687913,
+        "y": -0.36741575768165874,
+        "cluster": 2,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Selling Off-Grid Light to Liquidity-Constrained Consumers\n管理学期刊\nDOI: 10.1287/msom.2017.0673\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 56,
+        "label": "Schmidt (2019)",
+        "x": 0.6438799079513167,
+        "y": 0.4261713858417154,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Measuring the temporal dynamics of policy mixes - An empirical analysis of renewable energy policy mixes' balance and design features in nine countries\n管理学期刊\nDOI: 10.1016/j.respol.2018.03.012\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 57,
+        "label": "Kivimaa (2014)",
+        "x": 0.599769165955326,
+        "y": 0.7530972729660484,
+        "cluster": 1,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Government-affiliated intermediary organisations as actors in system-level transitions\n管理学期刊\nDOI: 10.1016/j.respol.2014.02.007\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 58,
+        "label": "Reid (2009)",
+        "x": -0.0012567156724621964,
+        "y": 0.25956597976094975,
+        "cluster": 3,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2009
+        },
+        "description": "RESPONDING TO PUBLIC AND PRIVATE POLITICS: CORPORATE DISCLOSURE OF CLIMATE CHANGE STRATEGIES\n管理学期刊\nDOI: 10.1002/smj.796\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 59,
+        "label": "Dahlmann (2019)",
+        "x": -0.14397624539761447,
+        "y": 0.605316503290112,
+        "cluster": 3,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Managing Carbon Aspirations: The Influence of Corporate Climate Change Targets on Environmental Performance\n管理学期刊\nDOI: 10.1007/s10551-017-3731-z\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 60,
+        "label": "Wang (2021)",
+        "x": 0.43315930996977253,
+        "y": -0.6102718730218278,
+        "cluster": 2,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Operations-Finance Interface in Risk Management: Research Evolution and Opportunities\n管理学期刊\nDOI: 10.1111/poms.13269\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 61,
+        "label": "Valogianni (2020)",
+        "x": 0.046752784910270184,
+        "y": -0.2676058870198977,
+        "cluster": 2,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Sustainable Electric Vehicle Charging using Adaptive Pricing\n管理学期刊\nDOI: 10.1111/poms.13179\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 62,
+        "label": "Sumpter (2023)",
+        "x": -0.7052586945204763,
+        "y": 1.059965604585454,
+        "cluster": 5,
+        "weights": {
+          "Documents": 1,
+          "NodeSize": 3.0,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "Riding the wave to recovery: Relational energy as an HR managerial resource for employees during crisis recovery\n管理学期刊\nDOI: 10.1002/hrm.22117\n本网络全部边中被引: 1"
+      },
+      {
+        "id": 63,
+        "label": "Smith (2010)",
+        "x": 0.4869716320670873,
+        "y": 0.6703008101654065,
+        "cluster": 1,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2010
+        },
+        "description": "Innovation studies and sustainability transitions: The allure of the multi-level perspective and its challenges\n管理学期刊\nDOI: 10.1016/j.respol.2010.01.023\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 64,
+        "label": "Peura (2021)",
+        "x": 0.32483060542736886,
+        "y": -0.4569376120650634,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Renewable Power and Electricity Prices: The Impact of Forward Markets\n管理学期刊\nDOI: 10.1287/mnsc.2020.3710\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 65,
+        "label": "Jorgensen (2012)",
+        "x": 0.38292398198649524,
+        "y": 0.7223044311821237,
+        "cluster": 1,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "Mapping and navigating transitions - The multi-level perspective compared with arenas of development\n管理学期刊\nDOI: 10.1016/j.respol.2012.03.001\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 66,
+        "label": "Han (2022)",
+        "x": 0.5941806057527956,
+        "y": -0.3126488742296971,
+        "cluster": 2,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Curbing Emissions: Environmental Regulations and Product Offerings Across Markets\n管理学期刊\nDOI: 10.1287/msom.2022.1141\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 67,
+        "label": "Trotter (2022)",
+        "x": 0.7375973092086638,
+        "y": 0.4315395663826059,
+        "cluster": 1,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Policy mixes for business model innovation: The case of off-grid energy for sustainable development in six sub-Saharan African countries\n管理学期刊\nDOI: 10.1016/j.respol.2022.104528\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 68,
+        "label": "Agrawal (2022)",
+        "x": 0.5393809934879623,
+        "y": -0.266503678288264,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Non-ownership Business Models for Solar Energy\n管理学期刊\nDOI: 10.1287/msom.2021.1049\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 69,
+        "label": "Pacheco (2015)",
+        "x": 0.12784275161584868,
+        "y": 0.26717219123071745,
+        "cluster": 3,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Firm responses to social movement pressures: A competitive dynamics perspective\n管理学期刊\nDOI: 10.1002/smj.2273\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 70,
+        "label": "Cachon (2014)",
+        "x": 0.2912820526784581,
+        "y": -0.5474535649288913,
+        "cluster": 2,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Retail Store Density and the Cost of Greenhouse Gas Emissions\n管理学期刊\nDOI: 10.1287/mnsc.2013.1819\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 71,
+        "label": "Mamaghani (2024)",
+        "x": 0.5284816801098424,
+        "y": -0.3920982847796871,
+        "cluster": 2,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "Harvesting Solar Power Foments Prices in a Vicious Cycle: Breaking the Cycle with Price Mechanisms\n管理学期刊\nDOI: 10.1287/opre.2021.0756\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 72,
+        "label": "Hoppmann (2013)",
+        "x": 0.5396633612583771,
+        "y": 0.27379067302065435,
+        "cluster": 1,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 14,
+          "Total Link Strength": 14
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "The two faces of market support-How deployment policies affect technological exploration and exploitation in the solar photovoltaic industry\n管理学期刊\nDOI: 10.1016/j.respol.2013.01.002\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 73,
+        "label": "Cantner (2016)",
+        "x": 0.7451811319264431,
+        "y": 0.2799437449069267,
+        "cluster": 1,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Inventor networks in renewable energies: The influence of the policy mix in Germany\n管理学期刊\nDOI: 10.1016/j.respol.2016.03.005\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 74,
+        "label": "Dhanorkar (2018)",
+        "x": 0.13184861767877556,
+        "y": 0.02635603426601409,
+        "cluster": 3,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Promoting Change from the Outside: Directing Managerial Attention in the Implementation of Environmental improvements\n管理学期刊\nDOI: 10.1287/mnsc.2017.2748\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 75,
+        "label": "Geels (2016)",
+        "x": 0.5517734669842671,
+        "y": 0.6682395360677962,
+        "cluster": 1,
+        "weights": {
+          "Documents": 18,
+          "NodeSize": 6.242640687119285,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "The enactment of socio-technical transition pathways: A reformulated typology and a comparative multi-level analysis of the German and UK low-carbon electricity transitions (1990-2014)\n管理学期刊\nDOI: 10.1016/j.respol.2016.01.015\n本网络全部边中被引: 18"
+      },
+      {
+        "id": 76,
+        "label": "Muthulingam (2013)",
+        "x": 0.07202164939179002,
+        "y": -0.11433315204440131,
+        "cluster": 3,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "Energy Efficiency in Small and Medium-Sized Manufacturing Firms: Order Effects and the Adoption of Process Improvement Recommendations\n管理学期刊\nDOI: 10.1287/msom.2013.0439\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 77,
+        "label": "Diercks (2019)",
+        "x": 0.8075890627453531,
+        "y": 0.5838735602032871,
+        "cluster": 1,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Transformative innovation policy: Addressing variety in an emerging policy paradigm\n管理学期刊\nDOI: 10.1016/j.respol.2018.10.028\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 78,
+        "label": "Kok (2018)",
+        "x": 0.4252879748357186,
+        "y": -0.4034623810212066,
+        "cluster": 2,
+        "weights": {
+          "Documents": 16,
+          "NodeSize": 6.0,
+          "Links": 15,
+          "Total Link Strength": 15
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Impact of Electricity Pricing Policies on Renewable Energy Investments and Carbon Emissions\n管理学期刊\nDOI: 10.1287/mnsc.2016.2576\n本网络全部边中被引: 16"
+      },
+      {
+        "id": 79,
+        "label": "Markard (2016)",
+        "x": 0.6865645444840296,
+        "y": 0.6407975752549978,
+        "cluster": 1,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Institutional dynamics and technology legitimacy - A framework and a case study on biogas technology\n管理学期刊\nDOI: 10.1016/j.respol.2015.10.009\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 80,
+        "label": "Al-Gwaiz (2017)",
+        "x": 0.36197199078836256,
+        "y": -0.28896924059453555,
+        "cluster": 2,
+        "weights": {
+          "Documents": 18,
+          "NodeSize": 6.242640687119285,
+          "Links": 15,
+          "Total Link Strength": 15
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Understanding How Generation Flexibility and Renewable Energy Affect Power Market Competition\n管理学期刊\nDOI: 10.1287/msom.2016.0595\n本网络全部边中被引: 18"
+      },
+      {
+        "id": 81,
+        "label": "MacKenzie (2009)",
+        "x": -0.5637515941443955,
+        "y": 0.5392604151418848,
+        "cluster": 4,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2009
+        },
+        "description": "Making things the same: Gases, emission rights and the politics of carbon markets\n管理学期刊\nDOI: 10.1016/j.aos.2008.02.004\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 82,
+        "label": "Jira (2013)",
+        "x": -0.07494966646903242,
+        "y": 0.006535845285200726,
+        "cluster": 3,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "Engaging Supply Chains in Climate Change\n管理学期刊\nDOI: 10.1287/msom.1120.0420\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 83,
+        "label": "Drake (2018)",
+        "x": 0.4027396427774245,
+        "y": -0.08277560558033545,
+        "cluster": 2,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Carbon Tariffs: Effects in Settings with Technology Choice and Foreign Production Cost Advantage\n管理学期刊\nDOI: 10.1287/msom.2017.0674\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 84,
+        "label": "Fan (2017)",
+        "x": -0.6828888500942735,
+        "y": 1.1400000000000001,
+        "cluster": 5,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "CONSTRUCTING ASHARED GOVERNANCE LOGIC: THE ROLE OF EMOTIONS IN ENABLING DUALLY EMBEDDED AGENCY\n管理学期刊\nDOI: 10.5465/amj.2015.0402\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 85,
+        "label": "Wu (2022)",
+        "x": 0.4876819145764788,
+        "y": -0.2545527428991963,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Smart Charging of Electric Vehicles: An Innovative Business Model for Utility Firms\n管理学期刊\nDOI: 10.1287/msom.2021.1019\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 86,
+        "label": "Lindberg (2019)",
+        "x": 0.4735522092184836,
+        "y": 0.615489994836506,
+        "cluster": 1,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Policies, actors and sustainability transition pathways: A study of the EU's energy policy mix\n管理学期刊\nDOI: 10.1016/j.respol.2018.09.003\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 87,
+        "label": "Drake (2016)",
+        "x": 0.28205067796360894,
+        "y": -0.10549521061326601,
+        "cluster": 2,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Technology Choice and Capacity Portfolios under Emissions Regulation\n管理学期刊\nDOI: 10.1111/poms.12523\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 88,
+        "label": "Singh (2022)",
+        "x": 0.5085322814706736,
+        "y": -0.5195942699724204,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "That's Not Fair: Tariff Structures for Electric Utilities with Rooftop Solar\n管理学期刊\nDOI: 10.1287/msom.2020.0930\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 89,
+        "label": "Binz (2017)",
+        "x": 0.8204418367579928,
+        "y": 0.40418013577742595,
+        "cluster": 1,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Global Innovation Systems-A conceptual framework for innovation dynamics in transnational contexts\n管理学期刊\nDOI: 10.1016/j.respol.2017.05.012\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 90,
+        "label": "Consoli (2023)",
+        "x": 0.6855458216591939,
+        "y": 0.263871995149844,
+        "cluster": 1,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "We're in this together: Sustainable energy and economic competitiveness in the EU\n管理学期刊\nDOI: 10.1016/j.respol.2022.104644\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 91,
+        "label": "Kok (2020)",
+        "x": 0.41100908355906657,
+        "y": -0.13740921477949214,
+        "cluster": 2,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Investments in Renewable and Conventional Energy: The Role of Operational Flexibility\n管理学期刊\nDOI: 10.1287/msom.2019.0789\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 92,
+        "label": "Doblinger (2019)",
+        "x": 0.8311131763755047,
+        "y": 0.2579149138070495,
+        "cluster": 1,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Governments as partners: The role of alliances in US cleantech startup innovation\n管理学期刊\nDOI: 10.1016/j.respol.2019.02.006\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 93,
+        "label": "Hess (2014)",
+        "x": 0.38846838546609364,
+        "y": 0.5550790460296855,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Sustainability transitions: A political coalition perspective\n管理学期刊\nDOI: 10.1016/j.respol.2013.10.008\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 94,
+        "label": "Sine (2009)",
+        "x": 0.28294568919670426,
+        "y": 0.20275875159102738,
+        "cluster": 3,
+        "weights": {
+          "Documents": 24,
+          "NodeSize": 6.898979485566356,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2009
+        },
+        "description": "Tilting at Windmills? The Environmental Movement and the Emergence of the US Wind Energy Sector\n管理学期刊\nDOI: 10.2189/asqu.2009.54.1.123\n本网络全部边中被引: 24"
+      },
+      {
+        "id": 95,
+        "label": "Agrawal (2022)",
+        "x": 0.29652171633950214,
+        "y": -0.22719110732507508,
+        "cluster": 2,
+        "weights": {
+          "Documents": 1,
+          "NodeSize": 3.0,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Design of Electricity Demand-Response Programs\n管理学期刊\nDOI: 10.1287/mnsc.2021.4278\n本网络全部边中被引: 1"
+      },
+      {
+        "id": 96,
+        "label": "Edmondson (2019)",
+        "x": 0.5488930407334935,
+        "y": 0.4861292140700031,
+        "cluster": 1,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 17,
+          "Total Link Strength": 17
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "The co-evolution of policy mixes and socio-technical systems: Towards a conceptual framework of policy mix feedback in sustainability transitions\n管理学期刊\nDOI: 10.1016/j.respol.2018.03.010\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 97,
+        "label": "Depoers (2016)",
+        "x": -0.20856162988192312,
+        "y": 0.3695380861298615,
+        "cluster": 4,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Voluntary Disclosure of Greenhouse Gas Emissions: Contrasting the Carbon Disclosure Project and Corporate Reports\n管理学期刊\nDOI: 10.1007/s10551-014-2432-0\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 98,
+        "label": "Meek (2010)",
+        "x": 0.18685818046953104,
+        "y": 0.466965720857909,
+        "cluster": 3,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2010
+        },
+        "description": "The impact of social norms on entrepreneurial action: Evidence from the environmental entrepreneurship context\n管理学期刊\nDOI: 10.1016/j.jbusvent.2009.09.007\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 99,
+        "label": "Sunar (2022)",
+        "x": 0.34042529123061355,
+        "y": -0.34926279006863326,
+        "cluster": 2,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 16,
+          "Total Link Strength": 16
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Socially relevant and inclusive operations management\n管理学期刊\nDOI: 10.1111/poms.13873\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 100,
+        "label": "Costantini (2017)",
+        "x": 0.6929867758009757,
+        "y": 0.3575242797861053,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Characterizing the policy mix and its impact on eco-innovation: A patent analysis of energy-efficient technologies\n管理学期刊\nDOI: 10.1016/j.respol.2017.02.004\n本网络全部边中被引: 6"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 1,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 25,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 23,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 22,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 29,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 18,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 52,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 24,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 37,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 59,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 26,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 16,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 23,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 6,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 35,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 57,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 23,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 7,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 57,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 13,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 27,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 34,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 27,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 60,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 16,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 11,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 12,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 20,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 40,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 48,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 60,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 64,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 16,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 40,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 48,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 64,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 16,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 17,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 34,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 24,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 30,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 42,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 20,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 40,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 52,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 64,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 34,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 57,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 23,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 27,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 22,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 25,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 26,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 40,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 21,
+        "target_id": 62,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 34,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 23,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 25,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 25,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 27,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 32,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 35,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 57,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 34,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 35,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 39,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 57,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 58,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 57,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 58,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 64,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 61,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 48,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 52,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 62,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 84,
+        "strength": 1
+      },
+      {
+        "source_id": 47,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 47,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 48,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 48,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 48,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 53,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 53,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 60,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 64,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 57,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 60,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 61,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 64,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 64,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 64,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 65,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 67,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 67,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 67,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 67,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 68,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 69,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 70,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 70,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 71,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 71,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 73,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 74,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 75,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 75,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 76,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 79,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 80,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 80,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 80,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 80,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 80,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 85,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 85,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 86,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 86,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 87,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 88,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 90,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 90,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 91,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 93,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 94,
+        "target_id": 98,
+        "strength": 1
+      }
+    ]
+  },
+  "options": {
+    "scale": 1.5,
+    "network": {
+      "normalization": {
+        "method": "lin/log",
+        "attributes": [
+          "weights.NodeSize"
+        ]
+      }
+    },
+    "visualization": {
+      "scale": 2.0,
+      "nodes": {
+        "size": {
+          "variation": 0.35,
+          "min": 4,
+          "max": 24
+        }
+      },
+      "labels": {
+        "size": {
+          "variation": 0.3,
+          "min": 10,
+          "max": 17
+        },
+        "fontSize": 14,
+        "maximumLabelLength": 120
+      }
+    }
+  }
+}

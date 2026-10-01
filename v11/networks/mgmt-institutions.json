@@ -1,0 +1,3448 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "哈佛大学｜美国",
+        "x": 0.199574909279296,
+        "y": 0.15030130350695398,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 32.0,
+          "Links": 12.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.848528137423857
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2011.65625
+        },
+        "description": "Harvard Univ｜United States\n文献频次：32\n聚类：1\n总连接强度：14"
+      },
+      {
+        "id": 2,
+        "label": "麻省理工学院｜美国",
+        "x": 0.026216967729482024,
+        "y": -0.0016603643708921288,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 21.0,
+          "Links": 19.0,
+          "Total Link Strength": 23.0,
+          "NodeSize": 2.687386354243376
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.904761904762
+        },
+        "description": "MIT｜United States\n文献频次：21\n聚类：1\n总连接强度：23"
+      },
+      {
+        "id": 3,
+        "label": "密歇根大学｜美国",
+        "x": -0.10366780160107544,
+        "y": 0.08610539631023206,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 19.0,
+          "Links": 15.0,
+          "Total Link Strength": 17.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.7894736842106
+        },
+        "description": "Univ Michigan｜United States\n文献频次：19\n聚类：3\n总连接强度：17"
+      },
+      {
+        "id": 4,
+        "label": "萨塞克斯大学｜英国",
+        "x": -0.011160390326937476,
+        "y": 0.3906026404123932,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 19.0,
+          "Links": 10.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6315789473683
+        },
+        "description": "Univ Sussex｜United Kingdom\n文献频次：19\n聚类：2\n总连接强度：15"
+      },
+      {
+        "id": 5,
+        "label": "佐治亚理工学院｜美国",
+        "x": 0.1034222496021188,
+        "y": 0.15889377156472956,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 17.0,
+          "Links": 15.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.8823529411766
+        },
+        "description": "Georgia Inst Technol｜United States\n文献频次：17\n聚类：4\n总连接强度：21"
+      },
+      {
+        "id": 6,
+        "label": "宾夕法尼亚州立大学｜美国",
+        "x": -0.04610688698382824,
+        "y": 0.2286383964351314,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 17.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4117647058824
+        },
+        "description": "Penn State Univ｜United States\n文献频次：17\n聚类：2\n总连接强度：10"
+      },
+      {
+        "id": 7,
+        "label": "斯坦福大学｜美国",
+        "x": 0.10831820848643359,
+        "y": 0.06483190831451978,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 15.0,
+          "Links": 14.0,
+          "Total Link Strength": 17.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.6
+        },
+        "description": "Stanford Univ｜United States\n文献频次：15\n聚类：1\n总连接强度：17"
+      },
+      {
+        "id": 8,
+        "label": "康奈尔大学｜美国",
+        "x": -0.05194671678002679,
+        "y": -0.016864421167379615,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 14.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.9285714285713
+        },
+        "description": "Cornell Univ｜United States\n文献频次：14\n聚类：6\n总连接强度：14"
+      },
+      {
+        "id": 9,
+        "label": "伦敦商学院｜英国",
+        "x": -0.11208727078879471,
+        "y": 0.16055998483696152,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.0
+        },
+        "description": "London Business Sch｜United Kingdom\n文献频次：14\n聚类：3\n总连接强度：8"
+      },
+      {
+        "id": 10,
+        "label": "慕尼黑工业大学｜德国",
+        "x": 0.2530745779272053,
+        "y": 0.36211415055135676,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 6.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.357142857143
+        },
+        "description": "Tech Univ Munich｜Germany\n文献频次：14\n聚类：2\n总连接强度：8"
+      },
+      {
+        "id": 11,
+        "label": "科罗拉多大学｜美国",
+        "x": -0.3875823703223957,
+        "y": 0.24508750893141926,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 10.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.7142857142858
+        },
+        "description": "Univ Colorado｜United States\n文献频次：14\n聚类：5\n总连接强度：13"
+      },
+      {
+        "id": 12,
+        "label": "乔治敦大学｜美国",
+        "x": -0.1599394573186641,
+        "y": 0.1345233937689352,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 14.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.076923076923
+        },
+        "description": "Georgetown Univ｜United States\n文献频次：13\n聚类：6\n总连接强度：15"
+      },
+      {
+        "id": 13,
+        "label": "香港理工大学｜中国",
+        "x": -0.16929801281514167,
+        "y": 0.515131381695805,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 8.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.923076923077
+        },
+        "description": "Hong Kong Polytech Univ｜China\n文献频次：13\n聚类：7\n总连接强度：10"
+      },
+      {
+        "id": 14,
+        "label": "加州大学伯克利分校｜美国",
+        "x": 0.1180375838692781,
+        "y": 0.3071484481383154,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 11.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.923076923077
+        },
+        "description": "Univ Calif Berkeley｜United States\n文献频次：13\n聚类：4\n总连接强度：13"
+      },
+      {
+        "id": 15,
+        "label": "卡内基梅隆大学｜美国",
+        "x": 0.21393042970922077,
+        "y": -0.08313755399824795,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.0
+        },
+        "description": "Carnegie Mellon Univ｜United States\n文献频次：12\n聚类：4\n总连接强度：8"
+      },
+      {
+        "id": 16,
+        "label": "鹿特丹伊拉斯姆斯大学｜荷兰",
+        "x": 0.006305464894759916,
+        "y": 0.20218267410544702,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 7.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.75
+        },
+        "description": "Erasmus Univ｜Netherlands\n文献频次：12\n聚类：3\n总连接强度：10"
+      },
+      {
+        "id": 17,
+        "label": "明尼苏达大学｜美国",
+        "x": -0.05890580873755611,
+        "y": 0.06305143723946965,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 9.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.75
+        },
+        "description": "Univ Minnesota｜United States\n文献频次：12\n聚类：3\n总连接强度：12"
+      },
+      {
+        "id": 18,
+        "label": "杜克大学｜美国",
+        "x": -0.1678575923048526,
+        "y": 0.031191913399277304,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.4545454545455
+        },
+        "description": "Duke Univ｜United States\n文献频次：11\n聚类：6\n总连接强度：10"
+      },
+      {
+        "id": 19,
+        "label": "瑞士联邦理工学院｜瑞士",
+        "x": 0.22791573447319996,
+        "y": -0.027187916643944376,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 8.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.8181818181818
+        },
+        "description": "Swiss Fed Inst Technol｜Switzerland\n文献频次：11\n聚类：1\n总连接强度：12"
+      },
+      {
+        "id": 20,
+        "label": "阿姆斯特丹大学｜荷兰",
+        "x": 0.0433157590861116,
+        "y": 0.23767720859849215,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.0
+        },
+        "description": "Univ Amsterdam｜Netherlands\n文献频次：11\n聚类：2\n总连接强度：10"
+      },
+      {
+        "id": 21,
+        "label": "芝加哥大学｜美国",
+        "x": 0.3339679415678207,
+        "y": 0.12047114090218589,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1818181818182
+        },
+        "description": "Univ Chicago｜United States\n文献频次：11\n聚类：4\n总连接强度：8"
+      },
+      {
+        "id": 22,
+        "label": "伊利诺伊大学｜美国",
+        "x": 0.16053551103459554,
+        "y": 0.037268817730402325,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.1818181818182
+        },
+        "description": "Univ Illinois｜United States\n文献频次：11\n聚类：4\n总连接强度：8"
+      },
+      {
+        "id": 23,
+        "label": "曼彻斯特大学｜英国",
+        "x": -0.21576525868809382,
+        "y": 0.47098881385217517,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 5.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.4545454545455
+        },
+        "description": "Univ Manchester｜United Kingdom\n文献频次：11\n聚类：2\n总连接强度：7"
+      },
+      {
+        "id": 24,
+        "label": "亚利桑那州立大学｜美国",
+        "x": -0.08505236913964886,
+        "y": 0.30117562279205295,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6
+        },
+        "description": "Arizona State Univ｜United States\n文献频次：10\n聚类：5\n总连接强度：6"
+      },
+      {
+        "id": 25,
+        "label": "加州大学洛杉矶分校｜美国",
+        "x": 0.0076686086749604004,
+        "y": 0.13082480216480263,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.3
+        },
+        "description": "Univ Calif Los Angeles｜United States\n文献频次：10\n聚类：3\n总连接强度：8"
+      },
+      {
+        "id": 26,
+        "label": "爱丁堡大学｜英国",
+        "x": -0.36695633485927054,
+        "y": 0.4237009040944097,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.4
+        },
+        "description": "Univ Edinburgh｜United Kingdom\n文献频次：10\n聚类：5\n总连接强度：5"
+      },
+      {
+        "id": 27,
+        "label": "圣加仑大学｜瑞士",
+        "x": 0.22801402355301287,
+        "y": 0.0487377579462541,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.9
+        },
+        "description": "Univ St Gallen｜Switzerland\n文献频次：10\n聚类：1\n总连接强度：6"
+      },
+      {
+        "id": 28,
+        "label": "阿尔托大学｜芬兰",
+        "x": 0.12264707381032952,
+        "y": 0.3870419417392893,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3333333333333
+        },
+        "description": "Aalto Univ｜Finland\n文献频次：9\n聚类：2\n总连接强度：5"
+      },
+      {
+        "id": 29,
+        "label": "格勒诺布尔管理学院｜法国",
+        "x": -0.12717550997716276,
+        "y": 0.31447625188099937,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.3333333333333
+        },
+        "description": "Grenoble Ecole Management｜France\n文献频次：9\n聚类：2\n总连接强度：7"
+      },
+      {
+        "id": 30,
+        "label": "欧洲工商管理学院｜法国",
+        "x": 0.12156372706599741,
+        "y": -0.03657565185416253,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.2222222222222
+        },
+        "description": "INSEAD｜France\n文献频次：9\n聚类：1\n总连接强度：8"
+      },
+      {
+        "id": 31,
+        "label": "伦敦帝国理工学院｜英国",
+        "x": -0.1280200580563105,
+        "y": -0.028667861027908713,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.4444444444443
+        },
+        "description": "Imperial Coll London｜United Kingdom\n文献频次：9\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 32,
+        "label": "马里兰大学｜美国",
+        "x": 0.24194293447395643,
+        "y": 0.45680190136166093,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 7.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.5555555555557
+        },
+        "description": "Univ Maryland｜United States\n文献频次：9\n聚类：2\n总连接强度：9"
+      },
+      {
+        "id": 33,
+        "label": "牛津大学｜英国",
+        "x": 0.252624400383363,
+        "y": -0.20986769524215607,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.111111111111
+        },
+        "description": "Univ Oxford｜United Kingdom\n文献频次：9\n聚类：1\n总连接强度：3"
+      },
+      {
+        "id": 34,
+        "label": "乌得勒支大学｜荷兰",
+        "x": 0.17304198599405898,
+        "y": 0.3598648528151702,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.7777777777778
+        },
+        "description": "Univ Utrecht｜Netherlands\n文献频次：9\n聚类：2\n总连接强度：10"
+      },
+      {
+        "id": 35,
+        "label": "弗吉尼亚大学｜美国",
+        "x": -0.31776210774385905,
+        "y": 0.1905427878931847,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 6.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2011.111111111111
+        },
+        "description": "Univ Virginia｜United States\n文献频次：9\n聚类：5\n总连接强度：8"
+      },
+      {
+        "id": 36,
+        "label": "波士顿大学｜美国",
+        "x": 0.022254207681044677,
+        "y": 0.08362109336246815,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.75
+        },
+        "description": "Boston Univ｜United States\n文献频次：8\n聚类：6\n总连接强度：7"
+      },
+      {
+        "id": 37,
+        "label": "乔治华盛顿大学｜美国",
+        "x": -0.31196377337166825,
+        "y": 0.1419472755524723,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.375
+        },
+        "description": "George Washington Univ｜United States\n文献频次：8\n聚类：7\n总连接强度：7"
+      },
+      {
+        "id": 38,
+        "label": "新加坡国立大学｜新加坡",
+        "x": -0.1857389668225767,
+        "y": 0.21906171488326992,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 12.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.125
+        },
+        "description": "Natl Univ Singapore｜Singapore\n文献频次：8\n聚类：7\n总连接强度：13"
+      },
+      {
+        "id": 39,
+        "label": "西北大学｜美国",
+        "x": 0.2807908947471079,
+        "y": 0.07502790309866508,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 3.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.25
+        },
+        "description": "Northwestern Univ｜United States\n文献频次：8\n聚类：4\n总连接强度：4"
+      },
+      {
+        "id": 40,
+        "label": "得克萨斯农工大学｜美国",
+        "x": -0.18352794482659057,
+        "y": 0.31318032451057426,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.75
+        },
+        "description": "Texas A&M Univ｜United States\n文献频次：8\n聚类：7\n总连接强度：6"
+      },
+      {
+        "id": 41,
+        "label": "奥克兰大学｜新西兰",
+        "x": 0.08625236003898742,
+        "y": 0.5452933405533821,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.875
+        },
+        "description": "Univ Auckland｜New Zealand\n文献频次：8\n聚类：2\n总连接强度：4"
+      },
+      {
+        "id": 42,
+        "label": "宾夕法尼亚大学｜美国",
+        "x": 0.16639939202763993,
+        "y": -0.27307297443503875,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.375
+        },
+        "description": "Univ Penn｜United States\n文献频次：8\n聚类：6\n总连接强度：3"
+      },
+      {
+        "id": 43,
+        "label": "南加利福尼亚大学｜美国",
+        "x": -0.03544783253172056,
+        "y": -0.10512428190384608,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.875
+        },
+        "description": "Univ Southern Calif｜United States\n文献频次：8\n聚类：3\n总连接强度：7"
+      },
+      {
+        "id": 44,
+        "label": "得克萨斯大学达拉斯分校｜美国",
+        "x": -0.3996867879358269,
+        "y": 0.35362467296317635,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.125
+        },
+        "description": "Univ Texas Dallas｜United States\n文献频次：8\n聚类：7\n总连接强度：4"
+      },
+      {
+        "id": 45,
+        "label": "耶鲁大学｜美国",
+        "x": -0.382698673155294,
+        "y": -0.03187988206430056,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 5.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.75
+        },
+        "description": "Yale Univ｜United States\n文献频次：8\n聚类：5\n总连接强度：6"
+      },
+      {
+        "id": 46,
+        "label": "印第安纳大学｜美国",
+        "x": -0.20273323511828495,
+        "y": -0.011396989342567042,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.2857142857142
+        },
+        "description": "Indiana Univ｜United States\n文献频次：7\n聚类：6\n总连接强度：6"
+      },
+      {
+        "id": 47,
+        "label": "麦吉尔大学｜加拿大",
+        "x": 0.09647280558125904,
+        "y": -0.10942436533865373,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4285714285713
+        },
+        "description": "McGill Univ｜Canada\n文献频次：7\n聚类：3\n总连接强度：6"
+      },
+      {
+        "id": 48,
+        "label": "美国国家经济研究局｜美国",
+        "x": -0.10304848372278438,
+        "y": -0.08929192616962027,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "National Bureau of Economic Research｜United States\n文献频次：7\n聚类：6\n总连接强度：8"
+      },
+      {
+        "id": 49,
+        "label": "纽约大学｜美国",
+        "x": -0.16716564078413104,
+        "y": -0.09354894870768456,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 9.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "New York University｜United States\n文献频次：7\n聚类：1\n总连接强度：11"
+      },
+      {
+        "id": 50,
+        "label": "波特兰州立大学｜美国",
+        "x": -0.5576019413953932,
+        "y": 0.2618422768270586,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 4.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.2857142857142
+        },
+        "description": "Portland State Univ｜United States\n文献频次：7\n聚类：5\n总连接强度：6"
+      },
+      {
+        "id": 51,
+        "label": "西蒙菲莎大学｜加拿大",
+        "x": -0.4741298061416015,
+        "y": 0.3259185397243912,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 4.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.2857142857142
+        },
+        "description": "Simon Fraser Univ｜Canada\n文献频次：7\n聚类：5\n总连接强度：6"
+      },
+      {
+        "id": 52,
+        "label": "新加坡管理大学｜新加坡",
+        "x": -0.33468819586469545,
+        "y": 0.0880938472579002,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.5714285714287
+        },
+        "description": "Singapore Management Univ｜Singapore\n文献频次：7\n聚类：7\n总连接强度：5"
+      },
+      {
+        "id": 53,
+        "label": "剑桥大学｜英国",
+        "x": 0.24291359848169708,
+        "y": 0.3016075600346836,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4285714285713
+        },
+        "description": "Univ Cambridge｜United Kingdom\n文献频次：7\n聚类：2\n总连接强度：9"
+      },
+      {
+        "id": 54,
+        "label": "佐治亚大学｜美国",
+        "x": -0.2808877636403867,
+        "y": 0.29404017573136293,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.7142857142858
+        },
+        "description": "Univ Georgia｜United States\n文献频次：7\n聚类：5\n总连接强度：7"
+      },
+      {
+        "id": 55,
+        "label": "俄勒冈大学｜美国",
+        "x": -0.3200610136432992,
+        "y": 0.25827514920418726,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.142857142857
+        },
+        "description": "Univ Oregon｜United States\n文献频次：7\n聚类：5\n总连接强度：5"
+      },
+      {
+        "id": 56,
+        "label": "威斯康星大学｜美国",
+        "x": 0.2083740424873599,
+        "y": 0.10758537995978715,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.4285714285713
+        },
+        "description": "Univ Wisconsin｜United States\n文献频次：7\n聚类：4\n总连接强度：8"
+      },
+      {
+        "id": 57,
+        "label": "埃因霍温理工大学｜荷兰",
+        "x": 0.28703702523234237,
+        "y": 0.2206775940655143,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1666666666667
+        },
+        "description": "Eindhoven Univ Technol｜Netherlands\n文献频次：6\n聚类：2\n总连接强度：6"
+      },
+      {
+        "id": 58,
+        "label": "复旦大学｜中国",
+        "x": -0.06629262154908183,
+        "y": 0.4163937405366452,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.8333333333333
+        },
+        "description": "Fudan Univ｜China\n文献频次：6\n聚类：7\n总连接强度：4"
+      },
+      {
+        "id": 59,
+        "label": "南洋理工大学｜新加坡",
+        "x": -0.13978337828193454,
+        "y": -0.14228205533322874,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5
+        },
+        "description": "Nanyang Technol Univ｜Singapore\n文献频次：6\n聚类：6\n总连接强度：6"
+      },
+      {
+        "id": 60,
+        "label": "俄亥俄州立大学｜美国",
+        "x": -0.19556566474962772,
+        "y": -0.646,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5
+        },
+        "description": "Ohio State Univ｜United States\n文献频次：6\n聚类：3\n总连接强度：1"
+      },
+      {
+        "id": 61,
+        "label": "普林斯顿大学｜美国",
+        "x": 0.21450578785216662,
+        "y": 0.5348720789765143,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6666666666667
+        },
+        "description": "Princeton Univ｜United States\n文献频次：6\n聚类：2\n总连接强度：5"
+      },
+      {
+        "id": 62,
+        "label": "普渡大学｜美国",
+        "x": -0.1469380554406171,
+        "y": -0.33268327462293196,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "Purdue Univ｜United States\n文献频次：6\n聚类：3\n总连接强度：3"
+      },
+      {
+        "id": 63,
+        "label": "罗格斯大学｜美国",
+        "x": 0.08977921085900592,
+        "y": -0.22322373226244874,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.1666666666667
+        },
+        "description": "Rutgers State Univ｜United States\n文献频次：6\n聚类：6\n总连接强度：4"
+      },
+      {
+        "id": 64,
+        "label": "清华大学｜中国",
+        "x": -0.047563466193916416,
+        "y": 0.2649848971657168,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.5
+        },
+        "description": "Tsinghua Univ｜China\n文献频次：6\n聚类：4\n总连接强度：7"
+      },
+      {
+        "id": 65,
+        "label": "杜兰大学｜美国",
+        "x": -0.45017481672569776,
+        "y": 0.048948753784565244,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.3333333333333
+        },
+        "description": "Tulane Univ｜United States\n文献频次：6\n聚类：7\n总连接强度：6"
+      },
+      {
+        "id": 66,
+        "label": "不列颠哥伦比亚大学｜加拿大",
+        "x": -0.004422863428262196,
+        "y": -0.045786370059642215,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5
+        },
+        "description": "Univ British Columbia｜Canada\n文献频次：6\n聚类：3\n总连接强度：6"
+      },
+      {
+        "id": 67,
+        "label": "休斯敦大学｜美国",
+        "x": -0.21630850912913652,
+        "y": 0.056647750106003515,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "Univ Houston｜United States\n文献频次：6\n聚类：1\n总连接强度：7"
+      },
+      {
+        "id": 68,
+        "label": "南卡罗来纳大学｜美国",
+        "x": 0.07641933784285916,
+        "y": 0.10495836553752276,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.8333333333333
+        },
+        "description": "Univ South Carolina｜United States\n文献频次：6\n聚类：4\n总连接强度：8"
+      },
+      {
+        "id": 69,
+        "label": "悉尼大学｜澳大利亚",
+        "x": -0.13220855445340354,
+        "y": 0.10665907831471674,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.3333333333333
+        },
+        "description": "Univ Sydney｜Australia\n文献频次：6\n聚类：7\n总连接强度：6"
+      },
+      {
+        "id": 70,
+        "label": "田纳西大学｜美国",
+        "x": 0.06502704341531274,
+        "y": 0.43002131836268975,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1666666666667
+        },
+        "description": "Univ Tennessee｜United States\n文献频次：6\n聚类：2\n总连接强度：4"
+      },
+      {
+        "id": 71,
+        "label": "奥尔登堡大学｜德国",
+        "x": 0.34237876104544684,
+        "y": -0.015227186392362799,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6
+        },
+        "description": "Carl von Ossietzky Univ Oldenburg｜Germany\n文献频次：5\n聚类：1\n总连接强度：6"
+      },
+      {
+        "id": 72,
+        "label": "香港中文大学｜中国",
+        "x": 0.16307149764691461,
+        "y": 0.2220963426165991,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.8
+        },
+        "description": "Chinese Univ Hong Kong｜China\n文献频次：5\n聚类：3\n总连接强度：4"
+      },
+      {
+        "id": 73,
+        "label": "科罗拉多州立大学｜美国",
+        "x": -0.5321499754920427,
+        "y": 0.12415876876999142,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6
+        },
+        "description": "Colorado State Univ｜United States\n文献频次：5\n聚类：5\n总连接强度：5"
+      },
+      {
+        "id": 74,
+        "label": "哥伦比亚大学｜美国",
+        "x": -0.0030796991386922642,
+        "y": -0.18779268837924845,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.8
+        },
+        "description": "Columbia Univ｜United States\n文献频次：5\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 75,
+        "label": "哥本哈根商学院｜丹麦",
+        "x": 0.13631852851716256,
+        "y": 0.26004580318880505,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.6
+        },
+        "description": "Copenhagen Business Sch｜Denmark\n文献频次：5\n聚类：2\n总连接强度：4"
+      },
+      {
+        "id": 76,
+        "label": "苏黎世联邦理工学院｜瑞士",
+        "x": 0.4676100968921737,
+        "y": 0.01092738302080712,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.4
+        },
+        "description": "ETH｜Switzerland\n文献频次：5\n聚类：1\n总连接强度：2"
+      },
+      {
+        "id": 77,
+        "label": "巴黎高等商学院｜法国",
+        "x": 0.023849878235661343,
+        "y": 0.03971167642327944,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "HEC Paris｜France\n文献频次：5\n聚类：1\n总连接强度：6"
+      },
+      {
+        "id": 78,
+        "label": "哈佛商学院｜美国",
+        "x": 0.33179137022727534,
+        "y": -0.06170510135552981,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6
+        },
+        "description": "Harvard Sch Business｜United States\n文献频次：5\n聚类：1\n总连接强度：4"
+      },
+      {
+        "id": 79,
+        "label": "香港科技大学｜中国",
+        "x": 0.39035165225032875,
+        "y": 0.23526597317628817,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6
+        },
+        "description": "Hong Kong Univ Sci & Technol｜China\n文献频次：5\n聚类：3\n总连接强度：3"
+      },
+      {
+        "id": 80,
+        "label": "约翰斯·霍普金斯大学｜美国",
+        "x": 0.01396009782021395,
+        "y": -0.1226421589353825,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6
+        },
+        "description": "Johns Hopkins Univ｜United States\n文献频次：5\n聚类：3\n总连接强度：7"
+      },
+      {
+        "id": 81,
+        "label": "伦敦国王学院｜英国",
+        "x": -0.17256315788940232,
+        "y": 0.26744655132218487,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.2
+        },
+        "description": "Kings Coll London｜United Kingdom\n文献频次：5\n聚类：5\n总连接强度：7"
+      },
+      {
+        "id": 82,
+        "label": "蒂尔堡大学｜荷兰",
+        "x": 0.47421277048940147,
+        "y": 0.06241670520247955,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.8
+        },
+        "description": "Tilburg Univ｜Netherlands\n文献频次：5\n聚类：4\n总连接强度：3"
+      },
+      {
+        "id": 83,
+        "label": "埃克塞特大学｜英国",
+        "x": -0.46000156311880225,
+        "y": 0.4995339620545179,
+        "cluster": 5,
+        "cluster_name": "Univ Colorado｜United States / Arizona State Univ｜United States / Univ Edinburgh｜United Kingdom",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6
+        },
+        "description": "Univ Exeter｜United Kingdom\n文献频次：5\n聚类：5\n总连接强度：4"
+      },
+      {
+        "id": 84,
+        "label": "佛罗里达大学｜美国",
+        "x": -0.022838755417678623,
+        "y": 0.646,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6
+        },
+        "description": "Univ Florida｜United States\n文献频次：5\n聚类：7\n总连接强度：4"
+      },
+      {
+        "id": 85,
+        "label": "格罗宁根大学｜荷兰",
+        "x": -0.01634386169700923,
+        "y": -0.3859377748657889,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.8
+        },
+        "description": "Univ Groningen｜Netherlands\n文献频次：5\n聚类：6\n总连接强度：2"
+      },
+      {
+        "id": 86,
+        "label": "汉堡大学｜德国",
+        "x": -0.053124491812702505,
+        "y": -0.2375420275469516,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6
+        },
+        "description": "Univ Hamburg｜Germany\n文献频次：5\n聚类：4\n总连接强度：2"
+      },
+      {
+        "id": 87,
+        "label": "北卡罗来纳大学教堂山分校｜美国",
+        "x": 0.1431135934477999,
+        "y": 0.0713214220093721,
+        "cluster": 3,
+        "cluster_name": "Univ Michigan｜United States / London Business Sch｜United Kingdom / Erasmus Univ｜Netherlands",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "Univ North Carolina Chapel Hill｜United States\n文献频次：5\n聚类：3\n总连接强度：5"
+      },
+      {
+        "id": 88,
+        "label": "多伦多大学｜加拿大",
+        "x": 0.06085318230188118,
+        "y": 0.3035257162395675,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.8
+        },
+        "description": "Univ Toronto｜Canada\n文献频次：5\n聚类：4\n总连接强度：7"
+      },
+      {
+        "id": 89,
+        "label": "特温特大学｜荷兰",
+        "x": 0.358570612451037,
+        "y": 0.36716177776084563,
+        "cluster": 2,
+        "cluster_name": "Univ Sussex｜United Kingdom / Penn State Univ｜United States / Tech Univ Munich｜Germany",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.4
+        },
+        "description": "Univ Twente｜Netherlands\n文献频次：5\n聚类：2\n总连接强度：5"
+      },
+      {
+        "id": 90,
+        "label": "华威大学｜英国",
+        "x": 0.6761443754626602,
+        "y": 0.11368587493880393,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.8
+        },
+        "description": "Univ Warwick｜United Kingdom\n文献频次：5\n聚类：4\n总连接强度：1"
+      },
+      {
+        "id": 91,
+        "label": "西安大略大学｜加拿大",
+        "x": -0.296983131170275,
+        "y": -0.1556857863397192,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.2
+        },
+        "description": "Univ Western Ontario｜Canada\n文献频次：5\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 92,
+        "label": "奥托·拜斯海姆管理学院｜德国",
+        "x": 0.10601337409786751,
+        "y": -0.3618475715679928,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.8
+        },
+        "description": "WHU Otto Beisheim Sch Management｜Germany\n文献频次：5\n聚类：6\n总连接强度：3"
+      },
+      {
+        "id": 93,
+        "label": "阿斯顿大学｜英国",
+        "x": -0.7678755064048437,
+        "y": -0.021680197611428278,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.25
+        },
+        "description": "Aston Univ｜United Kingdom\n文献频次：4\n聚类：7\n总连接强度：1"
+      },
+      {
+        "id": 94,
+        "label": "挪威商学院｜挪威",
+        "x": -0.5204093490301858,
+        "y": -0.39268714160047136,
+        "cluster": 1,
+        "cluster_name": "Harvard Univ｜United States / MIT｜United States / Stanford Univ｜United States",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.5
+        },
+        "description": "BI Norwegian Business Sch｜Norway\n文献频次：4\n聚类：1\n总连接强度：1"
+      },
+      {
+        "id": 95,
+        "label": "博科尼大学｜意大利",
+        "x": -0.1495947541830313,
+        "y": 0.4460069944362073,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.25
+        },
+        "description": "Bocconi Univ｜Italy\n文献频次：4\n聚类：7\n总连接强度：4"
+      },
+      {
+        "id": 96,
+        "label": "波士顿学院｜美国",
+        "x": -0.39562602094283444,
+        "y": 0.05154393675632722,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2010.25
+        },
+        "description": "Boston Coll｜United States\n文献频次：4\n聚类：7\n总连接强度：2"
+      },
+      {
+        "id": 97,
+        "label": "杨百翰大学｜美国",
+        "x": -0.2971282669602343,
+        "y": 0.024964164674817293,
+        "cluster": 6,
+        "cluster_name": "Cornell Univ｜United States / Georgetown Univ｜United States / Duke Univ｜United States",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.75
+        },
+        "description": "Brigham Young Univ｜United States\n文献频次：4\n聚类：6\n总连接强度：6"
+      },
+      {
+        "id": 98,
+        "label": "鲁汶天主教大学（法语）｜比利时",
+        "x": 0.3943209921642433,
+        "y": 0.5171158349926761,
+        "cluster": 4,
+        "cluster_name": "Georgia Inst Technol｜United States / Univ Calif Berkeley｜United States / Carnegie Mellon Univ｜United States",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2009.75
+        },
+        "description": "Catholic Univ Louvain｜Belgium\n文献频次：4\n聚类：4\n总连接强度：2"
+      },
+      {
+        "id": 99,
+        "label": "查尔姆斯理工大学｜瑞典",
+        "x": 1.2541344345289083,
+        "y": 0.0,
+        "cluster": 8,
+        "cluster_name": "Chalmers Univ Technol｜Sweden",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.25
+        },
+        "description": "Chalmers Univ Technol｜Sweden\n文献频次：4\n聚类：8\n总连接强度：0"
+      },
+      {
+        "id": 100,
+        "label": "香港城市大学｜中国",
+        "x": -0.4110006560838115,
+        "y": 0.628936257733487,
+        "cluster": 7,
+        "cluster_name": "Hong Kong Polytech Univ｜China / George Washington Univ｜United States / Natl Univ Singapore｜Singapore",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.25
+        },
+        "description": "City Univ Hong Kong｜China\n文献频次：4\n聚类：7\n总连接强度：2"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 71,
+        "target_id": 19,
+        "strength": 4.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 17,
+        "strength": 4.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 84,
+        "strength": 3.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 4,
+        "strength": 3.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 4,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 22,
+        "strength": 2.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 45,
+        "strength": 2.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 38,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 39,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 7,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 88,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 56,
+        "strength": 2.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 20,
+        "strength": 2.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 43,
+        "strength": 2.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 48,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 4,
+        "strength": 2.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 51,
+        "strength": 2.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 11,
+        "strength": 2.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 11,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 19,
+        "strength": 2.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 53,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 35,
+        "strength": 2.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 83,
+        "strength": 2.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 35,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 34,
+        "strength": 2.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 93,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 94,
+        "target_id": 91,
+        "strength": 1.0
+      },
+      {
+        "source_id": 95,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 95,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 95,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 95,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 81,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 71,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 71,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 82,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 98,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 79,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 100,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 100,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 50,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 77,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 85,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 80,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 87,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 82,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 81,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 29,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 87,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 62,
+        "strength": 1.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 87,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 51,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 81,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 63,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 91,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 63,
+        "strength": 1.0
+      },
+      {
+        "source_id": 48,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 52,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 38,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 86,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 91,
+        "strength": 1.0
+      },
+      {
+        "source_id": 49,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 60,
+        "target_id": 62,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 66,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 61,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 62,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 20,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 33,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 27,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 91,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 25,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 87,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 83,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 85,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 86,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 91,
+        "strength": 1.0
+      },
+      {
+        "source_id": 87,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 70,
+        "strength": 1.0
+      }
+    ]
+  },
+  "options": {
+    "scale": 1.5,
+    "network": {
+      "normalization": {
+        "method": "lin/log",
+        "attributes": [
+          "weights.NodeSize"
+        ]
+      }
+    },
+    "visualization": {
+      "scale": 2.0,
+      "nodes": {
+        "size": {
+          "variation": 0.35,
+          "min": 4,
+          "max": 24
+        }
+      },
+      "labels": {
+        "size": {
+          "variation": 0.5,
+          "min": 7,
+          "max": 14
+        },
+        "fontSize": 14,
+        "maximumLabelLength": 120
+      }
+    }
+  }
+}

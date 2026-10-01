@@ -1,0 +1,4483 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "美国国家经济研究局｜美国",
+        "x": 0.05330454728710305,
+        "y": -0.17638864727715226,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 140.0,
+          "Links": 60.0,
+          "Total Link Strength": 240.0,
+          "NodeSize": 3.774823934929885
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.5285714285715
+        },
+        "description": "National Bureau of Economic Research｜United States\n文献频次：140\n聚类：1\n总连接强度：240"
+      },
+      {
+        "id": 2,
+        "label": "加州大学伯克利分校｜美国",
+        "x": -0.05324687234950797,
+        "y": -0.14337843248952498,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 66.0,
+          "Links": 37.0,
+          "Total Link Strength": 81.0,
+          "NodeSize": 3.218605760695394
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.909090909091
+        },
+        "description": "Univ Calif Berkeley｜United States\n文献频次：66\n聚类：1\n总连接强度：81"
+      },
+      {
+        "id": 3,
+        "label": "麻省理工学院｜美国",
+        "x": -0.023757352241635388,
+        "y": -0.12901724945709012,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 46.0,
+          "Links": 33.0,
+          "Total Link Strength": 84.0,
+          "NodeSize": 3.01734949746879
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.1521739130435
+        },
+        "description": "MIT｜United States\n文献频次：46\n聚类：4\n总连接强度：84"
+      },
+      {
+        "id": 4,
+        "label": "未来资源研究所｜美国",
+        "x": 0.11632519779833762,
+        "y": -0.13293928671624705,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 41.0,
+          "Links": 25.0,
+          "Total Link Strength": 45.0,
+          "NodeSize": 2.9604686356149275
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.0243902439024
+        },
+        "description": "Resources Future Inc｜United States\n文献频次：41\n聚类：2\n总连接强度：45"
+      },
+      {
+        "id": 5,
+        "label": "哈佛大学｜美国",
+        "x": 0.048432009849777545,
+        "y": -0.24177701620508635,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 35.0,
+          "Links": 24.0,
+          "Total Link Strength": 50.0,
+          "NodeSize": 2.8874119674649426
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.857142857143
+        },
+        "description": "Harvard Univ｜United States\n文献频次：35\n聚类：4\n总连接强度：50"
+      },
+      {
+        "id": 6,
+        "label": "牛津大学｜英国",
+        "x": -0.17867993225919573,
+        "y": 0.01923435683406776,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 35.0,
+          "Links": 21.0,
+          "Total Link Strength": 42.0,
+          "NodeSize": 2.8874119674649426
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5714285714287
+        },
+        "description": "Univ Oxford｜United Kingdom\n文献频次：35\n聚类：3\n总连接强度：42"
+      },
+      {
+        "id": 7,
+        "label": "加州大学戴维斯分校｜美国",
+        "x": -0.04156649139099829,
+        "y": -0.2487238014167284,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 30.0,
+          "Links": 17.0,
+          "Total Link Strength": 28.0,
+          "NodeSize": 2.8215838362577492
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5
+        },
+        "description": "Univ Calif Davis｜United States\n文献频次：30\n聚类：1\n总连接强度：28"
+      },
+      {
+        "id": 8,
+        "label": "杜克大学｜美国",
+        "x": 0.01877133113168488,
+        "y": -0.1686754759212347,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 28.0,
+          "Links": 19.0,
+          "Total Link Strength": 33.0,
+          "NodeSize": 2.7937253933193773
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.392857142857
+        },
+        "description": "Duke Univ｜United States\n文献频次：28\n聚类：2\n总连接强度：33"
+      },
+      {
+        "id": 9,
+        "label": "耶鲁大学｜美国",
+        "x": 0.13525972003048498,
+        "y": -0.1751056991711555,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 27.0,
+          "Links": 21.0,
+          "Total Link Strength": 39.0,
+          "NodeSize": 2.779422863405995
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6666666666667
+        },
+        "description": "Yale Univ｜United States\n文献频次：27\n聚类：1\n总连接强度：39"
+      },
+      {
+        "id": 10,
+        "label": "斯坦福大学｜美国",
+        "x": 0.08274115642964217,
+        "y": -0.1844619025585764,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 25.0,
+          "Links": 19.0,
+          "Total Link Strength": 33.0,
+          "NodeSize": 2.75
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.04
+        },
+        "description": "Stanford Univ｜United States\n文献频次：25\n聚类：1\n总连接强度：33"
+      },
+      {
+        "id": 11,
+        "label": "慕尼黑经济研究中心｜德国",
+        "x": -0.09773632470529789,
+        "y": 0.1296729080612004,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 24.0,
+          "Links": 23.0,
+          "Total Link Strength": 43.0,
+          "NodeSize": 2.7348469228349535
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.375
+        },
+        "description": "CESIfo｜Germany\n文献频次：24\n聚类：3\n总连接强度：43"
+      },
+      {
+        "id": 12,
+        "label": "伊利诺伊大学｜美国",
+        "x": 0.17175744632687287,
+        "y": -0.22968783813125362,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 24.0,
+          "Links": 13.0,
+          "Total Link Strength": 17.0,
+          "NodeSize": 2.7348469228349535
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.0416666666667
+        },
+        "description": "Univ Illinois｜United States\n文献频次：24\n聚类：2\n总连接强度：17"
+      },
+      {
+        "id": 13,
+        "label": "哥伦比亚大学｜美国",
+        "x": 0.10025989123582951,
+        "y": -0.09721337554771547,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 19.0,
+          "Links": 13.0,
+          "Total Link Strength": 25.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.157894736842
+        },
+        "description": "Columbia Univ｜United States\n文献频次：19\n聚类：1\n总连接强度：25"
+      },
+      {
+        "id": 14,
+        "label": "伦敦政治经济学院｜英国",
+        "x": 0.03220636212685179,
+        "y": -0.06185473312757117,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 19.0,
+          "Links": 14.0,
+          "Total Link Strength": 16.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.9473684210527
+        },
+        "description": "London Sch Econ｜United Kingdom\n文献频次：19\n聚类：4\n总连接强度：16"
+      },
+      {
+        "id": 15,
+        "label": "纽约大学｜美国",
+        "x": -0.026388464100792094,
+        "y": -0.16702417674644474,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 19.0,
+          "Links": 16.0,
+          "Total Link Strength": 32.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.7368421052631
+        },
+        "description": "New York University｜United States\n文献频次：19\n聚类：4\n总连接强度：32"
+      },
+      {
+        "id": 16,
+        "label": "瑞士联邦理工学院｜瑞士",
+        "x": -0.08404731965303358,
+        "y": -0.005876226787237581,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 19.0,
+          "Links": 17.0,
+          "Total Link Strength": 27.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.9473684210527
+        },
+        "description": "Swiss Fed Inst Technol｜Switzerland\n文献频次：19\n聚类：4\n总连接强度：27"
+      },
+      {
+        "id": 17,
+        "label": "芝加哥大学｜美国",
+        "x": 0.10241170756178386,
+        "y": -0.21360021268681467,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 19.0,
+          "Links": 20.0,
+          "Total Link Strength": 36.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6842105263158
+        },
+        "description": "Univ Chicago｜United States\n文献频次：19\n聚类：1\n总连接强度：36"
+      },
+      {
+        "id": 18,
+        "label": "马里兰大学｜美国",
+        "x": 0.25047258269492595,
+        "y": -0.23625297746734733,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 19.0,
+          "Links": 11.0,
+          "Total Link Strength": 17.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.0526315789473
+        },
+        "description": "Univ Maryland｜United States\n文献频次：19\n聚类：2\n总连接强度：17"
+      },
+      {
+        "id": 19,
+        "label": "密歇根大学｜美国",
+        "x": 0.023588772769355892,
+        "y": -0.27021625446890346,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 19.0,
+          "Links": 13.0,
+          "Total Link Strength": 19.0,
+          "NodeSize": 2.653834841531101
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.0526315789473
+        },
+        "description": "Univ Michigan｜United States\n文献频次：19\n聚类：4\n总连接强度：19"
+      },
+      {
+        "id": 20,
+        "label": "经济政策研究中心｜英国",
+        "x": 0.04328692546131813,
+        "y": 0.02313025588436118,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 18.0,
+          "Links": 27.0,
+          "Total Link Strength": 42.0,
+          "NodeSize": 2.636396103067893
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.4444444444443
+        },
+        "description": "CEPR｜United Kingdom\n文献频次：18\n聚类：3\n总连接强度：42"
+      },
+      {
+        "id": 21,
+        "label": "加州大学圣迭戈分校｜美国",
+        "x": 0.05490414494533799,
+        "y": -0.11953069121709814,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 18.0,
+          "Links": 15.0,
+          "Total Link Strength": 24.0,
+          "NodeSize": 2.636396103067893
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.888888888889
+        },
+        "description": "Univ Calif San Diego｜United States\n文献频次：18\n聚类：1\n总连接强度：24"
+      },
+      {
+        "id": 22,
+        "label": "宾夕法尼亚大学｜美国",
+        "x": -0.025935905434911626,
+        "y": -0.06892681476475204,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 18.0,
+          "Links": 16.0,
+          "Total Link Strength": 31.0,
+          "NodeSize": 2.636396103067893
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "Univ Penn｜United States\n文献频次：18\n聚类：1\n总连接强度：31"
+      },
+      {
+        "id": 23,
+        "label": "蒂尔堡大学｜荷兰",
+        "x": -0.029972145113103536,
+        "y": 0.30077133411428514,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 17.0,
+          "Links": 7.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.618465843842649
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.2941176470588
+        },
+        "description": "Tilburg Univ｜Netherlands\n文献频次：17\n聚类：3\n总连接强度：11"
+      },
+      {
+        "id": 24,
+        "label": "阿姆斯特丹自由大学｜荷兰",
+        "x": -0.05945045230215951,
+        "y": 0.17565275573756883,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 16.0,
+          "Links": 11.0,
+          "Total Link Strength": 20.0,
+          "NodeSize": 2.6
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.9375
+        },
+        "description": "Vrije Univ Amsterdam｜Netherlands\n文献频次：16\n聚类：3\n总连接强度：20"
+      },
+      {
+        "id": 25,
+        "label": "世界银行｜美国",
+        "x": 0.1413874386005099,
+        "y": -0.03788173839712732,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 16.0,
+          "Links": 9.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.6
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.25
+        },
+        "description": "World Bank｜United States\n文献频次：16\n聚类：1\n总连接强度：11"
+      },
+      {
+        "id": 26,
+        "label": "卡内基梅隆大学｜美国",
+        "x": 0.1765061052265371,
+        "y": -0.13377481905782432,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 15.0,
+          "Links": 14.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.5809475019311128
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.6
+        },
+        "description": "Carnegie Mellon Univ｜United States\n文献频次：15\n聚类：1\n总连接强度：21"
+      },
+      {
+        "id": 27,
+        "label": "奥尔登堡大学｜德国",
+        "x": 0.28691511720879515,
+        "y": 0.1828131885460908,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 14.0,
+          "Links": 8.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.561248608016091
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.2857142857142
+        },
+        "description": "Carl von Ossietzky Univ Oldenburg｜Germany\n文献频次：14\n聚类：2\n总连接强度：14"
+      },
+      {
+        "id": 28,
+        "label": "伦敦政治经济学院｜英国",
+        "x": -0.26199364640289263,
+        "y": 0.12724679810916303,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 13.0,
+          "Links": 6.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.5408326913195984
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6153846153845
+        },
+        "description": "London Sch Econ & Polit Sci｜United Kingdom\n文献频次：13\n聚类：3\n总连接强度：9"
+      },
+      {
+        "id": 29,
+        "label": "苏黎世联邦理工学院｜瑞士",
+        "x": -0.1352530850960443,
+        "y": -0.16110253391933613,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 8.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.5833333333333
+        },
+        "description": "ETH｜Switzerland\n文献频次：12\n聚类：4\n总连接强度：14"
+      },
+      {
+        "id": 30,
+        "label": "柏林工业大学｜德国",
+        "x": -0.43305870050290524,
+        "y": -0.06188691995370991,
+        "cluster": 5,
+        "cluster_name": "Tech Univ Berlin｜Germany / Mercator Res Inst Global Commons & Climate Change｜Germany / Potsdam Inst Climate Impact Res｜Germany",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 8.0,
+          "Total Link Strength": 21.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.6666666666667
+        },
+        "description": "Tech Univ Berlin｜Germany\n文献频次：12\n聚类：5\n总连接强度：21"
+      },
+      {
+        "id": 31,
+        "label": "卡尔加里大学｜加拿大",
+        "x": 0.24804828887918506,
+        "y": -0.0787208328812889,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 11.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.25
+        },
+        "description": "Univ Calgary｜Canada\n文献频次：12\n聚类：2\n总连接强度：11"
+      },
+      {
+        "id": 32,
+        "label": "加州大学圣塔芭芭拉分校｜美国",
+        "x": 0.1966473153385489,
+        "y": -0.2862821013445794,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 12.0,
+          "Links": 9.0,
+          "Total Link Strength": 16.0,
+          "NodeSize": 2.519615242270663
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.8333333333333
+        },
+        "description": "Univ Calif Santa Barbara｜United States\n文献频次：12\n聚类：1\n总连接强度：16"
+      },
+      {
+        "id": 33,
+        "label": "亚利桑那州立大学｜美国",
+        "x": 0.43714372270982754,
+        "y": -0.38476141422756593,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 3.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.4545454545455
+        },
+        "description": "Arizona State Univ｜United States\n文献频次：11\n聚类：2\n总连接强度：4"
+      },
+      {
+        "id": 34,
+        "label": "科罗拉多矿业大学｜美国",
+        "x": 0.07734822494113551,
+        "y": -0.0324774397341215,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 13.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.909090909091
+        },
+        "description": "Colorado Sch Mines｜United States\n文献频次：11\n聚类：2\n总连接强度：13"
+      },
+      {
+        "id": 35,
+        "label": "墨卡托全球公域与气候变化研究所｜德国",
+        "x": -0.46241302179560667,
+        "y": -0.022283523392362746,
+        "cluster": 5,
+        "cluster_name": "Tech Univ Berlin｜Germany / Mercator Res Inst Global Commons & Climate Change｜Germany / Potsdam Inst Climate Impact Res｜Germany",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 7.0,
+          "Total Link Strength": 24.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.909090909091
+        },
+        "description": "Mercator Res Inst Global Commons & Climate Change｜Germany\n文献频次：11\n聚类：5\n总连接强度：24"
+      },
+      {
+        "id": 36,
+        "label": "莫纳什大学｜澳大利亚",
+        "x": -0.1298995180098908,
+        "y": -0.21295008767194754,
+        "cluster": 6,
+        "cluster_name": "Monash Univ｜Australia / Penn State Univ｜United States / Princeton Univ｜United States",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 8.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.8181818181818
+        },
+        "description": "Monash Univ｜Australia\n文献频次：11\n聚类：6\n总连接强度：10"
+      },
+      {
+        "id": 37,
+        "label": "西北大学｜美国",
+        "x": 0.010770987529628356,
+        "y": -0.2251392053290221,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 11.0,
+          "Total Link Strength": 20.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.090909090909
+        },
+        "description": "Northwestern Univ｜United States\n文献频次：11\n聚类：1\n总连接强度：20"
+      },
+      {
+        "id": 38,
+        "label": "加州大学洛杉矶分校｜美国",
+        "x": -0.029854375961130594,
+        "y": -0.30746141624880197,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 11.0,
+          "Links": 8.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.4974937185533097
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.0
+        },
+        "description": "Univ Calif Los Angeles｜United States\n文献频次：11\n聚类：1\n总连接强度：11"
+      },
+      {
+        "id": 39,
+        "label": "佐治亚州立大学｜美国",
+        "x": 0.05591272732103888,
+        "y": 0.06964950904475042,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 5.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.9
+        },
+        "description": "Georgia State Univ｜United States\n文献频次：10\n聚类：1\n总连接强度：10"
+      },
+      {
+        "id": 40,
+        "label": "印第安纳大学｜美国",
+        "x": 0.30131311645485614,
+        "y": -0.28585589659999333,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 9.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3
+        },
+        "description": "Indiana Univ｜United States\n文献频次：10\n聚类：1\n总连接强度：10"
+      },
+      {
+        "id": 41,
+        "label": "国际货币基金组织｜美国",
+        "x": 0.24506545150468986,
+        "y": -0.009823246565497261,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 7.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.4
+        },
+        "description": "Int Monetary Fund｜United States\n文献频次：10\n聚类：3\n总连接强度：8"
+      },
+      {
+        "id": 42,
+        "label": "宾夕法尼亚州立大学｜美国",
+        "x": -0.10461436302924544,
+        "y": -0.33612891458859784,
+        "cluster": 6,
+        "cluster_name": "Monash Univ｜Australia / Penn State Univ｜United States / Princeton Univ｜United States",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 10.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.9
+        },
+        "description": "Penn State Univ｜United States\n文献频次：10\n聚类：6\n总连接强度：12"
+      },
+      {
+        "id": 43,
+        "label": "波茨坦气候影响研究所｜德国",
+        "x": -0.3575338752912571,
+        "y": -0.023943461051858073,
+        "cluster": 5,
+        "cluster_name": "Tech Univ Berlin｜Germany / Mercator Res Inst Global Commons & Climate Change｜Germany / Potsdam Inst Climate Impact Res｜Germany",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 12.0,
+          "Total Link Strength": 27.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3
+        },
+        "description": "Potsdam Inst Climate Impact Res｜Germany\n文献频次：10\n聚类：5\n总连接强度：27"
+      },
+      {
+        "id": 44,
+        "label": "清华大学｜中国",
+        "x": -0.15274315707258998,
+        "y": -0.09997972309115107,
+        "cluster": 5,
+        "cluster_name": "Tech Univ Berlin｜Germany / Mercator Res Inst Global Commons & Climate Change｜Germany / Potsdam Inst Climate Impact Res｜Germany",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 13.0,
+          "Total Link Strength": 13.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "Tsinghua Univ｜China\n文献频次：10\n聚类：5\n总连接强度：13"
+      },
+      {
+        "id": 45,
+        "label": "曼海姆大学｜德国",
+        "x": 0.02453395620416311,
+        "y": 0.19276093369325867,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 11.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "Univ Mannheim｜Germany\n文献频次：10\n聚类：3\n总连接强度：14"
+      },
+      {
+        "id": 46,
+        "label": "奥斯陆大学｜挪威",
+        "x": 0.18566869851604864,
+        "y": 0.07596631665813529,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.2
+        },
+        "description": "Univ Oslo｜Norway\n文献频次：10\n聚类：2\n总连接强度：7"
+      },
+      {
+        "id": 47,
+        "label": "渥太华大学｜加拿大",
+        "x": 0.17689478069752063,
+        "y": 0.19695822926637838,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 6.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "Univ Ottawa｜Canada\n文献频次：10\n聚类：2\n总连接强度：8"
+      },
+      {
+        "id": 48,
+        "label": "得克萨斯大学奥斯汀分校｜美国",
+        "x": 0.2298114095027863,
+        "y": -0.20165983936203066,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 8.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.8
+        },
+        "description": "Univ Texas Austin｜United States\n文献频次：10\n聚类：1\n总连接强度：12"
+      },
+      {
+        "id": 49,
+        "label": "伊福经济研究所｜德国",
+        "x": 0.015522783841654831,
+        "y": 0.04341929729422377,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 10.0,
+          "Links": 10.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.474341649025257
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.0
+        },
+        "description": "ifo Inst｜Germany\n文献频次：10\n聚类：2\n总连接强度：11"
+      },
+      {
+        "id": 50,
+        "label": "波士顿大学｜美国",
+        "x": -0.1884657318239125,
+        "y": -0.14259341542466097,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 7.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.5555555555557
+        },
+        "description": "Boston Univ｜United States\n文献频次：9\n聚类：4\n总连接强度：10"
+      },
+      {
+        "id": 51,
+        "label": "康奈尔大学｜美国",
+        "x": 0.11889636839777837,
+        "y": -0.27512101156020546,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 11.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.5555555555557
+        },
+        "description": "Cornell Univ｜United States\n文献频次：9\n聚类：1\n总连接强度：14"
+      },
+      {
+        "id": 52,
+        "label": "乔治敦大学｜美国",
+        "x": 0.2346146007703121,
+        "y": -0.14129634379712383,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 4.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.111111111111
+        },
+        "description": "Georgetown Univ｜United States\n文献频次：9\n聚类：1\n总连接强度：9"
+      },
+      {
+        "id": 53,
+        "label": "佐治亚理工学院｜美国",
+        "x": 0.14686626918188886,
+        "y": -0.31052367009180964,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 8.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5555555555557
+        },
+        "description": "Georgia Inst Technol｜United States\n文献频次：9\n聚类：2\n总连接强度：9"
+      },
+      {
+        "id": 54,
+        "label": "劳动经济研究所｜德国",
+        "x": 0.09541452159809466,
+        "y": 0.037601084483155724,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 12.0,
+          "Total Link Strength": 15.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.7777777777778
+        },
+        "description": "IZA｜Germany\n文献频次：9\n聚类：3\n总连接强度：15"
+      },
+      {
+        "id": 55,
+        "label": "北京大学｜中国",
+        "x": -0.06407474796858813,
+        "y": -0.3505450391252674,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 8.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.888888888889
+        },
+        "description": "Peking Univ｜China\n文献频次：9\n聚类：1\n总连接强度：10"
+      },
+      {
+        "id": 56,
+        "label": "普林斯顿大学｜美国",
+        "x": 0.08382338387907265,
+        "y": -0.3129800008749825,
+        "cluster": 6,
+        "cluster_name": "Monash Univ｜Australia / Penn State Univ｜United States / Princeton Univ｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 9.0,
+          "Total Link Strength": 12.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.111111111111
+        },
+        "description": "Princeton Univ｜United States\n文献频次：9\n聚类：6\n总连接强度：12"
+      },
+      {
+        "id": 57,
+        "label": "塔夫茨大学｜美国",
+        "x": 0.15955666916931782,
+        "y": 0.020736215343261137,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 6.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.4444444444443
+        },
+        "description": "Tufts Univ｜United States\n文献频次：9\n聚类：1\n总连接强度：9"
+      },
+      {
+        "id": 58,
+        "label": "不列颠哥伦比亚大学｜加拿大",
+        "x": -0.29374674368059517,
+        "y": -0.39668830316170256,
+        "cluster": 7,
+        "cluster_name": "Univ British Columbia｜Canada / Univ Wisconsin｜United States / Univ Wyoming｜United States",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.2222222222222
+        },
+        "description": "Univ British Columbia｜Canada\n文献频次：9\n聚类：7\n总连接强度：4"
+      },
+      {
+        "id": 59,
+        "label": "剑桥大学｜英国",
+        "x": 0.2899979934287725,
+        "y": 0.10359455701912217,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 5.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.888888888889
+        },
+        "description": "Univ Cambridge｜United Kingdom\n文献频次：9\n聚类：3\n总连接强度：6"
+      },
+      {
+        "id": 60,
+        "label": "苏黎世大学｜瑞士",
+        "x": -0.059250225671334575,
+        "y": 0.10990135712825248,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 8.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "Univ Zurich｜Switzerland\n文献频次：9\n聚类：3\n总连接强度：9"
+      },
+      {
+        "id": 61,
+        "label": "莱布尼茨欧洲经济研究中心｜德国",
+        "x": -0.15699484889727167,
+        "y": 0.07596642219372093,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 9.0,
+          "Links": 7.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.45
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.7777777777778
+        },
+        "description": "ZEW Leibniz Ctr European Econ Res｜Germany\n文献频次：9\n聚类：4\n总连接强度：14"
+      },
+      {
+        "id": 62,
+        "label": "国际应用系统分析研究所｜奥地利",
+        "x": -0.2748434927240996,
+        "y": 0.03724617889346708,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 7.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.125
+        },
+        "description": "IIASA｜Austria\n文献频次：8\n聚类：3\n总连接强度：11"
+      },
+      {
+        "id": 63,
+        "label": "爱荷华州立大学｜美国",
+        "x": 0.04578587390581515,
+        "y": -0.47850794863470186,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 6.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.5
+        },
+        "description": "Iowa State Univ｜United States\n文献频次：8\n聚类：1\n总连接强度：8"
+      },
+      {
+        "id": 64,
+        "label": "密歇根州立大学｜美国",
+        "x": -0.0030203710287516655,
+        "y": -0.38028693692878096,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 8.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.625
+        },
+        "description": "Michigan State Univ｜United States\n文献频次：8\n聚类：1\n总连接强度：10"
+      },
+      {
+        "id": 65,
+        "label": "新加坡国立大学｜新加坡",
+        "x": -0.19501031787334455,
+        "y": -0.2599976444810816,
+        "cluster": 6,
+        "cluster_name": "Monash Univ｜Australia / Penn State Univ｜United States / Princeton Univ｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.875
+        },
+        "description": "Natl Univ Singapore｜Singapore\n文献频次：8\n聚类：6\n总连接强度：8"
+      },
+      {
+        "id": 66,
+        "label": "挪威生命科学大学｜挪威",
+        "x": 0.2824278064404227,
+        "y": 0.27086525949503937,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 5.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5
+        },
+        "description": "Norwegian Univ Life Sci｜Norway\n文献频次：8\n聚类：2\n总连接强度：11"
+      },
+      {
+        "id": 67,
+        "label": "得克萨斯农工大学｜美国",
+        "x": -0.1321982407231548,
+        "y": -0.29550009497530266,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.5
+        },
+        "description": "Texas A&M Univ｜United States\n文献频次：8\n聚类：2\n总连接强度：8"
+      },
+      {
+        "id": 68,
+        "label": "汉堡大学｜德国",
+        "x": 0.09348476334220349,
+        "y": 0.15469102692702597,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 10.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.75
+        },
+        "description": "Univ Hamburg｜Germany\n文献频次：8\n聚类：3\n总连接强度：11"
+      },
+      {
+        "id": 69,
+        "label": "波茨坦大学｜德国",
+        "x": -0.44819469601871187,
+        "y": 0.03959026753448737,
+        "cluster": 5,
+        "cluster_name": "Tech Univ Berlin｜Germany / Mercator Res Inst Global Commons & Climate Change｜Germany / Potsdam Inst Climate Impact Res｜Germany",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 5.0,
+          "Total Link Strength": 14.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.5
+        },
+        "description": "Univ Potsdam｜Germany\n文献频次：8\n聚类：5\n总连接强度：14"
+      },
+      {
+        "id": 70,
+        "label": "华盛顿大学｜美国",
+        "x": -0.21106185250696533,
+        "y": -0.21014959148283296,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.375
+        },
+        "description": "Univ Washington｜United States\n文献频次：8\n聚类：2\n总连接强度：8"
+      },
+      {
+        "id": 71,
+        "label": "威斯康星大学｜美国",
+        "x": -0.09551231019964328,
+        "y": -0.646,
+        "cluster": 7,
+        "cluster_name": "Univ British Columbia｜Canada / Univ Wisconsin｜United States / Univ Wyoming｜United States",
+        "weights": {
+          "Documents": 8.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.4242640687119286
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.25
+        },
+        "description": "Univ Wisconsin｜United States\n文献频次：8\n聚类：7\n总连接强度：4"
+      },
+      {
+        "id": 72,
+        "label": "经济政策研究中心｜美国",
+        "x": -0.26074248344439593,
+        "y": -0.059040298349085446,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.857142857143
+        },
+        "description": "CEPR｜United States\n文献频次：7\n聚类：1\n总连接强度：7"
+      },
+      {
+        "id": 73,
+        "label": "法国国家科学研究中心｜法国",
+        "x": -0.3863965264061895,
+        "y": 0.07525795589758466,
+        "cluster": 5,
+        "cluster_name": "Tech Univ Berlin｜Germany / Mercator Res Inst Global Commons & Climate Change｜Germany / Potsdam Inst Climate Impact Res｜Germany",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.5714285714287
+        },
+        "description": "CNRS｜France\n文献频次：7\n聚类：5\n总连接强度：7"
+      },
+      {
+        "id": 74,
+        "label": "莱茵－威斯特法伦莱布尼茨经济研究所｜德国",
+        "x": 0.09927877107168954,
+        "y": 0.3797651220985766,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 6.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.5714285714287
+        },
+        "description": "RWI Leibniz Inst Econ Res｜Germany\n文献频次：7\n聚类：3\n总连接强度：7"
+      },
+      {
+        "id": 75,
+        "label": "斯德哥尔摩大学｜瑞典",
+        "x": 0.46241302179560667,
+        "y": -0.21722627653688026,
+        "cluster": 6,
+        "cluster_name": "Monash Univ｜Australia / Penn State Univ｜United States / Princeton Univ｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.2857142857142
+        },
+        "description": "Stockholm Univ｜Sweden\n文献频次：7\n聚类：6\n总连接强度：3"
+      },
+      {
+        "id": 76,
+        "label": "亚利桑那大学｜美国",
+        "x": 0.19653847761438548,
+        "y": -0.4640118349743052,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 3.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.142857142857
+        },
+        "description": "Univ Arizona｜United States\n文献频次：7\n聚类：1\n总连接强度：5"
+      },
+      {
+        "id": 77,
+        "label": "马德里卡洛斯三世大学｜西班牙",
+        "x": 0.3901843410901435,
+        "y": -0.0029189615399508877,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.5714285714287
+        },
+        "description": "Univ Carlos III Madrid｜Spain\n文献频次：7\n聚类：2\n总连接强度：5"
+      },
+      {
+        "id": 78,
+        "label": "哥德堡大学｜瑞典",
+        "x": 0.24446162563583101,
+        "y": 0.07257388632349862,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 7.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.7142857142858
+        },
+        "description": "Univ Gothenburg｜Sweden\n文献频次：7\n聚类：3\n总连接强度：7"
+      },
+      {
+        "id": 79,
+        "label": "田纳西大学｜美国",
+        "x": -0.09361449368685155,
+        "y": -0.075499852016466,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.142857142857
+        },
+        "description": "Univ Tennessee｜United States\n文献频次：7\n聚类：2\n总连接强度：8"
+      },
+      {
+        "id": 80,
+        "label": "图卢兹第一大学｜法国",
+        "x": -0.01224555203052429,
+        "y": 0.4066243587375516,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.142857142857
+        },
+        "description": "Univ Toulouse Capitole｜France\n文献频次：7\n聚类：3\n总连接强度：5"
+      },
+      {
+        "id": 81,
+        "label": "怀俄明大学｜美国",
+        "x": 0.3279881823710871,
+        "y": -0.46152057809074887,
+        "cluster": 7,
+        "cluster_name": "Univ British Columbia｜Canada / Univ Wisconsin｜United States / Univ Wyoming｜United States",
+        "weights": {
+          "Documents": 7.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3968626966596887
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.142857142857
+        },
+        "description": "Univ Wyoming｜United States\n文献频次：7\n聚类：7\n总连接强度：4"
+      },
+      {
+        "id": 82,
+        "label": "阿尔托大学｜芬兰",
+        "x": -0.06296287736402813,
+        "y": 0.646,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.3333333333333
+        },
+        "description": "Aalto Univ｜Finland\n文献频次：6\n聚类：3\n总连接强度：2"
+      },
+      {
+        "id": 83,
+        "label": "博科尼大学｜意大利",
+        "x": -0.3375160705230475,
+        "y": 0.1648816645089209,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 2.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.1666666666667
+        },
+        "description": "Bocconi Univ｜Italy\n文献频次：6\n聚类：1\n总连接强度：3"
+      },
+      {
+        "id": 84,
+        "label": "波士顿学院｜美国",
+        "x": 0.15632351061530392,
+        "y": -0.379538123730058,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 7.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.0
+        },
+        "description": "Boston Coll｜United States\n文献频次：6\n聚类：1\n总连接强度：9"
+      },
+      {
+        "id": 85,
+        "label": "达特茅斯学院｜美国",
+        "x": -0.04407132451008953,
+        "y": -0.4450165626514332,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.8333333333333
+        },
+        "description": "Dartmouth Coll｜United States\n文献频次：6\n聚类：1\n总连接强度：7"
+      },
+      {
+        "id": 86,
+        "label": "海德堡大学｜德国",
+        "x": -0.22637863782033935,
+        "y": 0.05832154145484466,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 7.0,
+          "Total Link Strength": 11.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.1666666666667
+        },
+        "description": "Heidelberg Univ｜Germany\n文献频次：6\n聚类：4\n总连接强度：11"
+      },
+      {
+        "id": 87,
+        "label": "伦敦帝国理工学院｜英国",
+        "x": 0.18569917906671352,
+        "y": -0.05016164155576332,
+        "cluster": 4,
+        "cluster_name": "MIT｜United States / Harvard Univ｜United States / London Sch Econ｜United Kingdom",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 8.0,
+          "Total Link Strength": 10.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.5
+        },
+        "description": "Imperial Coll London｜United Kingdom\n文献频次：6\n聚类：4\n总连接强度：10"
+      },
+      {
+        "id": 88,
+        "label": "马斯特里赫特大学｜荷兰",
+        "x": -0.2400244064642352,
+        "y": -0.14448133911097377,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 7.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.3333333333333
+        },
+        "description": "Maastricht Univ｜Netherlands\n文献频次：6\n聚类：1\n总连接强度：7"
+      },
+      {
+        "id": 89,
+        "label": "北卡罗来纳州立大学｜美国",
+        "x": -0.1496188912364703,
+        "y": -0.5164794849860121,
+        "cluster": 7,
+        "cluster_name": "Univ British Columbia｜Canada / Univ Wisconsin｜United States / Univ Wyoming｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.1666666666667
+        },
+        "description": "North Carolina State Univ｜United States\n文献频次：6\n聚类：7\n总连接强度：4"
+      },
+      {
+        "id": 90,
+        "label": "俄亥俄州立大学｜美国",
+        "x": -0.2802292386884065,
+        "y": -0.27505977434149276,
+        "cluster": 6,
+        "cluster_name": "Monash Univ｜Australia / Penn State Univ｜United States / Princeton Univ｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 5.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.8333333333333
+        },
+        "description": "Ohio State Univ｜United States\n文献频次：6\n聚类：6\n总连接强度：5"
+      },
+      {
+        "id": 91,
+        "label": "俄勒冈州立大学｜美国",
+        "x": 0.08095334789365013,
+        "y": -0.5578480138491555,
+        "cluster": 7,
+        "cluster_name": "Univ British Columbia｜Canada / Univ Wisconsin｜United States / Univ Wyoming｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.8333333333333
+        },
+        "description": "Oregon State Univ｜United States\n文献频次：6\n聚类：7\n总连接强度：6"
+      },
+      {
+        "id": 92,
+        "label": "巴黎经济学院｜法国",
+        "x": -0.42511110179680606,
+        "y": -0.16693043675762043,
+        "cluster": 5,
+        "cluster_name": "Tech Univ Berlin｜Germany / Mercator Res Inst Global Commons & Climate Change｜Germany / Potsdam Inst Climate Impact Res｜Germany",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 8.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.3333333333333
+        },
+        "description": "Paris Sch Econ｜France\n文献频次：6\n聚类：5\n总连接强度：8"
+      },
+      {
+        "id": 93,
+        "label": "智利天主教大学｜智利",
+        "x": 0.3080850234885289,
+        "y": -0.1643633911016809,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6666666666667
+        },
+        "description": "Pontificia Univ Catolica Chile｜Chile\n文献频次：6\n聚类：1\n总连接强度：8"
+      },
+      {
+        "id": 94,
+        "label": "波鸿鲁尔大学｜德国",
+        "x": 0.035841589073622386,
+        "y": 0.4179088502190951,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.1666666666667
+        },
+        "description": "Ruhr Univ Bochum｜Germany\n文献频次：6\n聚类：3\n总连接强度：5"
+      },
+      {
+        "id": 95,
+        "label": "挪威统计局｜挪威",
+        "x": 0.3663053217896391,
+        "y": 0.303857246544583,
+        "cluster": 2,
+        "cluster_name": "Resources Future Inc｜United States / Duke Univ｜United States / Univ Illinois｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 8.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.6666666666667
+        },
+        "description": "Stat Norway｜Norway\n文献频次：6\n聚类：2\n总连接强度：8"
+      },
+      {
+        "id": 96,
+        "label": "丁伯根研究所｜荷兰",
+        "x": -0.13510044178531816,
+        "y": 0.24286252789132484,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 6.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.8333333333333
+        },
+        "description": "Tinbergen Inst｜Netherlands\n文献频次：6\n聚类：3\n总连接强度：9"
+      },
+      {
+        "id": 97,
+        "label": "阿尔伯塔大学｜加拿大",
+        "x": 0.4412056814265168,
+        "y": -0.10344147485663847,
+        "cluster": 1,
+        "cluster_name": "National Bureau of Economic Research｜United States / Univ Calif Berkeley｜United States / Univ Calif Davis｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3333333333333
+        },
+        "description": "Univ Alberta｜Canada\n文献频次：6\n聚类：1\n总连接强度：4"
+      },
+      {
+        "id": 98,
+        "label": "科罗拉多大学｜美国",
+        "x": -0.3591140081284175,
+        "y": -0.3312432647299756,
+        "cluster": 7,
+        "cluster_name": "Univ British Columbia｜Canada / Univ Wisconsin｜United States / Univ Wyoming｜United States",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 4.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "Univ Colorado｜United States\n文献频次：6\n聚类：7\n总连接强度：4"
+      },
+      {
+        "id": 99,
+        "label": "哈根大学｜德国",
+        "x": -0.3472387792419449,
+        "y": 0.5475810571953648,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.8333333333333
+        },
+        "description": "Univ Hagen｜Germany\n文献频次：6\n聚类：3\n总连接强度：1"
+      },
+      {
+        "id": 100,
+        "label": "洛桑大学｜瑞士",
+        "x": -0.005983579521629698,
+        "y": 0.10108118514851572,
+        "cluster": 3,
+        "cluster_name": "Univ Oxford｜United Kingdom / CESIfo｜Germany / CEPR｜United Kingdom",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 8.0,
+          "Total Link Strength": 9.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.1666666666667
+        },
+        "description": "Univ Lausanne｜Switzerland\n文献频次：6\n聚类：3\n总连接强度：9"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 1,
+        "target_id": 2,
+        "strength": 23.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 1,
+        "strength": 15.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 9,
+        "strength": 12.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 1,
+        "strength": 10.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 17,
+        "strength": 10.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 22,
+        "strength": 10.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 1,
+        "strength": 9.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 15,
+        "strength": 9.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 6,
+        "strength": 8.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 10,
+        "strength": 8.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 1,
+        "strength": 7.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 3,
+        "strength": 7.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 16,
+        "strength": 7.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 43,
+        "strength": 7.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 30,
+        "strength": 7.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 21,
+        "strength": 7.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 11,
+        "strength": 6.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 4,
+        "strength": 6.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 1,
+        "strength": 6.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 69,
+        "strength": 6.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 4,
+        "strength": 6.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 32,
+        "strength": 6.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 30,
+        "strength": 6.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 3,
+        "strength": 5.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 1,
+        "strength": 5.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 2,
+        "strength": 5.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 37,
+        "strength": 5.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 7,
+        "strength": 5.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 18,
+        "strength": 5.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 24,
+        "strength": 5.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 6,
+        "strength": 4.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 66,
+        "strength": 4.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 1,
+        "strength": 4.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 15,
+        "strength": 4.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 4,
+        "strength": 4.0
+      },
+      {
+        "source_id": 62,
+        "target_id": 6,
+        "strength": 4.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 15,
+        "strength": 4.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 7,
+        "strength": 4.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 19,
+        "strength": 4.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 57,
+        "strength": 4.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 38,
+        "strength": 4.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 12,
+        "strength": 4.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 2,
+        "strength": 4.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 69,
+        "strength": 4.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 23,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 24,
+        "strength": 3.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 95,
+        "strength": 3.0
+      },
+      {
+        "source_id": 85,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 5,
+        "strength": 3.0
+      },
+      {
+        "source_id": 86,
+        "target_id": 61,
+        "strength": 3.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 1,
+        "strength": 3.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 6,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 22,
+        "strength": 3.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 61,
+        "strength": 3.0
+      },
+      {
+        "source_id": 88,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 56,
+        "strength": 3.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 76,
+        "strength": 3.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 48,
+        "strength": 3.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 95,
+        "strength": 3.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 10,
+        "strength": 3.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 9,
+        "strength": 3.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 61,
+        "strength": 3.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 24,
+        "strength": 3.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 7,
+        "strength": 3.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 21,
+        "strength": 3.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 17,
+        "strength": 3.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 22,
+        "strength": 3.0
+      },
+      {
+        "source_id": 82,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 18,
+        "strength": 2.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 22,
+        "strength": 2.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 13,
+        "strength": 2.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 77,
+        "strength": 2.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 62,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 28,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 23,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 96,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 68,
+        "strength": 2.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 49,
+        "strength": 2.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 47,
+        "strength": 2.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 54,
+        "strength": 2.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 87,
+        "strength": 2.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 48,
+        "strength": 2.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 7,
+        "strength": 2.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 14,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 12,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 19,
+        "strength": 2.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 9,
+        "strength": 2.0
+      },
+      {
+        "source_id": 86,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 86,
+        "target_id": 16,
+        "strength": 2.0
+      },
+      {
+        "source_id": 87,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 48,
+        "strength": 2.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 59,
+        "strength": 2.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 37,
+        "strength": 2.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 1,
+        "strength": 2.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 7,
+        "strength": 2.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 42,
+        "strength": 2.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 42,
+        "strength": 2.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 93,
+        "strength": 2.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 18,
+        "strength": 2.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 19,
+        "strength": 2.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 25,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 56,
+        "strength": 2.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 46,
+        "strength": 2.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 10,
+        "strength": 2.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 9,
+        "strength": 2.0
+      },
+      {
+        "source_id": 93,
+        "target_id": 17,
+        "strength": 2.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 45,
+        "strength": 2.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 21,
+        "strength": 2.0
+      },
+      {
+        "source_id": 94,
+        "target_id": 45,
+        "strength": 2.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 2,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 6,
+        "strength": 2.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 69,
+        "strength": 2.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 19,
+        "strength": 2.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 25,
+        "strength": 2.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 9,
+        "strength": 2.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 9,
+        "strength": 2.0
+      },
+      {
+        "source_id": 100,
+        "target_id": 60,
+        "strength": 2.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 61,
+        "strength": 2.0
+      },
+      {
+        "source_id": 47,
+        "target_id": 24,
+        "strength": 2.0
+      },
+      {
+        "source_id": 22,
+        "target_id": 9,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 83,
+        "target_id": 72,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 51,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 84,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 72,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 5,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 50,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 62,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 87,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 93,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 78,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 20,
+        "target_id": 61,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 13,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 72,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 73,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 39,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 94,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 78,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 99,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 100,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 35,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 73,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 26,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 8,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 93,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 26,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 95,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 96,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 79,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 81,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 78,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 40,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 51,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 85,
+        "target_id": 63,
+        "strength": 1.0
+      },
+      {
+        "source_id": 85,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 85,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 85,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 53,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 54,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 86,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 64,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 58,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 29,
+        "target_id": 61,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 52,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 53,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 94,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 39,
+        "target_id": 79,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 87,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 41,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 63,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 91,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 5,
+        "target_id": 71,
+        "strength": 1.0
+      },
+      {
+        "source_id": 86,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 86,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 86,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 62,
+        "target_id": 28,
+        "strength": 1.0
+      },
+      {
+        "source_id": 62,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 62,
+        "target_id": 98,
+        "strength": 1.0
+      },
+      {
+        "source_id": 62,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 74,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 100,
+        "strength": 1.0
+      },
+      {
+        "source_id": 54,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 87,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 87,
+        "target_id": 3,
+        "strength": 1.0
+      },
+      {
+        "source_id": 87,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 87,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 40,
+        "target_id": 81,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 41,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 76,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 63,
+        "target_id": 71,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 36,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 15,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 88,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 57,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 32,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 100,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 3,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 88,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 88,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 88,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 92,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 35,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 64,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 1,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 36,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 65,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 89,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 67,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 59,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 100,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 79,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 65,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 90,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 10,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 89,
+        "target_id": 91,
+        "strength": 1.0
+      },
+      {
+        "source_id": 89,
+        "target_id": 98,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 93,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 7,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 37,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 66,
+        "target_id": 23,
+        "strength": 1.0
+      },
+      {
+        "source_id": 90,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 90,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 90,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 91,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 91,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 91,
+        "target_id": 71,
+        "strength": 1.0
+      },
+      {
+        "source_id": 91,
+        "target_id": 81,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 55,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 43,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 30,
+        "strength": 1.0
+      },
+      {
+        "source_id": 92,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 55,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 56,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 93,
+        "target_id": 77,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 43,
+        "target_id": 61,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 75,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 56,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 94,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 80,
+        "strength": 1.0
+      },
+      {
+        "source_id": 74,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 78,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 79,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 4,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 97,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 95,
+        "target_id": 47,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 78,
+        "strength": 1.0
+      },
+      {
+        "source_id": 75,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 78,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 100,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 16,
+        "target_id": 60,
+        "strength": 1.0
+      },
+      {
+        "source_id": 30,
+        "target_id": 44,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 67,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 23,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 96,
+        "target_id": 80,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 44,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 97,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 57,
+        "target_id": 80,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 31,
+        "strength": 1.0
+      },
+      {
+        "source_id": 97,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 76,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 2,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 6,
+        "strength": 1.0
+      },
+      {
+        "source_id": 58,
+        "target_id": 71,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 77,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 45,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 38,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 98,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 69,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 48,
+        "strength": 1.0
+      },
+      {
+        "source_id": 2,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 21,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 98,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 46,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 79,
+        "strength": 1.0
+      },
+      {
+        "source_id": 7,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 79,
+        "strength": 1.0
+      },
+      {
+        "source_id": 21,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 17,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 81,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 59,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 77,
+        "target_id": 12,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 18,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 79,
+        "strength": 1.0
+      },
+      {
+        "source_id": 17,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 78,
+        "target_id": 68,
+        "strength": 1.0
+      },
+      {
+        "source_id": 68,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 100,
+        "target_id": 22,
+        "strength": 1.0
+      },
+      {
+        "source_id": 100,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 45,
+        "target_id": 80,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 18,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 19,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 9,
+        "strength": 1.0
+      },
+      {
+        "source_id": 46,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 25,
+        "strength": 1.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 49,
+        "strength": 1.0
+      },
+      {
+        "source_id": 79,
+        "target_id": 70,
+        "strength": 1.0
+      },
+      {
+        "source_id": 80,
+        "target_id": 24,
+        "strength": 1.0
+      },
+      {
+        "source_id": 24,
+        "target_id": 49,
+        "strength": 1.0
+      }
+    ]
+  },
+  "options": {
+    "scale": 1.5,
+    "network": {
+      "normalization": {
+        "method": "lin/log",
+        "attributes": [
+          "weights.NodeSize"
+        ]
+      }
+    },
+    "visualization": {
+      "scale": 2.0,
+      "nodes": {
+        "size": {
+          "variation": 0.35,
+          "min": 4,
+          "max": 24
+        }
+      },
+      "labels": {
+        "size": {
+          "variation": 0.5,
+          "min": 7,
+          "max": 14
+        },
+        "fontSize": 14,
+        "maximumLabelLength": 120
+      }
+    }
+  }
+}

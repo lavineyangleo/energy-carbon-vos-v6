@@ -1,0 +1,936 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "Geels, Frank W.｜曼彻斯特大学｜英国",
+        "x": -0.9044452339737808,
+        "y": -0.25448718993650055,
+        "cluster": 2,
+        "cluster_name": "Geels, Frank W. / Kivimaa, Paula / Rogge, Karoline S.",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.3333333333333
+        },
+        "description": "Geels, Frank W.\n文献频次：6\n聚类：2\n总连接强度：1"
+      },
+      {
+        "id": 2,
+        "label": "Hoppmann, Joern｜瑞士联邦理工学院｜瑞士",
+        "x": -0.32955074266264456,
+        "y": 0.662973285449902,
+        "cluster": 6,
+        "cluster_name": "Hoppmann, Joern / Hoffmann, Volker H.",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.0
+        },
+        "description": "Hoppmann, Joern\n文献频次：6\n聚类：6\n总连接强度：3"
+      },
+      {
+        "id": 3,
+        "label": "Secomandi, Nicola｜卡内基梅隆大学｜美国",
+        "x": 0.2891632413456745,
+        "y": -0.42330566893229893,
+        "cluster": 7,
+        "cluster_name": "Secomandi, Nicola / Nadarajah, Selvaprabu",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6666666666667
+        },
+        "description": "Secomandi, Nicola\n文献频次：6\n聚类：7\n总连接强度：2"
+      },
+      {
+        "id": 4,
+        "label": "York, Jeffrey G.｜科罗拉多大学｜美国",
+        "x": -0.5590638415594354,
+        "y": -0.6196917451494877,
+        "cluster": 1,
+        "cluster_name": "York, Jeffrey G. / Pacheco, Desiree F. / Drake, David F.",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 2.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.8333333333333
+        },
+        "description": "York, Jeffrey G.\n文献频次：6\n聚类：1\n总连接强度：4"
+      },
+      {
+        "id": 5,
+        "label": "Yucel, Safak｜乔治敦大学｜美国",
+        "x": -0.3571639442456602,
+        "y": -0.5371450596675741,
+        "cluster": 3,
+        "cluster_name": "Yucel, Safak / Plambeck, Erica L. / Toktay, L. Beril",
+        "weights": {
+          "Documents": 6.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3674234614174767
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6666666666667
+        },
+        "description": "Yucel, Safak\n文献频次：6\n聚类：3\n总连接强度：1"
+      },
+      {
+        "id": 6,
+        "label": "Hoffmann, Volker H.｜苏黎世联邦理工学院｜瑞士",
+        "x": -0.07569481705394887,
+        "y": 0.41295090249508,
+        "cluster": 6,
+        "cluster_name": "Hoppmann, Joern / Hoffmann, Volker H.",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.0
+        },
+        "description": "Hoffmann, Volker H.\n文献频次：5\n聚类：6\n总连接强度：3"
+      },
+      {
+        "id": 7,
+        "label": "Ketter, Wolfgang｜鹿特丹伊拉斯姆斯大学｜荷兰",
+        "x": -1.1769148696647085,
+        "y": 0.438109964043688,
+        "cluster": 5,
+        "cluster_name": "Ketter, Wolfgang / Collins, John / Gupta, Alok",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 6.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.8
+        },
+        "description": "Ketter, Wolfgang\n文献频次：5\n聚类：5\n总连接强度：6"
+      },
+      {
+        "id": 8,
+        "label": "Nadarajah, Selvaprabu｜伊利诺伊大学｜美国",
+        "x": 0.00867527167445828,
+        "y": -0.14705341916029244,
+        "cluster": 7,
+        "cluster_name": "Secomandi, Nicola / Nadarajah, Selvaprabu",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.6
+        },
+        "description": "Nadarajah, Selvaprabu\n文献频次：5\n聚类：7\n总连接强度：2"
+      },
+      {
+        "id": 9,
+        "label": "Pacheco, Desiree F.｜波特兰州立大学｜美国",
+        "x": -0.4980835954208482,
+        "y": -0.7583336461699033,
+        "cluster": 1,
+        "cluster_name": "York, Jeffrey G. / Pacheco, Desiree F. / Drake, David F.",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.6
+        },
+        "description": "Pacheco, Desiree F.\n文献频次：5\n聚类：1\n总连接强度：3"
+      },
+      {
+        "id": 10,
+        "label": "Plambeck, Erica L.｜斯坦福大学｜美国",
+        "x": -0.07946025363345102,
+        "y": -0.3989686584149532,
+        "cluster": 3,
+        "cluster_name": "Yucel, Safak / Plambeck, Erica L. / Toktay, L. Beril",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2015.6
+        },
+        "description": "Plambeck, Erica L.\n文献频次：5\n聚类：3\n总连接强度：1"
+      },
+      {
+        "id": 11,
+        "label": "Sunar, Nur｜北卡罗来纳大学教堂山分校｜美国",
+        "x": -0.9558824595722513,
+        "y": 0.17441214660641732,
+        "cluster": 4,
+        "cluster_name": "Sunar, Nur / Birge, John R. / Swaminathan, Jayashankar M.",
+        "weights": {
+          "Documents": 5.0,
+          "Links": 2.0,
+          "Total Link Strength": 4.0,
+          "NodeSize": 2.3354101966249683
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.0
+        },
+        "description": "Sunar, Nur\n文献频次：5\n聚类：4\n总连接强度：4"
+      },
+      {
+        "id": 12,
+        "label": "Birge, John R.｜芝加哥大学｜美国",
+        "x": -1.2284385054376867,
+        "y": 0.017222207884756424,
+        "cluster": 4,
+        "cluster_name": "Sunar, Nur / Birge, John R. / Swaminathan, Jayashankar M.",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.5
+        },
+        "description": "Birge, John R.\n文献频次：4\n聚类：4\n总连接强度：1"
+      },
+      {
+        "id": 13,
+        "label": "Drake, David F.｜科罗拉多大学｜美国",
+        "x": -0.6616385192120317,
+        "y": -0.3864826453699869,
+        "cluster": 1,
+        "cluster_name": "York, Jeffrey G. / Pacheco, Desiree F. / Drake, David F.",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.75
+        },
+        "description": "Drake, David F.\n文献频次：4\n聚类：1\n总连接强度：2"
+      },
+      {
+        "id": 14,
+        "label": "Kivimaa, Paula｜萨塞克斯大学｜英国",
+        "x": -1.2460607137236974,
+        "y": -0.5715634796011979,
+        "cluster": 2,
+        "cluster_name": "Geels, Frank W. / Kivimaa, Paula / Rogge, Karoline S.",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.75
+        },
+        "description": "Kivimaa, Paula\n文献频次：4\n聚类：2\n总连接强度：2"
+      },
+      {
+        "id": 15,
+        "label": "Markard, Jochen｜瑞士联邦理工学院｜瑞士",
+        "x": -0.24924077557173918,
+        "y": -0.04866916935922623,
+        "cluster": 8,
+        "cluster_name": "Markard, Jochen / Truffer, Bernhard",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.25
+        },
+        "description": "Markard, Jochen\n文献频次：4\n聚类：8\n总连接强度：3"
+      },
+      {
+        "id": 16,
+        "label": "Muthulingam, Suresh｜宾夕法尼亚州立大学｜美国",
+        "x": -0.7534342476715865,
+        "y": -0.17778007191262402,
+        "cluster": 1,
+        "cluster_name": "York, Jeffrey G. / Pacheco, Desiree F. / Drake, David F.",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "Muthulingam, Suresh\n文献频次：4\n聚类：1\n总连接强度：1"
+      },
+      {
+        "id": 17,
+        "label": "Pan, Kai｜香港理工大学｜中国",
+        "x": -0.6635716974109284,
+        "y": 0.662973285449902,
+        "cluster": 9,
+        "cluster_name": "Pan, Kai / Guan, Yongpei",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.25
+        },
+        "description": "Pan, Kai\n文献频次：4\n聚类：9\n总连接强度：3"
+      },
+      {
+        "id": 18,
+        "label": "Powell, Warren B.｜普林斯顿大学｜美国",
+        "x": 0.8518854501195475,
+        "y": -0.6381923290173609,
+        "cluster": 12,
+        "cluster_name": "Powell, Warren B.",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2014.75
+        },
+        "description": "Powell, Warren B.\n文献频次：4\n聚类：12\n总连接强度：0"
+      },
+      {
+        "id": 19,
+        "label": "Rogge, Karoline S.｜萨塞克斯大学｜英国",
+        "x": -1.090967337828055,
+        "y": -0.6816265281460268,
+        "cluster": 2,
+        "cluster_name": "Geels, Frank W. / Kivimaa, Paula / Rogge, Karoline S.",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.75
+        },
+        "description": "Rogge, Karoline S.\n文献频次：4\n聚类：2\n总连接强度：2"
+      },
+      {
+        "id": 20,
+        "label": "Swaminathan, Jayashankar M.｜北卡罗来纳大学凯南－弗拉格勒商学院｜美国",
+        "x": -0.7752157065430356,
+        "y": 0.27860721499145263,
+        "cluster": 4,
+        "cluster_name": "Sunar, Nur / Birge, John R. / Swaminathan, Jayashankar M.",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.75
+        },
+        "description": "Swaminathan, Jayashankar M.\n文献频次：4\n聚类：4\n总连接强度：3"
+      },
+      {
+        "id": 21,
+        "label": "Truffer, Bernhard｜瑞士联邦水科学与技术研究所｜瑞士",
+        "x": -0.49002573889313805,
+        "y": 0.1884796392216807,
+        "cluster": 8,
+        "cluster_name": "Markard, Jochen / Truffer, Bernhard",
+        "weights": {
+          "Documents": 4.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.3
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2012.75
+        },
+        "description": "Truffer, Bernhard\n文献频次：4\n聚类：8\n总连接强度：3"
+      },
+      {
+        "id": 22,
+        "label": "Ahmed, Shabbir｜佐治亚理工学院｜美国",
+        "x": 1.1506284833731826,
+        "y": -0.6381923290173609,
+        "cluster": 13,
+        "cluster_name": "Ahmed, Shabbir",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6666666666667
+        },
+        "description": "Ahmed, Shabbir\n文献频次：3\n聚类：13\n总连接强度：0"
+      },
+      {
+        "id": 23,
+        "label": "Anadon, Laura Diaz｜剑桥大学｜英国",
+        "x": 0.8518854501195475,
+        "y": -0.21457698705208264,
+        "cluster": 14,
+        "cluster_name": "Anadon, Laura Diaz",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6666666666667
+        },
+        "description": "Anadon, Laura Diaz\n文献频次：3\n聚类：14\n总连接强度：0"
+      },
+      {
+        "id": 24,
+        "label": "Bichler, Martin｜慕尼黑工业大学｜德国",
+        "x": 1.1506284833731826,
+        "y": -0.21457698705208264,
+        "cluster": 15,
+        "cluster_name": "Bichler, Martin",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3333333333333
+        },
+        "description": "Bichler, Martin\n文献频次：3\n聚类：15\n总连接强度：0"
+      },
+      {
+        "id": 25,
+        "label": "Bunn, Derek W.｜伦敦商学院｜英国",
+        "x": 0.11278906445852904,
+        "y": 0.21042301294791738,
+        "cluster": 16,
+        "cluster_name": "Bunn, Derek W.",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.0
+        },
+        "description": "Bunn, Derek W.\n文献频次：3\n聚类：16\n总连接强度：0"
+      },
+      {
+        "id": 26,
+        "label": "Clarkson, Peter｜昆士兰大学｜澳大利亚",
+        "x": 0.40959179834389675,
+        "y": 0.21042301294791738,
+        "cluster": 17,
+        "cluster_name": "Clarkson, Peter",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "Clarkson, Peter\n文献频次：3\n聚类：17\n总连接强度：0"
+      },
+      {
+        "id": 27,
+        "label": "Collins, John｜明尼苏达大学｜美国",
+        "x": -0.8267393423160139,
+        "y": 0.5164952773611116,
+        "cluster": 5,
+        "cluster_name": "Ketter, Wolfgang / Collins, John / Gupta, Alok",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 2.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3333333333333
+        },
+        "description": "Collins, John\n文献频次：3\n聚类：5\n总连接强度：5"
+      },
+      {
+        "id": 28,
+        "label": "Costantini, Valeria｜罗马第三大学｜意大利",
+        "x": 0.22448947607810987,
+        "y": -0.6014789993803701,
+        "cluster": 10,
+        "cluster_name": "Costantini, Valeria / Mazzanti, Massimiliano",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.3333333333333
+        },
+        "description": "Costantini, Valeria\n文献频次：3\n聚类：10\n总连接强度：1"
+      },
+      {
+        "id": 29,
+        "label": "Dowell, Glen｜康奈尔大学｜美国",
+        "x": 0.11278906445852904,
+        "y": 0.6368076709826391,
+        "cluster": 18,
+        "cluster_name": "Dowell, Glen",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.6666666666667
+        },
+        "description": "Dowell, Glen\n文献频次：3\n聚类：18\n总连接强度：0"
+      },
+      {
+        "id": 30,
+        "label": "Gond, Jean-Pascal｜伦敦城市大学｜英国",
+        "x": 0.40959179834389675,
+        "y": 0.6368076709826391,
+        "cluster": 19,
+        "cluster_name": "Gond, Jean-Pascal",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "Gond, Jean-Pascal\n文献频次：3\n聚类：19\n总连接强度：0"
+      },
+      {
+        "id": 31,
+        "label": "Guan, Yongpei｜佛罗里达大学｜美国",
+        "x": -0.40971577180223273,
+        "y": 0.41295090249508,
+        "cluster": 9,
+        "cluster_name": "Pan, Kai / Guan, Yongpei",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2019.6666666666667
+        },
+        "description": "Guan, Yongpei\n文献频次：3\n聚类：9\n总连接强度：3"
+      },
+      {
+        "id": 32,
+        "label": "Gupta, Alok｜明尼苏达大学｜美国",
+        "x": -1.1297115528079045,
+        "y": 0.7938331769150484,
+        "cluster": 5,
+        "cluster_name": "Ketter, Wolfgang / Collins, John / Gupta, Alok",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 2.0,
+          "Total Link Strength": 5.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "Gupta, Alok\n文献频次：3\n聚类：5\n总连接强度：5"
+      },
+      {
+        "id": 33,
+        "label": "He, Long｜乔治华盛顿大学｜美国",
+        "x": 0.6582263593341169,
+        "y": -0.42330566893229893,
+        "cluster": 11,
+        "cluster_name": "He, Long / Qi, Wei",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2023.0
+        },
+        "description": "He, Long\n文献频次：3\n聚类：11\n总连接强度：2"
+      },
+      {
+        "id": 34,
+        "label": "Kern, Florian｜萨塞克斯大学｜英国",
+        "x": -1.04934628167581,
+        "y": -0.4586719091137986,
+        "cluster": 2,
+        "cluster_name": "Geels, Frank W. / Kivimaa, Paula / Rogge, Karoline S.",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 3.0,
+          "Total Link Strength": 3.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.0
+        },
+        "description": "Kern, Florian\n文献频次：3\n聚类：2\n总连接强度：3"
+      },
+      {
+        "id": 35,
+        "label": "Kim, Eun-Hee｜福特汉姆大学｜美国",
+        "x": 0.7434948739649354,
+        "y": 0.1677845471444452,
+        "cluster": 20,
+        "cluster_name": "Kim, Eun-Hee",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2021.0
+        },
+        "description": "Kim, Eun-Hee\n文献频次：3\n聚类：20\n总连接强度：0"
+      },
+      {
+        "id": 36,
+        "label": "Li, Bin｜休斯敦大学｜美国",
+        "x": 1.1144982913216452,
+        "y": 0.1677845471444452,
+        "cluster": 21,
+        "cluster_name": "Li, Bin",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.6666666666667
+        },
+        "description": "Li, Bin\n文献频次：3\n聚类：21\n总连接强度：0"
+      },
+      {
+        "id": 37,
+        "label": "Mazzanti, Massimiliano｜费拉拉大学｜意大利",
+        "x": 0.4424121549304654,
+        "y": -0.8161107726427778,
+        "cluster": 10,
+        "cluster_name": "Costantini, Valeria / Mazzanti, Massimiliano",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 1.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2013.3333333333333
+        },
+        "description": "Mazzanti, Massimiliano\n文献频次：3\n聚类：10\n总连接强度：1"
+      },
+      {
+        "id": 38,
+        "label": "Owens, Bradley P.｜杨百翰大学｜美国",
+        "x": 0.6816609710721505,
+        "y": 0.594169205179167,
+        "cluster": 22,
+        "cluster_name": "Owens, Bradley P.",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2017.6666666666667
+        },
+        "description": "Owens, Bradley P.\n文献频次：3\n聚类：22\n总连接强度：0"
+      },
+      {
+        "id": 39,
+        "label": "Pinkse, Jonatan｜格勒诺布尔管理学院｜法国",
+        "x": 1.0526643884288602,
+        "y": 0.4662538077687505,
+        "cluster": 23,
+        "cluster_name": "Pinkse, Jonatan",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2016.6666666666667
+        },
+        "description": "Pinkse, Jonatan\n文献频次：3\n聚类：23\n总连接强度：0"
+      },
+      {
+        "id": 40,
+        "label": "Qi, Wei｜麦吉尔大学｜加拿大",
+        "x": 0.3777383896629007,
+        "y": -0.14705341916029244,
+        "cluster": 11,
+        "cluster_name": "He, Long / Qi, Wei",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 1.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2022.3333333333333
+        },
+        "description": "Qi, Wei\n文献频次：3\n聚类：11\n总连接强度：2"
+      },
+      {
+        "id": 41,
+        "label": "Schmidt, Tobias S.｜瑞士联邦理工学院｜瑞士",
+        "x": 1.0526643884288602,
+        "y": 0.7220846025895836,
+        "cluster": 24,
+        "cluster_name": "Schmidt, Tobias S.",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 0.0,
+          "Total Link Strength": 0.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2020.3333333333333
+        },
+        "description": "Schmidt, Tobias S.\n文献频次：3\n聚类：24\n总连接强度：0"
+      },
+      {
+        "id": 42,
+        "label": "Toktay, L. Beril｜佐治亚理工学院｜美国",
+        "x": -0.21831287890220075,
+        "y": -0.46805724712552416,
+        "cluster": 3,
+        "cluster_name": "Yucel, Safak / Plambeck, Erica L. / Toktay, L. Beril",
+        "weights": {
+          "Documents": 3.0,
+          "Links": 2.0,
+          "Total Link Strength": 2.0,
+          "NodeSize": 2.2598076211353315
+        },
+        "scores": {
+          "springrank": 0.0,
+          "Avg. pub. year": 2018.6666666666667
+        },
+        "description": "Toktay, L. Beril\n文献频次：3\n聚类：3\n总连接强度：2"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 27,
+        "target_id": 7,
+        "strength": 3.0
+      },
+      {
+        "source_id": 31,
+        "target_id": 17,
+        "strength": 3.0
+      },
+      {
+        "source_id": 32,
+        "target_id": 7,
+        "strength": 3.0
+      },
+      {
+        "source_id": 6,
+        "target_id": 2,
+        "strength": 3.0
+      },
+      {
+        "source_id": 15,
+        "target_id": 21,
+        "strength": 3.0
+      },
+      {
+        "source_id": 9,
+        "target_id": 4,
+        "strength": 3.0
+      },
+      {
+        "source_id": 11,
+        "target_id": 20,
+        "strength": 3.0
+      },
+      {
+        "source_id": 27,
+        "target_id": 32,
+        "strength": 2.0
+      },
+      {
+        "source_id": 33,
+        "target_id": 40,
+        "strength": 2.0
+      },
+      {
+        "source_id": 8,
+        "target_id": 3,
+        "strength": 2.0
+      },
+      {
+        "source_id": 12,
+        "target_id": 11,
+        "strength": 1.0
+      },
+      {
+        "source_id": 28,
+        "target_id": 37,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 16,
+        "strength": 1.0
+      },
+      {
+        "source_id": 13,
+        "target_id": 4,
+        "strength": 1.0
+      },
+      {
+        "source_id": 1,
+        "target_id": 34,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 14,
+        "strength": 1.0
+      },
+      {
+        "source_id": 34,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 14,
+        "target_id": 19,
+        "strength": 1.0
+      },
+      {
+        "source_id": 10,
+        "target_id": 42,
+        "strength": 1.0
+      },
+      {
+        "source_id": 42,
+        "target_id": 5,
+        "strength": 1.0
+      }
+    ]
+  },
+  "options": {
+    "scale": 1.5,
+    "network": {
+      "normalization": {
+        "method": "lin/log",
+        "attributes": [
+          "weights.NodeSize"
+        ]
+      }
+    },
+    "visualization": {
+      "scale": 2.0,
+      "nodes": {
+        "size": {
+          "variation": 0.35,
+          "min": 4,
+          "max": 24
+        }
+      },
+      "labels": {
+        "size": {
+          "variation": 0.5,
+          "min": 7,
+          "max": 14
+        },
+        "fontSize": 14,
+        "maximumLabelLength": 120
+      }
+    }
+  }
+}

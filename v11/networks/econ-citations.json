@@ -1,0 +1,3338 @@
+{
+  "network": {
+    "items": [
+      {
+        "id": 1,
+        "label": "Wolfram (2012)",
+        "x": 0.4209862603163684,
+        "y": 0.5913579301902349,
+        "cluster": 4,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "How Will Energy Demand Develop in the Developing World?\n经济学期刊\nDOI: 10.1257/jep.26.1.119\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 2,
+        "label": "Gerarden (2017)",
+        "x": -0.051288891221328015,
+        "y": 0.2795057587353748,
+        "cluster": 1,
+        "weights": {
+          "Documents": 18,
+          "NodeSize": 6.242640687119285,
+          "Links": 16,
+          "Total Link Strength": 16
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Assessing the Energy-Efficiency Gap\n经济学期刊\nDOI: 10.1257/jel.20161360\n本网络全部边中被引: 18"
+      },
+      {
+        "id": 3,
+        "label": "Jessoe (2014)",
+        "x": 0.04391864502624821,
+        "y": 0.4103260696757045,
+        "cluster": 1,
+        "weights": {
+          "Documents": 41,
+          "NodeSize": 8.403124237432849,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Knowledge is (Less) Power: Experimental Evidence from Residential Energy Use\n经济学期刊\nDOI: 10.1257/aer.104.4.1417\n本网络全部边中被引: 41"
+      },
+      {
+        "id": 4,
+        "label": "Cruz (2024)",
+        "x": 0.6086474243557056,
+        "y": 0.06615410753702915,
+        "cluster": 2,
+        "weights": {
+          "Documents": 4,
+          "NodeSize": 4.0,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "The Economic Geography of Global Warming\n经济学期刊\nDOI: 10.1093/restud/rdad042\n本网络全部边中被引: 4"
+      },
+      {
+        "id": 5,
+        "label": "Reguant (2019)",
+        "x": 0.08157517211115614,
+        "y": 0.10552121279347815,
+        "cluster": 1,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "The Efficiency and Sectoral Distributional Impacts of Large-Scale Renewable Energy Policies\n经济学期刊\nDOI: 10.1086/701190\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 6,
+        "label": "Goulder (2000)",
+        "x": 0.4503793110659596,
+        "y": -0.17304637118778862,
+        "cluster": 2,
+        "weights": {
+          "Documents": 26,
+          "NodeSize": 7.0990195135927845,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2000
+        },
+        "description": "Optimal CO2 abatement in the presence of induced technological change\n经济学期刊\nDOI: 10.1006/jeem.1999.1089\n本网络全部边中被引: 26"
+      },
+      {
+        "id": 7,
+        "label": "Allcott (2014)",
+        "x": -0.16149607863947305,
+        "y": 0.2443468160665567,
+        "cluster": 1,
+        "weights": {
+          "Documents": 30,
+          "NodeSize": 7.477225575051661,
+          "Links": 14,
+          "Total Link Strength": 14
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Energy policy with externalities and internalities\n经济学期刊\nDOI: 10.1016/j.jpubeco.2014.01.004\n本网络全部边中被引: 30"
+      },
+      {
+        "id": 8,
+        "label": "Fowlie (2015)",
+        "x": 0.17673119292278522,
+        "y": 0.5218778377454738,
+        "cluster": 4,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Are the Non-Monetary Costs of Energy Efficiency Investments Large? Understanding Low Take-up of a Free Energy Efficiency Program\n经济学期刊\nDOI: 10.1257/aer.p20151011\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 9,
+        "label": "Babiker (2005)",
+        "x": 0.07044946380407317,
+        "y": -0.5549102190501946,
+        "cluster": 3,
+        "weights": {
+          "Documents": 23,
+          "NodeSize": 6.795831523312719,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2005
+        },
+        "description": "Climate change policy, market structure, and carbon leakage\n经济学期刊\nDOI: 10.1016/j.jinteco.2004.01.003\n本网络全部边中被引: 23"
+      },
+      {
+        "id": 10,
+        "label": "Borenstein (2012)",
+        "x": -0.13943075116633982,
+        "y": -0.12535087467422157,
+        "cluster": 3,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "The Private and Public Economics of Renewable Electricity Generation\n经济学期刊\nDOI: 10.1257/jep.26.1.67\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 11,
+        "label": "Rapson (2014)",
+        "x": -0.2352113909012695,
+        "y": 0.49452031149844916,
+        "cluster": 1,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Durable goods and long-run electricity demand: Evidence from air conditioner purchase behavior\n经济学期刊\nDOI: 10.1016/j.jeem.2014.04.003\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 12,
+        "label": "Fowlie (2016)",
+        "x": -0.11053879018481841,
+        "y": -0.27637850053814644,
+        "cluster": 3,
+        "weights": {
+          "Documents": 27,
+          "NodeSize": 7.196152422706632,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Market-Based Emissions Regulation and Industry Dynamics\n经济学期刊\nDOI: 10.1086/684484\n本网络全部边中被引: 27"
+      },
+      {
+        "id": 13,
+        "label": "Dietz (2021)",
+        "x": 0.8364385275226915,
+        "y": -0.009799666189381951,
+        "cluster": 2,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Are Economists Getting Climate Dynamics Right and Does It Matter?\n经济学期刊\nDOI: 10.1086/713977\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 14,
+        "label": "Ilhan (2021)",
+        "x": 0.292921338408919,
+        "y": -0.4042227481565124,
+        "cluster": 3,
+        "weights": {
+          "Documents": 17,
+          "NodeSize": 6.123105625617661,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Carbon Tail Risk\n经济学期刊\nDOI: 10.1093/rfs/hhaa071\n本网络全部边中被引: 17"
+      },
+      {
+        "id": 15,
+        "label": "Wichman (2017)",
+        "x": -0.27577490032732754,
+        "y": 0.45513184287495695,
+        "cluster": 1,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Information provision and consumer behavior: A natural experiment in billing frequency\n经济学期刊\nDOI: 10.1016/j.jpubeco.2017.05.004\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 16,
+        "label": "Anderson (2013)",
+        "x": -0.3155050618369342,
+        "y": 0.15827008712590976,
+        "cluster": 1,
+        "weights": {
+          "Documents": 20,
+          "NodeSize": 6.47213595499958,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "What do consumers believe about future gasoline prices?\n经济学期刊\nDOI: 10.1016/j.jeem.2013.07.002\n本网络全部边中被引: 20"
+      },
+      {
+        "id": 17,
+        "label": "Callaway (2018)",
+        "x": -0.04750299962810992,
+        "y": 0.8,
+        "cluster": 4,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Location, Location, Location: The Variable Value of Renewable Energy and Demand-Side Efficiency Resources\n经济学期刊\nDOI: 10.1086/694179\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 18,
+        "label": "Davis (2016)",
+        "x": -0.28280255446468316,
+        "y": 0.41140437073980873,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Does Better Information Lead to Better Choices? Evidence from Energy-Efficiency Labels\n经济学期刊\nDOI: 10.1086/686252\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 19,
+        "label": "Acemoglu (2012)",
+        "x": 0.4145206440761215,
+        "y": -0.04498609394332623,
+        "cluster": 2,
+        "weights": {
+          "Documents": 66,
+          "NodeSize": 10.12403840463596,
+          "Links": 15,
+          "Total Link Strength": 15
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "The Environment and Directed Technical Change\n经济学期刊\nDOI: 10.1257/aer.102.1.131\n本网络全部边中被引: 66"
+      },
+      {
+        "id": 20,
+        "label": "Campiglio (2024)",
+        "x": 0.668921354766698,
+        "y": -0.17388166097391358,
+        "cluster": 2,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "Clean innovation, heterogeneous financing costs, and the optimal climate policy mix\n经济学期刊\nDOI: 10.1016/j.jeem.2024.103071\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 21,
+        "label": "Harstad (2012)",
+        "x": 0.19340561114798616,
+        "y": -0.5194330103128554,
+        "cluster": 3,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "Buy Coal! A Case for Supply-Side Environmental Policy\n经济学期刊\nDOI: 10.1086/665405\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 22,
+        "label": "Gowrisankaran (2016)",
+        "x": -0.6904384951038036,
+        "y": 0.2600845850103494,
+        "cluster": 5,
+        "weights": {
+          "Documents": 16,
+          "NodeSize": 6.0,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Intermittency and the Value of Renewable Energy\n经济学期刊\nDOI: 10.1086/686733\n本网络全部边中被引: 16"
+      },
+      {
+        "id": 23,
+        "label": "Drupp (2025)",
+        "x": -0.45040539616918934,
+        "y": -0.1359013730264513,
+        "cluster": 5,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2025
+        },
+        "description": "The Economics of Inequality and the Environments\n经济学期刊\nDOI: 10.1257/jel.20241696\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 24,
+        "label": "Knittel (2016)",
+        "x": 0.7005406081275009,
+        "y": 0.518925697579334,
+        "cluster": 4,
+        "weights": {
+          "Documents": 12,
+          "NodeSize": 5.464101615137754,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Caution, Drivers! Children Present: Traffic, Pollution, and Infant Health\n经济学期刊\nDOI: 10.1162/rest_a_00548\n本网络全部边中被引: 12"
+      },
+      {
+        "id": 25,
+        "label": "Barreca (2016)",
+        "x": 0.6009720501595596,
+        "y": 0.3211485409840711,
+        "cluster": 4,
+        "weights": {
+          "Documents": 21,
+          "NodeSize": 6.58257569495584,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Adapting to Climate Change: The Remarkable Decline in the US Temperature-Mortality Relationship over the Twentieth Century\n经济学期刊\nDOI: 10.1086/684582\n本网络全部边中被引: 21"
+      },
+      {
+        "id": 26,
+        "label": "Jacobsen (2015)",
+        "x": -0.09981951601542784,
+        "y": 0.22358921656870268,
+        "cluster": 1,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Do energy prices influence investment in energy efficiency? Evidence from energy star appliances\n经济学期刊\nDOI: 10.1016/j.jeem.2015.09.004\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 27,
+        "label": "Allcott (2011)",
+        "x": -0.08142912486692609,
+        "y": 0.35847653504401805,
+        "cluster": 1,
+        "weights": {
+          "Documents": 57,
+          "NodeSize": 9.54983443527075,
+          "Links": 15,
+          "Total Link Strength": 15
+        },
+        "scores": {
+          "Avg. pub. year": 2011
+        },
+        "description": "Social norms and energy conservation\n经济学期刊\nDOI: 10.1016/j.jpubeco.2011.03.003\n本网络全部边中被引: 57"
+      },
+      {
+        "id": 28,
+        "label": "van den Bijgaart (2016)",
+        "x": 0.8063413894660872,
+        "y": -0.23754432080142532,
+        "cluster": 2,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "A simple formula for the social cost of carbon\n经济学期刊\nDOI: 10.1016/j.jeem.2016.01.005\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 29,
+        "label": "Hahn (2021)",
+        "x": 0.24035792097512365,
+        "y": 0.3104172858680042,
+        "cluster": 1,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Efficiency and Equity Impacts of Energy Subsidies\n经济学期刊\nDOI: 10.1257/aer.20180441\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 30,
+        "label": "Ito (2014)",
+        "x": 0.013539391216069908,
+        "y": 0.33321175773339295,
+        "cluster": 1,
+        "weights": {
+          "Documents": 43,
+          "NodeSize": 8.557438524302,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Do Consumers Respond to Marginal or Average Price? Evidence from Nonlinear Electricity Pricing\n经济学期刊\nDOI: 10.1257/aer.104.2.537\n本网络全部边中被引: 43"
+      },
+      {
+        "id": 31,
+        "label": "Linn (2008)",
+        "x": 0.05155109060106905,
+        "y": -0.024768475562899128,
+        "cluster": 2,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2008
+        },
+        "description": "ENERGY PRICES AND THE ADOPTION OF ENERGY-SAVING TECHNOLOGY\n经济学期刊\nDOI: 10.1111/j.1468-0297.2008.02199.x\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 32,
+        "label": "Kahn (2013)",
+        "x": -0.40981125282990943,
+        "y": -0.4357640295213758,
+        "cluster": 5,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "Do local energy prices and regulation affect the geographic concentration of employment?\n经济学期刊\nDOI: 10.1016/j.jpubeco.2013.03.002\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 33,
+        "label": "Golosov (2014)",
+        "x": 0.5438628963438282,
+        "y": -0.0850235190528932,
+        "cluster": 2,
+        "weights": {
+          "Documents": 70,
+          "NodeSize": 10.366600265340756,
+          "Links": 13,
+          "Total Link Strength": 13
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "OPTIMAL TAXES ON FOSSIL FUEL IN GENERAL EQUILIBRIUM\n经济学期刊\nDOI: 10.3982/ecta10217\n本网络全部边中被引: 70"
+      },
+      {
+        "id": 34,
+        "label": "Dell (2014)",
+        "x": 0.4818394699663513,
+        "y": 0.19000894236073443,
+        "cluster": 2,
+        "weights": {
+          "Documents": 16,
+          "NodeSize": 6.0,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "What Do We Learn from the Weather? The New Climate-Economy Literature\n经济学期刊\nDOI: 10.1257/jel.52.3.740\n本网络全部边中被引: 16"
+      },
+      {
+        "id": 35,
+        "label": "Fischer (2012)",
+        "x": -0.030515307636731204,
+        "y": -0.567816606051972,
+        "cluster": 3,
+        "weights": {
+          "Documents": 19,
+          "NodeSize": 6.358898943540674,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "Comparing policies to combat emissions leakage: Border carbon adjustments versus rebates\n经济学期刊\nDOI: 10.1016/j.jeem.2012.01.005\n本网络全部边中被引: 19"
+      },
+      {
+        "id": 36,
+        "label": "Fischer (2008)",
+        "x": 0.20926409953243935,
+        "y": -0.032142314936764005,
+        "cluster": 2,
+        "weights": {
+          "Documents": 33,
+          "NodeSize": 7.744562646538029,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2008
+        },
+        "description": "Environmental and technology policies for climate mitigation\n经济学期刊\nDOI: 10.1016/j.jeem.2007.11.001\n本网络全部边中被引: 33"
+      },
+      {
+        "id": 37,
+        "label": "Kahn (2014)",
+        "x": 0.0801087319670044,
+        "y": 0.2987042847855017,
+        "cluster": 4,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Carbon emissions from the commercial building sector: The role of climate, quality, and incentives\n经济学期刊\nDOI: 10.1016/j.jpubeco.2014.03.003\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 38,
+        "label": "Elliott (2010)",
+        "x": 0.18272531098626985,
+        "y": -0.348937836274877,
+        "cluster": 3,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2010
+        },
+        "description": "Trade and Carbon Taxes\n经济学期刊\nDOI: 10.1257/aer.100.2.465\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 39,
+        "label": "Fontagne (2023)",
+        "x": 0.33178384463660243,
+        "y": -0.46855805217073226,
+        "cluster": 3,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "The Economics of Border Carbon Adjustment: Rationale and Impacts of Compensating for Carbon at the Border\n经济学期刊\nDOI: 10.1146/annurev-economics-082322-034040\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 40,
+        "label": "Costa (2013)",
+        "x": -0.14460363211574406,
+        "y": 0.5185653344234958,
+        "cluster": 1,
+        "weights": {
+          "Documents": 30,
+          "NodeSize": 7.477225575051661,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "ENERGY CONSERVATION NUDGES AND ENVIRONMENTALIST IDEOLOGY: EVIDENCE FROM A RANDOMIZED RESIDENTIAL ELECTRICITY FIELD EXPERIMENT\n经济学期刊\nDOI: 10.1111/jeea.12011\n本网络全部边中被引: 30"
+      },
+      {
+        "id": 41,
+        "label": "Allcott (2014)",
+        "x": 0.05868003176851345,
+        "y": 0.4483960479759306,
+        "cluster": 1,
+        "weights": {
+          "Documents": 38,
+          "NodeSize": 8.164414002968975,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "The Short-Run and Long-Run Effects of Behavioral Interventions: Experimental Evidence from Energy Conservation\n经济学期刊\nDOI: 10.1257/aer.104.10.3003\n本网络全部边中被引: 38"
+      },
+      {
+        "id": 42,
+        "label": "Allcott (2015)",
+        "x": -0.04342930864870179,
+        "y": 0.42933327054263515,
+        "cluster": 1,
+        "weights": {
+          "Documents": 25,
+          "NodeSize": 7.0,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Evaluating Behaviorally Motivated Policy: Experimental Evidence from the Lightbulb Market\n经济学期刊\nDOI: 10.1257/aer.20131564\n本网络全部边中被引: 25"
+      },
+      {
+        "id": 43,
+        "label": "Allcott (2014)",
+        "x": -0.24294571562598158,
+        "y": 0.2925114049773537,
+        "cluster": 1,
+        "weights": {
+          "Documents": 27,
+          "NodeSize": 7.196152422706632,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "GASOLINE PRICES, FUEL ECONOMY, AND THE ENERGY PARADOX\n经济学期刊\nDOI: 10.1162/rest_a_00419\n本网络全部边中被引: 27"
+      },
+      {
+        "id": 44,
+        "label": "Preonas (2023)",
+        "x": -0.4086740180152812,
+        "y": -0.07043228923993201,
+        "cluster": 5,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "Market Power in Coal Shipping and Implications for US Climate Policy\n经济学期刊\nDOI: 10.1093/restud/rdad090\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 45,
+        "label": "Allcott (2012)",
+        "x": 0.03435409829239043,
+        "y": 0.24908571603808805,
+        "cluster": 4,
+        "weights": {
+          "Documents": 57,
+          "NodeSize": 9.54983443527075,
+          "Links": 16,
+          "Total Link Strength": 16
+        },
+        "scores": {
+          "Avg. pub. year": 2012
+        },
+        "description": "Is There an Energy Efficiency Gap?\n经济学期刊\nDOI: 10.1257/jep.26.1.3\n本网络全部边中被引: 57"
+      },
+      {
+        "id": 46,
+        "label": "Acemoglu (2016)",
+        "x": 0.3676464255469803,
+        "y": -0.034963511195013536,
+        "cluster": 2,
+        "weights": {
+          "Documents": 31,
+          "NodeSize": 7.5677643628300215,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Transition to Clean Technology\n经济学期刊\nDOI: 10.1086/684511\n本网络全部边中被引: 31"
+      },
+      {
+        "id": 47,
+        "label": "Papageorgiou (2017)",
+        "x": 0.6808711244662842,
+        "y": -0.036910347720998486,
+        "cluster": 2,
+        "weights": {
+          "Documents": 21,
+          "NodeSize": 6.58257569495584,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Substitution between Clean and Dirty Energy Inputs: A Macroeconomic Perspective\n经济学期刊\nDOI: 10.1162/rest_a_00592\n本网络全部边中被引: 21"
+      },
+      {
+        "id": 48,
+        "label": "Leduc (2004)",
+        "x": -0.6486226325412977,
+        "y": -0.8,
+        "cluster": 5,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2004
+        },
+        "description": "A quantitative analysis of oil-price shocks, systematic monetary policy, and economic downturns\n经济学期刊\nDOI: 10.1016/j.jmoneco.2003.09.004\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 49,
+        "label": "Timilsina (2022)",
+        "x": -0.004261378971850258,
+        "y": -0.1522909523944593,
+        "cluster": 5,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Carbon Taxes\n经济学期刊\nDOI: 10.1257/jel.20211560\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 50,
+        "label": "He (2023)",
+        "x": 0.3279381888279351,
+        "y": 0.3978943540026682,
+        "cluster": 4,
+        "weights": {
+          "Documents": 1,
+          "NodeSize": 3.0,
+          "Links": 12,
+          "Total Link Strength": 12
+        },
+        "scores": {
+          "Avg. pub. year": 2023
+        },
+        "description": "Energy Saving May Kill: Evidence from the Fukushima Nuclear Accident\n经济学期刊\nDOI: 10.1257/app.20200505\n本网络全部边中被引: 1"
+      },
+      {
+        "id": 51,
+        "label": "Novan (2018)",
+        "x": -0.030800515564607795,
+        "y": 0.5565411096247467,
+        "cluster": 4,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "The Incentive to Overinvest in Energy Efficiency: Evidence from Hourly Smart-Meter Data\n经济学期刊\nDOI: 10.1086/697050\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 52,
+        "label": "Martin (2014)",
+        "x": 0.09144109067582364,
+        "y": -0.275193938218198,
+        "cluster": 3,
+        "weights": {
+          "Documents": 21,
+          "NodeSize": 6.58257569495584,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "Industry Compensation under Relocation Risk: A Firm-Level Analysis of the EU Emissions Trading Scheme\n经济学期刊\nDOI: 10.1257/aer.104.8.2482\n本网络全部边中被引: 21"
+      },
+      {
+        "id": 53,
+        "label": "Martin (2014)",
+        "x": -0.18969706121848967,
+        "y": -0.17230040320969775,
+        "cluster": 5,
+        "weights": {
+          "Documents": 26,
+          "NodeSize": 7.0990195135927845,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "The impact of a carbon tax on manufacturing: Evidence from microdata\n经济学期刊\nDOI: 10.1016/j.jpubeco.2014.04.016\n本网络全部边中被引: 26"
+      },
+      {
+        "id": 54,
+        "label": "Allcott (2019)",
+        "x": 0.10093444181176058,
+        "y": 0.548881449862264,
+        "cluster": 1,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "The Welfare Effects of Nudges: A Case Study of Energy Use Social Comparisons\n经济学期刊\nDOI: 10.1257/app.20170328\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 55,
+        "label": "Fowlie (2018)",
+        "x": 0.3071372459448483,
+        "y": 0.2912293037572518,
+        "cluster": 4,
+        "weights": {
+          "Documents": 33,
+          "NodeSize": 7.744562646538029,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "DO ENERGY EFFICIENCY INVESTMENTS DELIVER? EVIDENCE FROM THE WEATHERIZATION ASSISTANCE PROGRAM\n经济学期刊\nDOI: 10.1093/qje/qjy005\n本网络全部边中被引: 33"
+      },
+      {
+        "id": 56,
+        "label": "Popp (2004)",
+        "x": 0.45112958426489963,
+        "y": -0.0807405920780705,
+        "cluster": 2,
+        "weights": {
+          "Documents": 24,
+          "NodeSize": 6.898979485566356,
+          "Links": 13,
+          "Total Link Strength": 13
+        },
+        "scores": {
+          "Avg. pub. year": 2004
+        },
+        "description": "ENTICE: endogenous technological change in the DICE model of global warming\n经济学期刊\nDOI: 10.1016/j.jeem.2003.09.002\n本网络全部边中被引: 24"
+      },
+      {
+        "id": 57,
+        "label": "Goulder (2019)",
+        "x": -0.6583118552781244,
+        "y": -0.13048541415880419,
+        "cluster": 5,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Impacts of a carbon tax across US household income groups: What are the equity-efficiency trade-offs?\n经济学期刊\nDOI: 10.1016/j.jpubeco.2019.04.002\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 58,
+        "label": "Austin (2005)",
+        "x": -0.23399834512143614,
+        "y": 0.005741920688277178,
+        "cluster": 5,
+        "weights": {
+          "Documents": 17,
+          "NodeSize": 6.123105625617661,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2005
+        },
+        "description": "Clearing the air: The costs and consequences of higher CAFE standards and increased gasoline taxes\n经济学期刊\nDOI: 10.1016/j.jeem.2005.05.001\n本网络全部边中被引: 17"
+      },
+      {
+        "id": 59,
+        "label": "Ferraro (2013)",
+        "x": -0.1412557601533246,
+        "y": 0.602447426152342,
+        "cluster": 1,
+        "weights": {
+          "Documents": 31,
+          "NodeSize": 7.5677643628300215,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "USING NONPECUNIARY STRATEGIES TO INFLUENCE BEHAVIOR: EVIDENCE FROM A LARGE-SCALE FIELD EXPERIMENT\n经济学期刊\nDOI: 10.1162/rest_a_00344\n本网络全部边中被引: 31"
+      },
+      {
+        "id": 60,
+        "label": "Dietz (2019)",
+        "x": 0.85,
+        "y": -0.1383575404796455,
+        "cluster": 2,
+        "weights": {
+          "Documents": 22,
+          "NodeSize": 6.69041575982343,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Cumulative carbon emissions and economic policy: In search of general principles\n经济学期刊\nDOI: 10.1016/j.jeem.2019.04.003\n本网络全部边中被引: 22"
+      },
+      {
+        "id": 61,
+        "label": "Cai (2019)",
+        "x": 0.5605209697953868,
+        "y": 0.1915869282380654,
+        "cluster": 2,
+        "weights": {
+          "Documents": 19,
+          "NodeSize": 6.358898943540674,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "The Social Cost of Carbon with Economic and Climate Risks\n经济学期刊\nDOI: 10.1086/701890\n本网络全部边中被引: 19"
+      },
+      {
+        "id": 62,
+        "label": "Kilian (2008)",
+        "x": -0.5933770699451559,
+        "y": -0.5899038937975848,
+        "cluster": 5,
+        "weights": {
+          "Documents": 11,
+          "NodeSize": 5.3166247903554,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2008
+        },
+        "description": "The Economic Effects of Energy Price Shocks\n经济学期刊\nDOI: 10.1257/jel.46.4.871\n本网络全部边中被引: 11"
+      },
+      {
+        "id": 63,
+        "label": "Sallee (2016)",
+        "x": -0.4959952689943999,
+        "y": 0.2962974518199306,
+        "cluster": 1,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Do consumers recognize the value of fuel economy? Evidence from used car prices and gasoline price fluctuations\n经济学期刊\nDOI: 10.1016/j.jpubeco.2016.01.003\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 64,
+        "label": "Pizer (2002)",
+        "x": 0.18779582574648843,
+        "y": -0.2058397090890598,
+        "cluster": 2,
+        "weights": {
+          "Documents": 20,
+          "NodeSize": 6.47213595499958,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2002
+        },
+        "description": "Combining price and quantity controls to mitigate global climate change\n经济学期刊\nDOI: 10.1016/s0047-2727(01)00118-9\n本网络全部边中被引: 20"
+      },
+      {
+        "id": 65,
+        "label": "Perino (2025)",
+        "x": 0.051412409738100816,
+        "y": -0.36103902630827767,
+        "cluster": 3,
+        "weights": {
+          "Documents": 0,
+          "NodeSize": 2.0,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2025
+        },
+        "description": "Overlapping Climate Policies\n经济学期刊\nDOI: 10.1093/ej/ueaf021\n本网络全部边中被引: 0"
+      },
+      {
+        "id": 66,
+        "label": "Davis (2019)",
+        "x": -0.2763488904428642,
+        "y": -0.13265168648194642,
+        "cluster": 5,
+        "weights": {
+          "Documents": 9,
+          "NodeSize": 5.0,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Are Fuel Economy Standards Regressive?\n经济学期刊\nDOI: 10.1086/701187\n本网络全部边中被引: 9"
+      },
+      {
+        "id": 67,
+        "label": "Byrne (2018)",
+        "x": -0.2838979190287161,
+        "y": 0.5887034942542168,
+        "cluster": 1,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "Tell Me Something I Don't Already Know: Informedness and the Impact of Information Programs\n经济学期刊\nDOI: 10.1162/rest_a_00695\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 68,
+        "label": "Holladay (2017)",
+        "x": -0.3765703889279804,
+        "y": 0.17617167353506036,
+        "cluster": 5,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "The impact of cheap natural gas on marginal emissions from electricity generation and implications for energy policy\n经济学期刊\nDOI: 10.1016/j.jeem.2017.06.004\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 69,
+        "label": "Allcott (2011)",
+        "x": -0.3293159379757506,
+        "y": 0.3013761284343529,
+        "cluster": 1,
+        "weights": {
+          "Documents": 15,
+          "NodeSize": 5.872983346207417,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2011
+        },
+        "description": "Consumers' Perceptions and Misperceptions of Energy Costs\n经济学期刊\nDOI: 10.1257/aer.101.3.98\n本网络全部边中被引: 15"
+      },
+      {
+        "id": 70,
+        "label": "Martinsson (2024)",
+        "x": 0.1890068571356488,
+        "y": -0.14490850901190772,
+        "cluster": 3,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "The Effect of Carbon Pricing on Firm Emissions: Evidence from the Swedish CO2 Tax\n经济学期刊\nDOI: 10.1093/rfs/hhad097\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 71,
+        "label": "Dietz (2015)",
+        "x": 0.7130693158679784,
+        "y": 0.07582780516994314,
+        "cluster": 2,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "ENDOGENOUS GROWTH, CONVEXITY OF DAMAGE AND CLIMATE RISK: HOW NORDHAUS' FRAMEWORK SUPPORTS DEEP CUTS IN CARBON EMISSIONS\n经济学期刊\nDOI: 10.1111/ecoj.12188\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 72,
+        "label": "van der Ploeg (2021)",
+        "x": 0.6316449539252097,
+        "y": -0.12853408027893654,
+        "cluster": 2,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Optimal carbon pricing in general equilibrium: Temperature caps and stranded assets in an extended annual DSGE model*\n经济学期刊\nDOI: 10.1016/j.jeem.2021.102522\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 73,
+        "label": "Fowlie (2022)",
+        "x": -0.20499085249480337,
+        "y": -0.4650958707762109,
+        "cluster": 3,
+        "weights": {
+          "Documents": 3,
+          "NodeSize": 3.732050807568877,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Mitigating Emissions Leakage in Incomplete Carbon Markets\n经济学期刊\nDOI: 10.1086/716765\n本网络全部边中被引: 3"
+      },
+      {
+        "id": 74,
+        "label": "Popp (2002)",
+        "x": 0.2880703287002453,
+        "y": -0.1462252517835547,
+        "cluster": 2,
+        "weights": {
+          "Documents": 32,
+          "NodeSize": 7.656854249492381,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2002
+        },
+        "description": "Induced innovation and energy prices\n经济学期刊\nDOI: 10.1257/000282802760015658\n本网络全部边中被引: 32"
+      },
+      {
+        "id": 75,
+        "label": "Hemous (2016)",
+        "x": 0.4672131415897824,
+        "y": -0.2340830056637688,
+        "cluster": 2,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 10,
+          "Total Link Strength": 10
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "The dynamic impact of unilateral environmental policies\n经济学期刊\nDOI: 10.1016/j.jinteco.2016.09.001\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 76,
+        "label": "Deschenes (2011)",
+        "x": 0.4655268605138585,
+        "y": 0.34529497234128326,
+        "cluster": 4,
+        "weights": {
+          "Documents": 17,
+          "NodeSize": 6.123105625617661,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2011
+        },
+        "description": "Climate Change, Mortality, and Adaptation: Evidence from Annual Fluctuations in Weather in the US\n经济学期刊\nDOI: 10.1257/app.3.4.152\n本网络全部边中被引: 17"
+      },
+      {
+        "id": 77,
+        "label": "Boomhower (2014)",
+        "x": 0.2049258168812323,
+        "y": 0.3749793647610957,
+        "cluster": 4,
+        "weights": {
+          "Documents": 18,
+          "NodeSize": 6.242640687119285,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2014
+        },
+        "description": "A credible approach for measuring inframarginal participation in energy efficiency programs\n经济学期刊\nDOI: 10.1016/j.jpubeco.2014.03.009\n本网络全部边中被引: 18"
+      },
+      {
+        "id": 78,
+        "label": "Levinson (2009)",
+        "x": 0.42671814455938545,
+        "y": -0.3906334849394717,
+        "cluster": 3,
+        "weights": {
+          "Documents": 16,
+          "NodeSize": 6.0,
+          "Links": 2,
+          "Total Link Strength": 2
+        },
+        "scores": {
+          "Avg. pub. year": 2009
+        },
+        "description": "Technology, International Trade, and Pollution from US Manufacturing\n经济学期刊\nDOI: 10.1257/aer.99.5.2177\n本网络全部边中被引: 16"
+      },
+      {
+        "id": 79,
+        "label": "Brounen (2011)",
+        "x": -0.36515527078268645,
+        "y": 0.3576156831142935,
+        "cluster": 1,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2011
+        },
+        "description": "On the economics of energy labels in the housing market\n经济学期刊\nDOI: 10.1016/j.jeem.2010.11.006\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 80,
+        "label": "Ganapati (2020)",
+        "x": -0.23062430666821687,
+        "y": -0.2565069836637463,
+        "cluster": 5,
+        "weights": {
+          "Documents": 7,
+          "NodeSize": 4.645751311064591,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Energy Cost Pass-Through in US Manufacturing: Estimates and Implications for Carbon Taxes\n经济学期刊\nDOI: 10.1257/app.20180474\n本网络全部边中被引: 7"
+      },
+      {
+        "id": 81,
+        "label": "Gillingham (2018)",
+        "x": 0.21201531405503324,
+        "y": 0.0949492729497528,
+        "cluster": 2,
+        "weights": {
+          "Documents": 17,
+          "NodeSize": 6.123105625617661,
+          "Links": 9,
+          "Total Link Strength": 9
+        },
+        "scores": {
+          "Avg. pub. year": 2018
+        },
+        "description": "The Cost of Reducing Greenhouse Gas Emissions\n经济学期刊\nDOI: 10.1257/jep.32.4.53\n本网络全部边中被引: 17"
+      },
+      {
+        "id": 82,
+        "label": "Aichele (2015)",
+        "x": 0.33009539484612305,
+        "y": -0.5519712916732905,
+        "cluster": 3,
+        "weights": {
+          "Documents": 14,
+          "NodeSize": 5.741657386773941,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "KYOTO AND CARBON LEAKAGE: AN EMPIRICAL ANALYSIS OF THE CARBON CONTENT OF BILATERAL TRADE\n经济学期刊\nDOI: 10.1162/rest_a_00438\n本网络全部边中被引: 14"
+      },
+      {
+        "id": 83,
+        "label": "Levinson (2016)",
+        "x": 0.3505072503780022,
+        "y": 0.5083776081831063,
+        "cluster": 4,
+        "weights": {
+          "Documents": 20,
+          "NodeSize": 6.47213595499958,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "How Much Energy Do Building Energy Codes Save? Evidence from California Houses\n经济学期刊\nDOI: 10.1257/aer.20150102\n本网络全部边中被引: 20"
+      },
+      {
+        "id": 84,
+        "label": "Bolton (2021)",
+        "x": 0.1365494742830549,
+        "y": -0.4179665371053215,
+        "cluster": 3,
+        "weights": {
+          "Documents": 27,
+          "NodeSize": 7.196152422706632,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "Do investors care about carbon risk?\n经济学期刊\nDOI: 10.1016/j.jfineco.2021.05.008\n本网络全部边中被引: 27"
+      },
+      {
+        "id": 85,
+        "label": "Allcott (2015)",
+        "x": 0.05356693345401652,
+        "y": 0.6051400716909758,
+        "cluster": 1,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "SITE SELECTION BIAS IN PROGRAM EVALUATION\n经济学期刊\nDOI: 10.1093/qje/qjv015\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 86,
+        "label": "Brent (2019)",
+        "x": -0.17256127409907696,
+        "y": 0.4129948161933452,
+        "cluster": 1,
+        "weights": {
+          "Documents": 2,
+          "NodeSize": 3.414213562373095,
+          "Links": 11,
+          "Total Link Strength": 11
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Price perceptions in water demand\n经济学期刊\nDOI: 10.1016/j.jeem.2019.102266\n本网络全部边中被引: 2"
+      },
+      {
+        "id": 87,
+        "label": "Hamilton (2003)",
+        "x": -0.85,
+        "y": -0.6411837072517365,
+        "cluster": 5,
+        "weights": {
+          "Documents": 17,
+          "NodeSize": 6.123105625617661,
+          "Links": 1,
+          "Total Link Strength": 1
+        },
+        "scores": {
+          "Avg. pub. year": 2003
+        },
+        "description": "What is an oil shock?\n经济学期刊\nDOI: 10.1016/s0304-4076(02)00207-5\n本网络全部边中被引: 17"
+      },
+      {
+        "id": 88,
+        "label": "Burlig (2020)",
+        "x": 0.15820531414462638,
+        "y": 0.43073799739170027,
+        "cluster": 4,
+        "weights": {
+          "Documents": 6,
+          "NodeSize": 4.449489742783178,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "Machine Learning from Schools about Energy Efficiency\n经济学期刊\nDOI: 10.1086/710606\n本网络全部边中被引: 6"
+      },
+      {
+        "id": 89,
+        "label": "Berkouwer (2022)",
+        "x": 0.1224768582823254,
+        "y": 0.2254628901858621,
+        "cluster": 4,
+        "weights": {
+          "Documents": 5,
+          "NodeSize": 4.23606797749979,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2022
+        },
+        "description": "Credit, Attention, and Externalities in the Adoption of Energy Efficient Technologies by Low-Income Households\n经济学期刊\nDOI: 10.1257/aer.20210766\n本网络全部边中被引: 5"
+      },
+      {
+        "id": 90,
+        "label": "Davis (2020)",
+        "x": 0.25857344322886616,
+        "y": 0.4681496896262773,
+        "cluster": 4,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2020
+        },
+        "description": "How effective is energy-efficient housing? Evidence from a field trial in Mexico\n经济学期刊\nDOI: 10.1016/j.jdeveco.2019.102390\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 91,
+        "label": "Van den Bremer (2021)",
+        "x": 0.841654189380639,
+        "y": 0.20961652439504813,
+        "cluster": 2,
+        "weights": {
+          "Documents": 11,
+          "NodeSize": 5.3166247903554,
+          "Links": 3,
+          "Total Link Strength": 3
+        },
+        "scores": {
+          "Avg. pub. year": 2021
+        },
+        "description": "The Risk-Adjusted Carbon Price\n经济学期刊\nDOI: 10.1257/aer.20180517\n本网络全部边中被引: 11"
+      },
+      {
+        "id": 92,
+        "label": "Casey (2024)",
+        "x": 0.45951422774943484,
+        "y": 0.026269292123700966,
+        "cluster": 2,
+        "weights": {
+          "Documents": 1,
+          "NodeSize": 3.0,
+          "Links": 8,
+          "Total Link Strength": 8
+        },
+        "scores": {
+          "Avg. pub. year": 2024
+        },
+        "description": "Energy Efficiency and Directed Technical Change: Implications for Climate Change Mitigation\n经济学期刊\nDOI: 10.1093/restud/rdad001\n本网络全部边中被引: 1"
+      },
+      {
+        "id": 93,
+        "label": "Rivers (2015)",
+        "x": -0.14197143397057987,
+        "y": 0.059605748104772496,
+        "cluster": 5,
+        "weights": {
+          "Documents": 11,
+          "NodeSize": 5.3166247903554,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2015
+        },
+        "description": "Salience of carbon taxes in the gasoline market\n经济学期刊\nDOI: 10.1016/j.jeem.2015.07.002\n本网络全部边中被引: 11"
+      },
+      {
+        "id": 94,
+        "label": "Boehringer (2017)",
+        "x": -0.10748590671578293,
+        "y": -0.3838886024399031,
+        "cluster": 3,
+        "weights": {
+          "Documents": 8,
+          "NodeSize": 4.82842712474619,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2017
+        },
+        "description": "Robust policies to mitigate carbon leakage\n经济学期刊\nDOI: 10.1016/j.jpubeco.2017.03.006\n本网络全部边中被引: 8"
+      },
+      {
+        "id": 95,
+        "label": "van der Ploeg (2016)",
+        "x": 0.314354634933205,
+        "y": -0.2426246186515485,
+        "cluster": 3,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Second-best carbon taxation in the global economy: The Green Paradox and carbon leakage revisited\n经济学期刊\nDOI: 10.1016/j.jeem.2016.02.006\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 96,
+        "label": "Jacobsen (2013)",
+        "x": 0.12189909274984148,
+        "y": 0.49022953270309455,
+        "cluster": 4,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 6,
+          "Total Link Strength": 6
+        },
+        "scores": {
+          "Avg. pub. year": 2013
+        },
+        "description": "ARE BUILDING CODES EFFECTIVE AT SAVING ENERGY? EVIDENCE FROM RESIDENTIAL BILLING DATA IN FLORIDA\n经济学期刊\nDOI: 10.1162/rest_a_00243\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 97,
+        "label": "Calel (2016)",
+        "x": 0.5234761876925111,
+        "y": -0.27419158214790834,
+        "cluster": 2,
+        "weights": {
+          "Documents": 18,
+          "NodeSize": 6.242640687119285,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2016
+        },
+        "description": "Environmental Policy and Directed Technological Change: Evidence from the European Carbon Market\n经济学期刊\nDOI: 10.1162/rest_a_00470\n本网络全部边中被引: 18"
+      },
+      {
+        "id": 98,
+        "label": "Naegele (2019)",
+        "x": 0.3818904988261518,
+        "y": -0.334971655814176,
+        "cluster": 3,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 7,
+          "Total Link Strength": 7
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Does the EU ETS cause carbon leakage in European manufacturing?\n经济学期刊\nDOI: 10.1016/j.jeem.2018.11.004\n本网络全部边中被引: 13"
+      },
+      {
+        "id": 99,
+        "label": "Levinson (2019)",
+        "x": -0.13502282623859393,
+        "y": 0.009824830370503884,
+        "cluster": 5,
+        "weights": {
+          "Documents": 10,
+          "NodeSize": 5.16227766016838,
+          "Links": 5,
+          "Total Link Strength": 5
+        },
+        "scores": {
+          "Avg. pub. year": 2019
+        },
+        "description": "Energy Efficiency Standards Are More Regressive Than Energy Taxes: Theory and Evidence\n经济学期刊\nDOI: 10.1086/701186\n本网络全部边中被引: 10"
+      },
+      {
+        "id": 100,
+        "label": "Copeland (2005)",
+        "x": 0.5305181556481925,
+        "y": -0.4350237811319268,
+        "cluster": 3,
+        "weights": {
+          "Documents": 13,
+          "NodeSize": 5.60555127546399,
+          "Links": 4,
+          "Total Link Strength": 4
+        },
+        "scores": {
+          "Avg. pub. year": 2005
+        },
+        "description": "Free trade and global warming: a trade theory view of the Kyoto protocol\n经济学期刊\nDOI: 10.1016/j.jeem.2004.04.006\n本网络全部边中被引: 13"
+      }
+    ],
+    "links": [
+      {
+        "source_id": 1,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 1,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 8,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 16,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 27,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 40,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 43,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 30,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 41,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 42,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 7,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 3,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 2,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 27,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 30,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 59,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 11,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 15,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 26,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 29,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 42,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 3,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 25,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 46,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 34,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 13,
+        "strength": 1
+      },
+      {
+        "source_id": 4,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 30,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 10,
+        "strength": 1
+      },
+      {
+        "source_id": 5,
+        "target_id": 29,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 19,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 46,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 6,
+        "target_id": 64,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 43,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 58,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 30,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 15,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 37,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 42,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 7,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 8,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 21,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 35,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 39,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 9,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 10,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 30,
+        "strength": 1
+      },
+      {
+        "source_id": 11,
+        "target_id": 26,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 12,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 60,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 13,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 14,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 42,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 27,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 30,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 59,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 15,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 26,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 16,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 17,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 42,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 26,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 27,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 43,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 18,
+        "target_id": 41,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 64,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 36,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 20,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 34,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 19,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 60,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 46,
+        "strength": 1
+      },
+      {
+        "source_id": 20,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 21,
+        "target_id": 38,
+        "strength": 1
+      },
+      {
+        "source_id": 21,
+        "target_id": 39,
+        "strength": 1
+      },
+      {
+        "source_id": 21,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 21,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 22,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 44,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 57,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 23,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 24,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 25,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 31,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 37,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 43,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 30,
+        "strength": 1
+      },
+      {
+        "source_id": 26,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 29,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 37,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 40,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 41,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 59,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 27,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 33,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 60,
+        "strength": 1
+      },
+      {
+        "source_id": 28,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 61,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 30,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 29,
+        "target_id": 41,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 37,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 30,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 31,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 62,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 32,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 46,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 47,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 60,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 61,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 33,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 34,
+        "target_id": 61,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 39,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 73,
+        "strength": 1
+      },
+      {
+        "source_id": 35,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 36,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 37,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 39,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 49,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 38,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 39,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 79,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 41,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 67,
+        "strength": 1
+      },
+      {
+        "source_id": 40,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 59,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 45,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 41,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 43,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 50,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 42,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 63,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 43,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 57,
+        "strength": 1
+      },
+      {
+        "source_id": 44,
+        "target_id": 68,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 69,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 51,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 45,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 46,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 47,
+        "target_id": 56,
+        "strength": 1
+      },
+      {
+        "source_id": 47,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 48,
+        "target_id": 62,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 53,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 64,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 58,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 49,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 77,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 54,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 55,
+        "strength": 1
+      },
+      {
+        "source_id": 50,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 51,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 53,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 70,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 52,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 53,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 53,
+        "target_id": 93,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 54,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 83,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 55,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 56,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 66,
+        "strength": 1
+      },
+      {
+        "source_id": 58,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 59,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 60,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 61,
+        "target_id": 76,
+        "strength": 1
+      },
+      {
+        "source_id": 61,
+        "target_id": 71,
+        "strength": 1
+      },
+      {
+        "source_id": 61,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 62,
+        "target_id": 87,
+        "strength": 1
+      },
+      {
+        "source_id": 64,
+        "target_id": 65,
+        "strength": 1
+      },
+      {
+        "source_id": 65,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 66,
+        "target_id": 99,
+        "strength": 1
+      },
+      {
+        "source_id": 67,
+        "target_id": 85,
+        "strength": 1
+      },
+      {
+        "source_id": 67,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 69,
+        "target_id": 86,
+        "strength": 1
+      },
+      {
+        "source_id": 70,
+        "target_id": 84,
+        "strength": 1
+      },
+      {
+        "source_id": 70,
+        "target_id": 81,
+        "strength": 1
+      },
+      {
+        "source_id": 70,
+        "target_id": 78,
+        "strength": 1
+      },
+      {
+        "source_id": 70,
+        "target_id": 74,
+        "strength": 1
+      },
+      {
+        "source_id": 71,
+        "target_id": 72,
+        "strength": 1
+      },
+      {
+        "source_id": 71,
+        "target_id": 91,
+        "strength": 1
+      },
+      {
+        "source_id": 72,
+        "target_id": 95,
+        "strength": 1
+      },
+      {
+        "source_id": 73,
+        "target_id": 80,
+        "strength": 1
+      },
+      {
+        "source_id": 73,
+        "target_id": 94,
+        "strength": 1
+      },
+      {
+        "source_id": 74,
+        "target_id": 75,
+        "strength": 1
+      },
+      {
+        "source_id": 74,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 74,
+        "target_id": 97,
+        "strength": 1
+      },
+      {
+        "source_id": 75,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 75,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 77,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 78,
+        "target_id": 82,
+        "strength": 1
+      },
+      {
+        "source_id": 81,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 81,
+        "target_id": 92,
+        "strength": 1
+      },
+      {
+        "source_id": 82,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 82,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 88,
+        "strength": 1
+      },
+      {
+        "source_id": 83,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 88,
+        "target_id": 89,
+        "strength": 1
+      },
+      {
+        "source_id": 89,
+        "target_id": 90,
+        "strength": 1
+      },
+      {
+        "source_id": 90,
+        "target_id": 96,
+        "strength": 1
+      },
+      {
+        "source_id": 95,
+        "target_id": 100,
+        "strength": 1
+      },
+      {
+        "source_id": 97,
+        "target_id": 98,
+        "strength": 1
+      },
+      {
+        "source_id": 98,
+        "target_id": 100,
+        "strength": 1
+      }
+    ]
+  },
+  "options": {
+    "scale": 1.5,
+    "network": {
+      "normalization": {
+        "method": "lin/log",
+        "attributes": [
+          "weights.NodeSize"
+        ]
+      }
+    },
+    "visualization": {
+      "scale": 2.0,
+      "nodes": {
+        "size": {
+          "variation": 0.35,
+          "min": 4,
+          "max": 24
+        }
+      },
+      "labels": {
+        "size": {
+          "variation": 0.3,
+          "min": 10,
+          "max": 17
+        },
+        "fontSize": 14,
+        "maximumLabelLength": 120
+      }
+    }
+  }
+}
